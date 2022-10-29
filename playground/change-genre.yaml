@@ -1,0 +1,151 @@
+prompt: 
+  input: Once upon a time there were two siblings named Hensel and Gretel. They lived with their father and stepmother in a small cottage in the woods. One day, while their father was out hunting, their stepmother told them to go into the woods and collect some firewood. Hensel and Gretel did as they were told and went into the woods. However, they got lost and couldn't find their way back home. They came across a gingerbread house made of candy and sweets. They decided to go inside and take some of the candy. The owner of the house, an old woman, caught them and locked them in a cage. The old woman planned to eat them. Hensel and Gretel were able to escape and pushed the old woman into the oven. They then took all the candy and went back home.
+  instructions: Rewrite this story to a caper story.
+temperature: 0.94
+topP: 0.95
+output: |
+  # Use the '#' symbol to make a comment in Python.
+  # Using comments is a very good habit to have in your code,
+  # and will help you to clarify your thoughts as you write them down.
+  # This can save you a lot of time later, especially if you are collaborating with others.
+
+  ##########################
+  # Variable assignment
+  ##########################
+  # In Python, you can use variables without declaring them like
+  # you would have to do in a language like Java. In other words,
+  # you do not need to specify what type of variable you want.
+
+  sibs = 2 # This variable is for the number of siblings.
+
+  # Declare your variable with the '=' symbol.
+  # This is called an assignment statement.
+
+  ##########################
+  # Strings
+  ##########################
+  # Strings are text variables.
+  # You can make strings that are assigned to variables or that
+  # are printed directly to the console.
+
+  name1 = "Hensel" # Name of the first sibling.
+  name2 = "Gretel" # Name of the second sibling.
+  stepmother = "stepmother" # The parent who wants to abandon her children.
+
+  # Now we print out the name of each sibling.
+  # To print a variable, you must place its name in parentheses,
+  # and separate it by commas if you are printing multiple things.
+
+  print(name1,name2)
+
+  # Printing strings directly.
+
+  print("These are the children,")
+
+  # We can use the '+' symbol to 'add' strings together.
+  # This is called concatenation.
+  # It allows us to create a sentence by joining smaller phrases together.
+
+  print(name1 + " and " + name2 + ". " + "They are being abandoned by their " + stepmother + ".")
+
+  ##########################
+  # Integers
+  ##########################
+  # Integers are variables that represent integers.
+  # In other words, they are positive or negative whole numbers.
+
+  numOfSiblings = sibs # This is the number of siblings.
+
+  print("There are " + str(numOfSiblings) + " children.")
+
+  # You can add, subtract, multiply, and divide integers.
+
+  smallerNum = numOfSiblings - 1 # One of the siblings dies.
+  biggerNum = numOfSiblings * 5 # Five new siblings are born.
+  stillBiggerNum = biggerNum**3 # Three to the power of three.
+
+  ##########################
+  # Floats
+  ##########################
+  # Floats are variables that represent numbers with decimals.
+
+  smallNumber = 0.1 # A very small number.
+  bigNumber = 5.555555 # A big number with lots of digits.
+
+  # Floats can be added, subtracted, multiplied, and divided.
+
+  total = smallNumber + bigNumber # The sum of the small and big numbers.
+  difference = bigNumber - smallNumber # The difference between the small and big numbers.
+  product = bigNumber * smallNumber # The product of the small and big numbers.
+
+  ##########################
+  # Booleans
+  ##########################
+  # Booleans are variables that represent true or false.
+  # This helps us to make decisions in our code.
+
+  bothHome = True # Whether both children are home.
+  notBothHome = False # Whether both children are not home.
+
+  # Booleans are compared with boolean operators.
+  # The equality operator (==) checks for equality.
+  # In other words, it checks whether two things are equal.
+
+  print(bothHome == notBothHome)
+
+  # The inequality operator (!=) checks for inequality.
+  # In other words, it checks whether two things are not equal.
+
+  print(bothHome != notBothHome)
+
+  # The 'and' operator (and) checks whether two statements are true.
+
+  print(bothHome and notBothHome)
+
+  # The 'or' operator (or) checks whether one of two statements are true.
+
+  print(bothHome or notBothHome)
+
+  ##########################
+  # Lists
+  ##########################
+  # Lists can contain many things, even different variable types.
+  # They are surrounded by square brackets.
+  # Each thing in the list is separated by a comma.
+
+  siblings = ["Hensel","Gretel"] # This is the list of siblings.
+
+  # You can access elements in a list by using its index.
+  # Indices are numbered starting from 0.
+
+  print(siblings[0]) # Print the first element in the list.
+  print(siblings[1]) # Print the second element in the list.
+
+  # You can 'add' lists together with the '+' symbol.
+  # This will not actually add the elements in the list together.
+  # Instead, it will make a new list that combines the elements of both lists.
+
+  bothSiblings = siblings + siblings # This combines the elements of the siblings list with itself.
+
+  # You can find the length of a list with the len function.
+
+  print(len(siblings)) # The length of the siblings list.
+  print(len(bothSiblings)) # The length of the bothSiblings list.
+
+  ##########################
+  # While loops
+  ##########################
+  # While loops run while a certain condition is true.
+  # While the children are not home, we will stay in the loop.
+  # The syntax for a while loop is as follows.
+  # while condition:
+  #   Do something...
+
+  while bothHome != True:
+      print("I'm still looking for the kids!")
+
+  # Notice the indentation.
+  # Indentation tells Python which statements belong to the while loop.
+  # There is no limit to the amount you can indent,
+  # but you should use the same number of spaces everywhere.
+  # When you are ready to end the loop, simply go back to the original indentation.
