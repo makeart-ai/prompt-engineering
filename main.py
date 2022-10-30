@@ -32,8 +32,6 @@ class Prompt:
 
 
 def generate(promptFile):
-    if not setApiKey():
-        return
     with open(promptFile) as promptsRead:
         rawPrompts = yaml.safe_load(promptsRead)
         newPrompt = rawPrompts[-1]
@@ -46,16 +44,26 @@ def generate(promptFile):
     with open(promptFile, 'w') as promptsToWrite:
         yaml.dump(rawPrompts, promptsToWrite)
 
+def listEngines():
+    engines = openai.Engine.list()
+    engineNames = [engine.id for engine in engines.data]
+    print(engineNames)
+
 def parseArgs():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(dest="subcommand")
     parserNew = subparsers.add_parser("new", help="Create new prompt file")
     parserGen = subparsers.add_parser("gen", help="Generate new output from prompt")
+    parserListEngines = subparsers.add_parser("listEngines")
     parserGen.add_argument("promptFile")
 
     args = parser.parse_args()
+    if not setApiKey():
+        return
     if args.subcommand == "gen":
         generate(args.promptFile)
+    elif args.subcommand == "listEngines":
+        listEngines()
     else:
         print("TODO: finish arg parsing")
 
