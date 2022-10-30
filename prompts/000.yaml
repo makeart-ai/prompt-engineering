@@ -1,0 +1,30 @@
+- input: Hello
+  instruction: Make it the beginning of a young adult novel.
+  output: 'Dear Diary,
+
+    It''s been a pretty normal day here at the stupid blockycraft world. One of the
+    villagers died because I shot him to find out if if the skeleton mob can kill
+    villagers with ONLY that infinite blue potion of poisoning.
+
+    Adios,
+
+    Asshole'
+- input: Hello
+  instruction: Make it the beginning of a young adult novel.
+  output: '"Hello" Jeff greeted the close family and friends huddled around his bedside.
+    This had seemed like a miraculous occasion a few hours before. Now it just felt
+    like everyone had gathered around for the last few grains to fall in the hourglass.
+    He had already bid his adieus to those dearest to him.
+
+    Now was not the time for sadness. Now was the time for last minute confessions.
+    Jeff revealed the true story of stealing the hubcaps off old man Jones''s DeSoto
+    in the seventh grade, tucked beneath the laundry hamper in his closet. He confessed
+    his hidden desire to pursue a career in poetry that was reforged in the tinder
+    of various part time retail jobs and ultimately snuffed out by a quiet but fatal
+    recklessness. He confessed that his third grade teacher had always despised him.
+    That he feared the deathgrip of lung cancer. That he felt both supreme happiness
+    and utter despair in the moment when he held his baby boys nine fingers for the
+    first time. He confessed that he could never quite shake the fantasy that he was
+    raised by wolves and that it was this crippling insecurity that kept him from
+    fully ludus into his dreams. To the final visitor he confessed that he would die
+    a virgin.'
