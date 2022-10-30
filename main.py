@@ -15,7 +15,7 @@ def setApiKey():
 def main():
     if not setApiKey():
         return
-    completion = openai.Completion.create(engine="ada", prompt="Hello world")
+    completion = openai.Completion.create(engine="ada", prompt="Hello")
     print(completion.choices[0].text)
 
 
