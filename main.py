@@ -38,9 +38,12 @@ def generate(promptFile):
         if 'output' in newPrompt:
             newPrompt = copy.deepcopy(newPrompt)
             rawPrompts.append(newPrompt)
-        completion = openai.Completion.create(engine="ada", prompt=newPrompt["input"])
-        newPrompt['output'] = completion.choices[0].text
-        print(completion.choices[0].text)
+        if 'instruction' in newPrompt:
+            response = openai.Edit.create(engine='text-davinci-edit-001', input=newPrompt["input"], instruction=newPrompt["instruction"])
+        else:
+            response = openai.Completion.create(engine="ada", prompt=newPrompt["input"])
+        newPrompt['output'] = response.choices[0].text.strip()
+        print(newPrompt['output'])
     with open(promptFile, 'w') as promptsToWrite:
         yaml.dump(rawPrompts, promptsToWrite)
 
