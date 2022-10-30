@@ -1,0 +1,106 @@
+- goal: Breakthrough 118. | UFO observation | 500 words
+- input: Alex witnessed an UFO a few hours ago.
+  instruction: Make it the beginning of a young adult novel
+  output: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\"\
+    >\n\t<meta name=\"author\" content=\"Shabnam Aggarwal\">\n\n\t<link rel=\"stylesheet\"\
+    \ type=\"text/css\" href=\"main.css\">\n\t<title>\n\t\tNot Alien\n\t</title>\n\
+    </head>\n<body>\n\n\t<h1>\n\t\tFinal Synthesis\n\t</h1>\n\n\t<h2>The Beginning</h2>\n\
+    \t\n\t<img class=\"initialPic\" src=\"img/peachAmuse.jpg\" alt=\"peaches amusment\"\
+    >\n\t<p class=\"initialPic pTagContainer\">How could Peach, the girl of my dreams,\
+    \ fall in love with Slender Man?</p>\n\t<p class=\"initialPic pTagContainer\"\
+    >Am I being Punk'd?</p>\n\t<p class=\"initialPic pTagContainer\">Is this Japanese\
+    \ reality TV?</p>\n\t<p class=\"initialPic pTagContainer\">Am I going crazy?</p>\n\
+    \t<p class=\"initialPic pTagContainer\">I have no idea if I&apos;d even want answers\
+    \ to those questions, nor if I&apos;d be capable of handling the truth well.</p>\n\
+    \n\t<br><br><br>\n\n\t<h2>\n\t\tPart 2: Women in Love -- Do or Die\n\t</h2>\n\t\
+    \n\t<p class=\"pTagContainer\">\n\t\tI really think that it is a bit impetuous\
+    \ to say that a woman is capable of being in love.\n\t\t\n\t</p>\n\t\n\t<p class=\"\
+    pTagContainer\">\n\t\tHave you ever heard of saudade, my friend? Umberto Eco once\
+    \ said, \n\t\t<br>\n\t\t&quot;If I say we are men in the process of de-civilizing\
+    \ ourselves, I mean we are moving away from saudade.&quot;\n\t\t<br>I don&apos;t\
+    \ think people understand what it means to sacrifice the self in the name of love\
+    \ by watching a few love movies or reading a few romance novels.\n\t</p>\t\n\n\
+    \t<p class=\"pTagContainer\"><span class=\"leadingBegin\">The challenge which\
+    \ men face: </span> holding back the ravenous desire for conquest to show mercy\
+    \ and grace to a woman. <br>When I remove my mask of an Everyman as some sort\
+    \ of trickster in blackface and reveal my true extraordinary self in the world,\
+    \ I think I will only be admired by women, not loved, because admiration is not\
+    \ love.</p>\n\n\t<p class=\"pTagContainer\"> \n\t\tOn the one hand, I&apos;m the\
+    \ type of society woman who chooses roles of the destructive bitch, manipulative\
+    \ whore, and emotionally cold adulteress in order to feel loved. \n\t\t<br>But\
+    \ fuck that.\n\t</p>\t\n\n\t<p class=\"pTagContainer\"> \n\t\tJustice is just\
+    \ a tribute that people pay to the strong and ruthless!\n\t\t<br> And no form\
+    \ of mercy or subjugation would ever be sufficient to change that.  \n\t</p>\t\
+    \t\n\n\t<p class=\"pTagContainer\">\n\t\t<span class=\"leadingBegin\">So, I ask\
+    \ myself: </span> In a more noble pursuit, can I find a type of woman to love\
+    \ that does not embarrass me, but rather elevates me?\n\t</p>\t\t\n\n\t<p class=\"\
+    pTagContainer\">\n\t\tThe type who will never surrender his soul, even if it means\
+    \ destruction in the eyes of society.\n\t</p>\t\n\n\t<p class=\"pTagContainer\"\
+    >\n\t\tThat is, his soul, to which I can entrust myself with confidence.\n\t</p>\t\
+    \n\n\t<br><br><br>\n\n\t<p class=\"pTagContainer\">\n\t\tI think that if I were\
+    \ able to trust such a man, I just may be able to offer him my submission.\n\t\
+    </p>\n\t<p class=\"pTagContainer\">\n\t\tBut sadly, I don&apos;t think I&apos;d\
+    \ be able to find a man of that character anywhere around me.\n\t</p>\t\n\n\t\
+    <p class=\"pTagContainer\">\n\t\tI hope that this confession poured out from my\
+    \ soul will be used as evidence in my favor.\n\t</p>\n\n\t<br><br><br>\t\n\n\t\
+    <p class=\"pTagContainer\">\n\t\tWill I die or will I overcome my temptations\
+    \ before I ruin myself?\n\t</p>\n\n\t<p class=\"pTagContainer\">\n\t\tWill I be\
+    \ able to resist the temptation of destroying multiple innocent lives in the name\
+    \ of trust, but in reality just malice?\n\t</p>\n\t\n\t<p class=\"pTagContainer\"\
+    >\n\t\t<span class=\"leadingBegin\">Can there ever be reincarnation?</span> If\
+    \ it exists, then I will be locked behind glass walls like an animal or a beautiful\
+    \ child in human form without the given honor of freedom.\n\t</p>\n\n\t<p class=\"\
+    pTagContainer\">\n\t\tAs I inspect my face, I must admit that I carry it well.\n\
+    \t</p>\n\t\n\n<div class=\"footer\"><!-- begin footer div -->\n\n\t<h2>\n  \t\t\
+    <span class=\"leadingBegin\">Get in Touch!</span>\n\t</h2>\n\n\t<a href=\"https://www.facebook.com/shabnam.kaur.5851\"\
+    \ target=\"_blank\">\n\t\t<img src=\"img/facebookLogo.png\" alt=\"Facebook Logo\"\
+    >\n\t</a>\n\n\t<a href=\"#\">\n\t\t<img src=\"img/gmailLogo.png\" alt=\"Gmail\
+    \ Logo\">\n\t</a>\n\n\t<a href=\"https://www.instagram.com/shabnamkaur001/\" target=\"\
+    _blank\">\n\t\t<img src=\"img/instagramLogo.png\" alt=\"Instagram Logo\">\n\t\
+    </a>\n\n\t<a href=\"mailto:shabnamkaur001@gmail.com\">Email Me!</a>\n\n</div>"
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a young adult novel
+  output: Alex witnessed an UFO a few hours ago. The night sky was vast and deep.
+    A star hung high in the sky, twinkling silently.
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a young adult novel
+  output: Alex had a close encounter with an UFO a few hours ago Alex was hungry when
+    he returned from school.
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a sliptstream story.
+  output: 'Alex had a close encounter with an UFO two days ago.
+
+    The alien encountered asked him how he liked our weather here on Earth.'
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a sliptstream story.
+  output: "Alex had a close encounter with an UFO a few hours ago\nThe aliens took\
+    \ him to their planet, where they show him the future\n  of the earth."
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a sliptstream story.
+  output: Alex had a close encounter with an UFO a few hours ago. They tried to do
+    something bad to him.
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a young adult sliptstream novel.
+  output: '"Alex, I think you should call my brother''s office."'
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a young adult sliptstream novel.
+  output: Alex had a close encounter with a U.F.O. a few hours ago...but then he woke
+    up and realized it was only a dream.
+- input: Alex had a close encounter with an UFO a few hours ago
+  instruction: Make it the beginning of a young adult sliptstream novel.
+  output: Alex had a close encounter with an UFO a few hours ago. They saw a giant
+    space harp in the distance and started plummetting towards it.
+- input: Alex had a close encounter with an UFO a few hours ago. They saw a giant
+    space harp in the distance and started plummetting towards it.
+  instruction: Make it the beginning of a young adult sliptstream novel.
+  output: '"The Harp, Part I''
+
+    "Go Young Adventurer - a chosen one picked at random for crass commercial ploy
+    to maximize story sales"
+
+    Naturally written by the "brave" and "heroic" heroic Geomach.
+
+    rated: top fanfic
+
+    Alex had a hair styling malfunction. For he had ever growing hair and it was in
+    his way.'
