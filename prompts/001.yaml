@@ -1,106 +1,428 @@
-- goal: Breakthrough 118. | UFO observation | 500 words
-- input: Alex witnessed an UFO a few hours ago.
-  instruction: Make it the beginning of a young adult novel
-  output: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\"\
-    >\n\t<meta name=\"author\" content=\"Shabnam Aggarwal\">\n\n\t<link rel=\"stylesheet\"\
-    \ type=\"text/css\" href=\"main.css\">\n\t<title>\n\t\tNot Alien\n\t</title>\n\
-    </head>\n<body>\n\n\t<h1>\n\t\tFinal Synthesis\n\t</h1>\n\n\t<h2>The Beginning</h2>\n\
-    \t\n\t<img class=\"initialPic\" src=\"img/peachAmuse.jpg\" alt=\"peaches amusment\"\
-    >\n\t<p class=\"initialPic pTagContainer\">How could Peach, the girl of my dreams,\
-    \ fall in love with Slender Man?</p>\n\t<p class=\"initialPic pTagContainer\"\
-    >Am I being Punk'd?</p>\n\t<p class=\"initialPic pTagContainer\">Is this Japanese\
-    \ reality TV?</p>\n\t<p class=\"initialPic pTagContainer\">Am I going crazy?</p>\n\
-    \t<p class=\"initialPic pTagContainer\">I have no idea if I&apos;d even want answers\
-    \ to those questions, nor if I&apos;d be capable of handling the truth well.</p>\n\
-    \n\t<br><br><br>\n\n\t<h2>\n\t\tPart 2: Women in Love -- Do or Die\n\t</h2>\n\t\
-    \n\t<p class=\"pTagContainer\">\n\t\tI really think that it is a bit impetuous\
-    \ to say that a woman is capable of being in love.\n\t\t\n\t</p>\n\t\n\t<p class=\"\
-    pTagContainer\">\n\t\tHave you ever heard of saudade, my friend? Umberto Eco once\
-    \ said, \n\t\t<br>\n\t\t&quot;If I say we are men in the process of de-civilizing\
-    \ ourselves, I mean we are moving away from saudade.&quot;\n\t\t<br>I don&apos;t\
-    \ think people understand what it means to sacrifice the self in the name of love\
-    \ by watching a few love movies or reading a few romance novels.\n\t</p>\t\n\n\
-    \t<p class=\"pTagContainer\"><span class=\"leadingBegin\">The challenge which\
-    \ men face: </span> holding back the ravenous desire for conquest to show mercy\
-    \ and grace to a woman. <br>When I remove my mask of an Everyman as some sort\
-    \ of trickster in blackface and reveal my true extraordinary self in the world,\
-    \ I think I will only be admired by women, not loved, because admiration is not\
-    \ love.</p>\n\n\t<p class=\"pTagContainer\"> \n\t\tOn the one hand, I&apos;m the\
-    \ type of society woman who chooses roles of the destructive bitch, manipulative\
-    \ whore, and emotionally cold adulteress in order to feel loved. \n\t\t<br>But\
-    \ fuck that.\n\t</p>\t\n\n\t<p class=\"pTagContainer\"> \n\t\tJustice is just\
-    \ a tribute that people pay to the strong and ruthless!\n\t\t<br> And no form\
-    \ of mercy or subjugation would ever be sufficient to change that.  \n\t</p>\t\
-    \t\n\n\t<p class=\"pTagContainer\">\n\t\t<span class=\"leadingBegin\">So, I ask\
-    \ myself: </span> In a more noble pursuit, can I find a type of woman to love\
-    \ that does not embarrass me, but rather elevates me?\n\t</p>\t\t\n\n\t<p class=\"\
-    pTagContainer\">\n\t\tThe type who will never surrender his soul, even if it means\
-    \ destruction in the eyes of society.\n\t</p>\t\n\n\t<p class=\"pTagContainer\"\
-    >\n\t\tThat is, his soul, to which I can entrust myself with confidence.\n\t</p>\t\
-    \n\n\t<br><br><br>\n\n\t<p class=\"pTagContainer\">\n\t\tI think that if I were\
-    \ able to trust such a man, I just may be able to offer him my submission.\n\t\
-    </p>\n\t<p class=\"pTagContainer\">\n\t\tBut sadly, I don&apos;t think I&apos;d\
-    \ be able to find a man of that character anywhere around me.\n\t</p>\t\n\n\t\
-    <p class=\"pTagContainer\">\n\t\tI hope that this confession poured out from my\
-    \ soul will be used as evidence in my favor.\n\t</p>\n\n\t<br><br><br>\t\n\n\t\
-    <p class=\"pTagContainer\">\n\t\tWill I die or will I overcome my temptations\
-    \ before I ruin myself?\n\t</p>\n\n\t<p class=\"pTagContainer\">\n\t\tWill I be\
-    \ able to resist the temptation of destroying multiple innocent lives in the name\
-    \ of trust, but in reality just malice?\n\t</p>\n\t\n\t<p class=\"pTagContainer\"\
-    >\n\t\t<span class=\"leadingBegin\">Can there ever be reincarnation?</span> If\
-    \ it exists, then I will be locked behind glass walls like an animal or a beautiful\
-    \ child in human form without the given honor of freedom.\n\t</p>\n\n\t<p class=\"\
-    pTagContainer\">\n\t\tAs I inspect my face, I must admit that I carry it well.\n\
-    \t</p>\n\t\n\n<div class=\"footer\"><!-- begin footer div -->\n\n\t<h2>\n  \t\t\
-    <span class=\"leadingBegin\">Get in Touch!</span>\n\t</h2>\n\n\t<a href=\"https://www.facebook.com/shabnam.kaur.5851\"\
-    \ target=\"_blank\">\n\t\t<img src=\"img/facebookLogo.png\" alt=\"Facebook Logo\"\
-    >\n\t</a>\n\n\t<a href=\"#\">\n\t\t<img src=\"img/gmailLogo.png\" alt=\"Gmail\
-    \ Logo\">\n\t</a>\n\n\t<a href=\"https://www.instagram.com/shabnamkaur001/\" target=\"\
-    _blank\">\n\t\t<img src=\"img/instagramLogo.png\" alt=\"Instagram Logo\">\n\t\
-    </a>\n\n\t<a href=\"mailto:shabnamkaur001@gmail.com\">Email Me!</a>\n\n</div>"
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a young adult novel
-  output: Alex witnessed an UFO a few hours ago. The night sky was vast and deep.
-    A star hung high in the sky, twinkling silently.
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a young adult novel
-  output: Alex had a close encounter with an UFO a few hours ago Alex was hungry when
-    he returned from school.
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a sliptstream story.
-  output: 'Alex had a close encounter with an UFO two days ago.
+- "goal": |-
+    Breakthrough 118. | UFO observation | 500 words
+- "input": |-
+    Alex witnessed an UFO a few hours ago.
+  "instruction": |-
+    Make it the beginning of a young adult novel
+  "output": |-
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    	<meta charset="UTF-8">
+    	<meta name="author" content="Shabnam Aggarwal">
 
-    The alien encountered asked him how he liked our weather here on Earth.'
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a sliptstream story.
-  output: "Alex had a close encounter with an UFO a few hours ago\nThe aliens took\
-    \ him to their planet, where they show him the future\n  of the earth."
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a sliptstream story.
-  output: Alex had a close encounter with an UFO a few hours ago. They tried to do
-    something bad to him.
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a young adult sliptstream novel.
-  output: '"Alex, I think you should call my brother''s office."'
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a young adult sliptstream novel.
-  output: Alex had a close encounter with a U.F.O. a few hours ago...but then he woke
-    up and realized it was only a dream.
-- input: Alex had a close encounter with an UFO a few hours ago
-  instruction: Make it the beginning of a young adult sliptstream novel.
-  output: Alex had a close encounter with an UFO a few hours ago. They saw a giant
-    space harp in the distance and started plummetting towards it.
-- input: Alex had a close encounter with an UFO a few hours ago. They saw a giant
-    space harp in the distance and started plummetting towards it.
-  instruction: Make it the beginning of a young adult sliptstream novel.
-  output: '"The Harp, Part I''
+    	<link rel="stylesheet" type="text/css" href="main.css">
+    	<title>
+    		Not Alien
+    	</title>
+    </head>
+    <body>
 
-    "Go Young Adventurer - a chosen one picked at random for crass commercial ploy
-    to maximize story sales"
+    	<h1>
+    		Final Synthesis
+    	</h1>
 
+    	<h2>The Beginning</h2>
+    	
+    	<img class="initialPic" src="img/peachAmuse.jpg" alt="peaches amusment">
+    	<p class="initialPic pTagContainer">How could Peach, the girl of my dreams, fall in love with Slender Man?</p>
+    	<p class="initialPic pTagContainer">Am I being Punk'd?</p>
+    	<p class="initialPic pTagContainer">Is this Japanese reality TV?</p>
+    	<p class="initialPic pTagContainer">Am I going crazy?</p>
+    	<p class="initialPic pTagContainer">I have no idea if I&apos;d even want answers to those questions, nor if I&apos;d be capable of handling the truth well.</p>
+
+    	<br><br><br>
+
+    	<h2>
+    		Part 2: Women in Love -- Do or Die
+    	</h2>
+    	
+    	<p class="pTagContainer">
+    		I really think that it is a bit impetuous to say that a woman is capable of being in love.
+    		
+    	</p>
+    	
+    	<p class="pTagContainer">
+    		Have you ever heard of saudade, my friend? Umberto Eco once said, 
+    		<br>
+    		&quot;If I say we are men in the process of de-civilizing ourselves, I mean we are moving away from saudade.&quot;
+    		<br>I don&apos;t think people understand what it means to sacrifice the self in the name of love by watching a few love movies or reading a few romance novels.
+    	</p>	
+
+    	<p class="pTagContainer"><span class="leadingBegin">The challenge which men face: </span> holding back the ravenous desire for conquest to show mercy and grace to a woman. <br>When I remove my mask of an Everyman as some sort of trickster in blackface and reveal my true extraordinary self in the world, I think I will only be admired by women, not loved, because admiration is not love.</p>
+
+    	<p class="pTagContainer"> 
+    		On the one hand, I&apos;m the type of society woman who chooses roles of the destructive bitch, manipulative whore, and emotionally cold adulteress in order to feel loved. 
+    		<br>But fuck that.
+    	</p>	
+
+    	<p class="pTagContainer"> 
+    		Justice is just a tribute that people pay to the strong and ruthless!
+    		<br> And no form of mercy or subjugation would ever be sufficient to change that.  
+    	</p>		
+
+    	<p class="pTagContainer">
+    		<span class="leadingBegin">So, I ask myself: </span> In a more noble pursuit, can I find a type of woman to love that does not embarrass me, but rather elevates me?
+    	</p>		
+
+    	<p class="pTagContainer">
+    		The type who will never surrender his soul, even if it means destruction in the eyes of society.
+    	</p>	
+
+    	<p class="pTagContainer">
+    		That is, his soul, to which I can entrust myself with confidence.
+    	</p>	
+
+    	<br><br><br>
+
+    	<p class="pTagContainer">
+    		I think that if I were able to trust such a man, I just may be able to offer him my submission.
+    	</p>
+    	<p class="pTagContainer">
+    		But sadly, I don&apos;t think I&apos;d be able to find a man of that character anywhere around me.
+    	</p>	
+
+    	<p class="pTagContainer">
+    		I hope that this confession poured out from my soul will be used as evidence in my favor.
+    	</p>
+
+    	<br><br><br>	
+
+    	<p class="pTagContainer">
+    		Will I die or will I overcome my temptations before I ruin myself?
+    	</p>
+
+    	<p class="pTagContainer">
+    		Will I be able to resist the temptation of destroying multiple innocent lives in the name of trust, but in reality just malice?
+    	</p>
+    	
+    	<p class="pTagContainer">
+    		<span class="leadingBegin">Can there ever be reincarnation?</span> If it exists, then I will be locked behind glass walls like an animal or a beautiful child in human form without the given honor of freedom.
+    	</p>
+
+    	<p class="pTagContainer">
+    		As I inspect my face, I must admit that I carry it well.
+    	</p>
+    	
+
+    <div class="footer"><!-- begin footer div -->
+
+    	<h2>
+      		<span class="leadingBegin">Get in Touch!</span>
+    	</h2>
+
+    	<a href="https://www.facebook.com/shabnam.kaur.5851" target="_blank">
+    		<img src="img/facebookLogo.png" alt="Facebook Logo">
+    	</a>
+
+    	<a href="#">
+    		<img src="img/gmailLogo.png" alt="Gmail Logo">
+    	</a>
+
+    	<a href="https://www.instagram.com/shabnamkaur001/" target="_blank">
+    		<img src="img/instagramLogo.png" alt="Instagram Logo">
+    	</a>
+
+    	<a href="mailto:shabnamkaur001@gmail.com">Email Me!</a>
+
+    </div>
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a young adult novel
+  "output": |-
+    Alex witnessed an UFO a few hours ago. The night sky was vast and deep. A star hung high in the sky, twinkling silently.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a young adult novel
+  "output": |-
+    Alex had a close encounter with an UFO a few hours ago Alex was hungry when he returned from school.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a sliptstream story.
+  "output": |-
+    Alex had a close encounter with an UFO two days ago.
+    The alien encountered asked him how he liked our weather here on Earth.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a sliptstream story.
+  "output": |-
+    Alex had a close encounter with an UFO a few hours ago
+    The aliens took him to their planet, where they show him the future
+      of the earth.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a sliptstream story.
+  "output": |-
+    Alex had a close encounter with an UFO a few hours ago. They tried to do something bad to him.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a young adult sliptstream novel.
+  "output": |-
+    "Alex, I think you should call my brother's office."
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a young adult sliptstream novel.
+  "output": |-
+    Alex had a close encounter with a U.F.O. a few hours ago...but then he woke up and realized it was only a dream.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago
+  "instruction": |-
+    Make it the beginning of a young adult sliptstream novel.
+  "output": |-
+    Alex had a close encounter with an UFO a few hours ago. They saw a giant space harp in the distance and started plummetting towards it.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago. They saw a giant space harp in the distance and started plummetting towards it.
+  "instruction": |-
+    Make it the beginning of a young adult sliptstream novel.
+  "output": |
+    "The Harp, Part I''
+    "Go Young Adventurer - a chosen one picked at random for crass commercial ploy to maximize story sales"
     Naturally written by the "brave" and "heroic" heroic Geomach.
-
     rated: top fanfic
+    Alex had a hair styling malfunction. For he had ever growing hair and it was in his way.'
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Robert Fulghum
+  "output": |
+    Alex had a close encounter with an UFO a few hours ago.  It was a terribly windy.  The wind was woke me up. I looked out across the landscape, everything all crumpled up in a big storm. Now, I have a nice little house, a log house, set in the valley. Two stories, wonderful view. Very plain, very simple. A kitchen and bath downstairs and two bedrooms upstairs, and a big fireplace. That's it. A mile from me there's a little village. I'm close to both the village and the river. Around the house, decks and a little garden, big oaks, the ground oak trees. In the distance, the lake. It's quite a nice situation. Those  around me know me as a man who lives alone and tends to his own business. I'm a conventional man, they say. conservative, without vices of
+    Note. There's nothing particularly dramatic to steal. I don't expect to ever get killed. No dramatic disasters.  I mention this because I had been out in the storm and came back home. I was busy putting away tools and I heard the front entry door open and close.  It was the rain because all the windows and the door was opened. And I was busy trying to close all the doors and shut the windows when I heard something in the living room. I turned around and there was something in the house, in the entrance to the bedroom.  It was a woman.  I didn't know her.  I thought it was something the storm had driven in. I've never seen anything like that before I have no idea where she came from. She was small person and she was radically deformed.  She was naked and wet, the skin all rough and twisted, badly scarred over some parts of the body. Perhaps it was the ugliness of her, me reflex reaction. She was shrieked.  I just moved away. I'm not unnatural.
+    I'm not unfeeling.  But this was beyond me. I pay and I went into stairway and closed on a doorway.  But the thing made a sound, sort a cry, and it scared me. It wasn't the noise but her cry that was most startling sudden. I was afraid, because I don't know what it is. I just left my post and ran downstairs. The wine cellar was sort a place where I can wait.  So I was down in the wine cellar and I was sitting on the floor, shook and waiting for something to happen.  Scared. I don't know what I was expecting. Maybe I thought she'd come down, some big horrible giant animal would come down and mask the whole house and maybe eat me, never sure, never knowing. Just waiting. It was very cold in the cellar and I don't have any clothes. I was cold. I remember the pangs of hunger and very conscious that I'll be need to go to the bathroom soon.  Thinking they're small things compared to what could be happening.  I'm waiting there, in the dark.  For nothing.  After a while, everything became very quiet. One can get so ice and afraid, so hungry and desperate, slowly becoming irrational that it's quite some time after nothing happens before you begin to realize what is, in fact, happening: nothing.  I mean, this is unheard of. A strange, sick human woman walks in under the gate, walks into the middle of a storm, looks at me, runs upstairs, enters one of the bedrooms, shuts the door and wait while the place is getting destroyed. It was very logical thing to do.  After all this, I came back to the wine cellar and discovered that a bottle of an expensive gold-colored Chardonnay. I knew this wine had been there a long time, I should have wondered what it was of a very curious substance.  I should have remembered that was magic.  That was a happy fact.  I touch my lips to the magic wine and I felt a strange happiness. The dark cellar fade faded. The fearful possibilities fled. I felt well. I thought, why am I here? I have to keep waiting. Here I have a bottle of the best California gold-colored wine.  As waiting for me alone.  So let them wait, whatever it is upstairs. I started my lunch. The thought of hearing someone coming in to the cellar was seem appealing now.  It would have been to share the wine, but maybe that person would have a few peanuts to share.  I took some time to sip the wine, thinking and considering diferent problem.
+    What is it? A monster? An animal? Who or what is it? I put aside the questions.
+    I was content and enjoyed by just enjoyment of drinking, not drinking consciously.  Then I put up my head. Something had change.  I couldn't here the rain. It was so dark outside I couldn't see the mountains.  But the rain has stop. For the first time in two weeks, I could feel wind and warmth. The same, strange happiness is threatening me, although everything else around us has remained the same.  No, there was one thing different. I heard birds singing. I just couldn't believe it. I thought that snow had melt, flowers are growing. The who woods lies in spring. The rain still falls and the storm is over.  I am amusing with my bottle of the best California gold-colored wine, just looking the wall of my wine cellar.  I have found a bottle of win and drank it, and I still have some for the second time. It's delicious wine and of a risky delicious. Everything's not bad as seems.  I have a half-bottle of the best Californian gold-colored wine remaining, so I think I'll sit here for a while again. I might cry a few tears but will enjoy my sorrow, the sorrows are the most powerful and instructive sadness, full of the reverberation of years of sighing, there is wisdom in them, it is good to be wise, it is good to be cynical, it is good to know that the tribulations are powerful, it is good to suffer, it is good to laugh, it is good to look at the sky, it is good to work, it is good to sleep, it is good to hope, good to hope, good to hope.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Alessandro Baricco.
+  "output": |-
+    Alex has not a story. No, Alex is not death. Alex, call Fiona.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Alessandro Baricco.
+  "output": |-
+    My name is Alexandra Verar Kerkez. I wirte my first script when I was in collage. But still tutor me to improve my writting.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Victor Pelevin
+  "output": |
+    Sasha was strolling around the forest which was not unlike the Supreme Court of the United States. He looked around for any signs of civilization to no avail. Last time he had lunch with his friends, it was as if time had stopped. Just when despair was about to engulf him, he saw a dim light. He tried to swim upstream toward the hopes to get to the bright light, but lazy fish was not willing to run with the current and was doing some water walk. Sasha did not know how to call them, as at that moment he had some issues thinking straight, so he decided to label them as lizards. Somewhere in the distance he could hear a voice. Which seemed familiar. "Sukina!" - he said to himself before realizing that someone was swearing. Because he was hungry, and because it was easy to catch slow fish, he decided to do it again. The fish might have been fast, but it was lazy, so it did not jump up high enough and fell down into the "pit".
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Victor Pelevin
+  "output": |-
+    Alex had a close encounter with an UFO a few hours ago.
 
-    Alex had a hair styling malfunction. For he had ever growing hair and it was in
-    his way.'
+
+    Into the late night, while Alex strolling in the Land of gaunt oneiric
+    Wakes from which souls on their way escape to run through confralescent Light
+    which led them to lose its ever growing dominance that touched the entire
+    Everglades, with its tropical trees hiding the suspicious glowing eyes watching
+    the interpid drunken adventurer running through the yellowish white sand, which
+    shimmers in bright turqoise spectrums, it looks like sand is burning in the
+    sight of his eyes merged with each other, borderless, out of focus... seen in
+    the haze of the merciest vibrations of light waves meeting their ends far far
+    away from the source they they emerge....
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Victor Pelevin
+  "output": |-
+    Alex had a close encounter with a real UDOY a few hours ago...
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Victor Pelevin
+  "output": |-
+    Alex had a close encounter with an UFO a few hours ago.
+
+    One from the command line, 
+    the other from the RStudio IDE.
+
+    ## first be sure to 
+
+    ```{r}
+    setwd('E:\\Users\\AlexC\\Desktop\\statistics_math_computing_coding\\Alex\\intro-2019-11-13\\VladM\\victor_alex_confusion')
+    # setwd('E:\\Users\\Alex\\Dropbox\\statistics_math_computing_coding\\Alex\\intro-2019-11-13\\VladM\\victor_alex_confusion')
+    # setwd('E:/Users/AlexC/Desktop/statistics_math_computing_coding/Alex/intro-2019-11-13/VladM/victor_alex_confusion')
+
+    system('git pull')
+
+    system('git checkout rstudio')
+
+    system('git branch -D victor')
+
+    setwd('..')
+
+    system('rmdir /Q /S victor_alex_confusion')
+    ```
+
+
+    ## For easier memorization and logic, your branch names should start with your first name, followed by an underscore, and then a one or two word summary of what your branch contains
+
+
+    ## Now remember how to do this from the command line
+
+    ## observe the original branching from master
+
+    ```{git}
+    git branch rstudio
+    git branch -a
+    git checkout rstudio
+    git status
+    ```
+
+    ## now we recreate it from scratch, just for good measure
+
+    ```{git}
+    git branch -D rstudio
+    git branch -a
+    git branch rstudio
+    git branch -a
+    git checkout rstudio
+    git status
+    git checkout master
+    git branch -a
+    git branch -m rstudio alex_rstudio
+    git branch -a
+    ```
+
+    ```{anything else?}
+    ```
+
+    ## Now we want separate branches for Victor and Alex
+
+    ```{r}
+    system('git branch -D alex_rstudio')
+    system('git branch -D master')
+    system('git branch -a')
+    ```
+
+    ```{git}
+    git branch victor
+    git branch -a
+    git branch alex
+    git branch -a
+    ```
+
+    ```{r}
+    system('git push origin --delete victor')
+    system('git push origin --delete alex')
+    system('git branch -a')
+    ```
+
+    ```{git}
+    git checkout victor
+    git push
+    git status
+    git pull
+    git checkout alex
+    git push
+    git status
+    git pull
+    ```
+
+    ## now we wipe the slate clean, and recreate it totally different
+
+    ```{r}
+    system('git branch -D victor')
+    system('git branch -D alex')
+    system('git branch -a')
+    ```
+
+    ## now we wipe the slate clean, and recreate it totally different
+
+    ```{r}
+    system('git branch -D victor')
+    system('git branch -D alex')
+    system('git branch -a')
+    ```
+
+    ## yep, seems that the push --delete was needed for the branch to disappear from GitHub web
+
+    ## probably good to just follow directions - delete the remote master and create a fresh new repo that's totally different, instead of creating branches and then deleting them, altering them and adjusting them
+
+    ## I will pull the chain and try it out
+
+    ```{git}
+    git checkout -b alex
+    git push --set-upstream origin alex
+    git status
+    git checkout -b victor
+    git push
+    git status
+    git checkout -b victor
+    git push -u origin victor
+    ```
+
+    ## so I'd better clean this stuff up
+
+    ## do it the way the tutorial directs
+
+    ## first delete the master
+
+    ```{git}
+    git branch -D alex
+
+    git branch -D victor
+
+    git checkout -b alex
+
+    git push --set-upstream origin alex
+
+    git status
+
+    git checkout -b victor
+
+    git push
+
+    git status
+
+    git checkout -b victor
+
+    git push -u origin victor
+    ```
+
+    ## what a pain in the ass - you can't work with these remotes if they aren't visible on the web
+
+    ## rewrite it more in the voice of alex, but try to bring more humor to the fracas that usually happens wrt git and github
+
+    ## force it with -f, less aggresively get the latest
+
+    ```{git}
+    # force it with -f, less aggresively get the latest
+    git checkout alex
+
+    git push -f
+
+    git pull -f AlexC/victor_alex_confusion
+    ```
+
+    ```{r}
+    system('git branch -D alex')
+    ```
+
+    ```{git}
+    git status
+    git checkout -b alex
+    git push --set-upstream origin alex
+    git status
+    git checkout -b victor
+    git push
+    git status
+    git checkout -b victor
+    git push -u origin victor
+    ```
+
+    ```{r}
+    system('rm -rf victor_alex_confusion')
+    ```

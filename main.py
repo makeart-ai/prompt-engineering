@@ -2,10 +2,12 @@ import argparse
 import copy
 import os
 import openai
-import yaml
+import ruamel.yaml as yaml
 
 DEFAULT_ENGINE_EDIT = 'text-davinci-edit-001'
 DEFAULT_ENGINE_COMPLETION = 'text-davinci-002'
+
+yaml.allow_unicode = True
 
 def setApiKey():
     try:
@@ -34,7 +36,7 @@ def generate(promptFile):
         newPrompt['output'] = response.choices[0].text.strip()
         print(newPrompt['output'])
     with open(promptFile, 'w') as promptsToWrite:
-        yaml.dump(rawPrompts, promptsToWrite)
+        yaml.dump(rawPrompts, promptsToWrite, default_style="|")
 
 def listEngines():
     engines = openai.Engine.list()
