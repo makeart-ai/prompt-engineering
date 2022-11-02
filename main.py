@@ -8,6 +8,7 @@ DEFAULT_ENGINE_EDIT = 'text-davinci-edit-001'
 DEFAULT_ENGINE_COMPLETION = 'text-davinci-002'
 
 yaml.allow_unicode = True
+yaml.width = 80
 
 def setApiKey():
     try:
@@ -29,10 +30,10 @@ def generate(promptFile):
             rawPrompts.append(newPrompt)
         if 'instruction' in newPrompt:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_EDIT)
-            response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"])
+            response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=0.94)
         else:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_COMPLETION)
-            response = openai.Completion.create(engine=engine, prompt=newPrompt["input"])
+            response = openai.Completion.create(engine=engine, prompt=newPrompt["input"], temperature=0.94, max_tokens=256)
         newPrompt['output'] = response.choices[0].text.strip()
         print(newPrompt['output'])
     with open(promptFile, 'w') as promptsToWrite:

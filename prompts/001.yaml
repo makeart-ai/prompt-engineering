@@ -426,3 +426,535 @@
     ```{r}
     system('rm -rf victor_alex_confusion')
     ```
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Victor Pelevin
+  "output": |-
+    There was once an programmer.
+    He wanted to be happy, just like any other programmer.
+    However, something was wrong.
+    So he carried out an indefinite ammount of iterations.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Vladimir Nabokov
+  "output": |-
+    As Alex had a close encounter with an UFO a few hours ago, Alex blinked slowly, slowly.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Vladimir Nabokov
+  "output": |-
+    I had a close encounter with an UFO a few hours ago.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Vladimir Nabokov
+  "output": |-
+    I.
+
+    There are several hairs that are growing on my bald head. One of them is getting a bit fat. I am wondering if it is a miniature hamster.
+
+    II.
+
+    I was travelling through The Netherlands the other day. I mean. So I was, like.
+
+    Give me your damn hamster and I'll set you free.
+
+    III.
+
+    Our number four let us down today. He had an outlet of self-doubt that has occurred in his mind.
+
+    IV.
+
+    I am imagining a new type of decorative chandelier that would be made of hamsters.
+
+    V.
+
+    The only thing I can think of is tiny hamsters. Tiny hamsters. Tiny hamsters.
+
+    I have noticed that the only thing I can think of are hamsters.
+
+    Hamsters.
+
+    SO I have noticed that. They come in all sorts of shapes and sizes. the smaller ones are often quite talkative. They are having deep philosophical conversations while walking on the sidewalk. Or they are driving on Busses and talking about this sort of thing.
+
+    What sort of thing??
+
+    VI.
+
+    HAMSTERS!
+
+    HAMSTERS!!
+
+    HAMSTERS!!!!
+
+    VII.
+
+    Lalalalalalalala
+
+    VIII.
+
+    I have had a close encounter with an UFO today. An Unidentified Flatlining Object that was coming out of the ground. I know what you're thinking. You're thinking it was really a bad hamster.
+
+    Wasn't it? :)
+
+    IX.
+
+    I stood in the middle of the city and yelled: I LOVE ALL HAMSTERS!
+
+    The silence that followed could be cut with a knife.
+
+    X.
+
+    I have just discovered the other day that the front page of the dictionary is called the front page. Thank you. Thank you very much.
+- "input": |-
+    Alex had a close encounter with an UFO a few hours ago.
+  "instruction": |-
+    Rewrite it in the style of Vladimir Nabokov
+  "output": |-
+    Lolita, light of my life, fire of my loins. My sin, my soul.
+- "input": |
+    Alex encountered an UFO two days ago. He tells about the strange feelings in his body, what he noticed about the animals and electric devices.
+  "instruction": |-
+    Rewrite it in a documentary style
+  "output": |-
+    Alex encountered an UFO two days ago. He tells about the strange feelings in his body, what he noticed about the animals and electric devices.
+
+    UFOs and human perception
+    Alex experienced strange symptoms, such as breathing difficulties, after an encounter with a UFO.
+    A majority of the population had similar symptoms, all at the same time.
+    After the UFO disspeared they all died.
+    The UFO can still be found in the woods, near the city of Amsterdam.
+- "input": |
+    This is a documentary description of Winston's report. He encountered an UFO two days ago. He tells about the strange feelings in his body, what he noticed about the animals and electric devices.
+  "output": |-
+    On the evening of September 21, Winston was sitting on his porch when he noticed a strange light in the sky. At first he thought it was a star, but it was moving too fast to be a star. He watched as the light got closer and closer until it was directly over his house. He could see that it was a large, circular object with bright lights around the edge. The object was making a strange humming noise.
+
+    Winston suddenly felt very strange. He felt a tingling sensation all over his body and his heart began to race. He felt like he couldn't breathe. The hair on his arms and legs stood up. He was terrified.
+
+    The object began to move away, and the strange feeling in Winston's body slowly faded. He realized that the animals in his yard had all been acting strangely during the UFO sighting. The dog had been barking wildly and the birds had all flown away. Even the electric lights in his house had dimmed during the sighting.
+
+    Winston is convinced that what he saw was an extraterrestrial spacecraft. He has no explanation for the strange feeling he felt during the sighting, but he is certain that it was caused by the UFO.
+- "input": |
+    This is a documentary description of Winston's report. He encountered an UFO two days ago. He tells about the strange feelings in his body, what he noticed about the animals and electric devices.
+  "output": |-
+    On the morning of July 2, Winston was driving to work when he spotted an unidentified flying object in the sky. He initially dismissed it as a plane or helicopter, but as he watched it, he realized that it was neither of those things. The object was a strange, floating object that seemed to be made of metal. It was emitting a strange light, and it was moving erratically in the sky. Winston felt a strange sense of dread as he watched the object.
+
+    The next day, Winston began to notice strange things happening around him. The animals in his neighborhood were acting strange, and the electric devices in his home were behaving oddly. Winston began to feel as if he was being watched, and he had a sense that something was wrong. He decided to write a report about his encounter with the UFO, in case something happened to him.
+- "input": |
+    This is a documentary description of Winston's report. He encountered an UFO two days ago. He tells about the strange feelings in his body, what he noticed about the animals and electric devices.
+  "output": |-
+    Winston was out walking two days ago when he saw something strange in the sky. It was a large, metallic object that he first thought was a plane. But as he watched, it became clear that it was not a plane. It was some kind of unidentified flying object.
+
+    Since that encounter, Winston says he has been feeling strange. His body feels heavy and his head is Foggy. He's also been having trouble sleeping.
+
+    Winston says that the animals in the area around his home seem to be acting strange too. The birds are not singing and the squirrels are not coming out of their hiding places. Even his dog is acting weird, barking at nothing and cowering under the bed.
+
+    Electric devices in Winston's home have also been acting strangely. The lights have been flickering and the television has been turning on and off by itself.
+
+    Although he can't be sure, Winston believes that the UFO he saw was somehow responsible for the strange things that have been happening to him. He says he feels like he is being watched and he can't shake the feeling that something is not right.
+- "input": |-
+    Winston was out walking two days ago when he saw something strange in the sky. It was a large, metallic object that he first thought was a plane. But as he watched, it became clear that it was not a plane. It was some kind of unidentified flying object.
+
+    Since that encounter, Winston says he has been feeling strange. His body feels heavy and his head is Foggy. He's also been having trouble sleeping.
+
+    Winston says that the animals in the area around his home seem to be acting strange too. The birds are not singing and the squirrels are not coming out of their hiding places. Even his dog is acting weird, barking at nothing and cowering under the bed.
+
+    Electric devices in Winston's home have also been acting strangely. The lights have been flickering and the television has been turning on and off by itself.
+
+    Although he can't be sure, Winston believes that the UFO he saw was somehow responsible for the strange things that have been happening to him. He says he feels like he is being watched and he can't shake the feeling that something is not right.
+  "instruction": |-
+    Give more details and make it a visceral, believable read even for the skeptic readers
+  "output": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber constitutional at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+
+    Then, almost as abruptly as it had appeared, it just flew away. 
+
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak. All the animals in the area around seemed to have just freaked out, I would later learn that the birds were not singing and the squirrels had not come out of their hiding places.
+
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - 'Apologies for the disturbance, you are safe.'. I must've lost my temper and thrown the remote at the TV because the next thing I remember is coming out of a concussion to find myself sprawled out on the floor.
+
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+- "input": |
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+
+    Then, almost as abruptly as it had appeared, it just flew away. 
+
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the next thing I remember is coming out of a concussion to find myself sprawled out on the floor.
+
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Continue the text in a way that the reader can't tell its genre
+  "output": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky. I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home. A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate. The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed. Then, almost as abruptly as it had appeared, it just flew away.  I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak. I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the next thing I remember is coming out of a concussion to find myself sprawled out on the floor. I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right. As for the hot chocolate, it managed to stay warm in the microwave throughout all this, so I drank it, took a shower and went to sleep.
+- "input": |
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the next thing I remember is coming out of a concussion to find myself sprawled out on the floor.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Continue the text in a way that the reader can't tell its genre
+  "output": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the next thing I remember is coming out of a concussion to find myself sprawled out on the floor.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right. 
+    The next morning, I woke up to flustered phone calls and my name on the front page of the paper.
+- "input": |
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the next thing I remember is coming out of a concussion to find myself sprawled out on the floor.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Continue the text in a way that the reader can't tell its genre
+  "output": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+- "input": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Make it a slipstream story
+  "output": |-
+    It was half past midnight, I had just came back from from my pre-slumber walk at the park - hot chocolate in one hand, my dog Tabi by my side, my Parka fitting me like a glove as it always does.
+    I'd just shut the door and was turning on the lights, when my eyes caught a flash in the sky. My eyes had to be deceiving me; a streak of light so intense that it could have been a shooting star....I looked up, my eyes struggling against the sparkling lights and identified a metallic flash in the dark sky. I immediately turned on all the lights in my home and looked out of the window, which faced the park, as the metallic object hovered over it. A huge chill went down my spine as I realized that there was no way, literally no one in the neighbourhood had seen this but me. Everyone who could see this at that time of night would have been in bed. The next few minutes seemed like a lifetime. Dogs were barking, some were running amok on the streets, some were whining in fear. I saw the metallic object just hover there and make some alien sounds. The house was shaking, even my dog was freaking out, barking and cowering under the bed.
+
+    I had my hand on the kitchen counter, which was just next to the window, I could feel vibrations from it. I thought I was going to pass out when I realized that everything was happening in slow motion, it felt as if my life was being played out before me and it made everything look so unreal. Then, almost as abruptly as it had appeared, it just flew away.
+
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak but I could feel my eyes getting wet out of emotion and I kept closing them, only thinking of one thing - are they done? Are they done with me?
+
+    I turned on the TV, but it kept flickering, the electric grid was damaged, my petit fours in the fridge were going to get spoiled - and then it came on, a message I never imagined I'd ever see on the TV - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+
+    When I woke up, I was sprawled out on the floor. The world's lights were beating down on me and my neck hurt. I slowly tried to move, much to my relief, everything was in place and it was just my head that hurt a lot. I tried to stand up, I made it but I still felt like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+- "input": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Make it a slipstream story
+  "output": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe.
+    Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+- "input": |-
+    I'll never forget - it was half past midnight, I had just come back from from my pre-slumber walk at the park and was making hot chocolate for myself, when I identified a metallic flash in the dark sky.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe.
+    Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Make it a very personal, atypical story where we learn more about the narrator and the narrator's life
+  "output": |-
+    I'll never forget - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I immediately turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe.
+    Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+- "input": |-
+    I'll never forget - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right.
+  "instruction": |-
+    Give it an unsettling ending
+  "output": |-
+    I'll never forget - it was half past midnight and I had just come back from from my pre-slumber walk at the park. Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate. It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix. I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky. I immediately knew that this was the object of the century. I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home. A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate. The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed. Then, almost as abruptly as it had appeared, it just flew away.  I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak. I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me. When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me. I still feel like someone was watching me and I can't shake the feeling that there is no escape, that something is not right. I will probably never know the truth.
+- "input": |-
+    I'll never forget - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+  "instruction": |-
+    Give it an unsettling ending
+  "output": |-
+    I'll never forget - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - as if I was being made to feel that I was in some otherworldly flying ship, someone gently but mentally restraining me from my futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed.
+    I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    Our dear friend, you have a very ingenious mind that is so ripe for learning. 
+    Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. 
+    You may have lost your home, your loved ones and your free will but you are so very fortunate to be a part of a mission greater than anything you have ever imagined. 
+    You get your options to choose what you want to be. 
+    Do you have a job to do while on Earth? Was there a particular family member you used to always hate? 
+    We can fix it all now and help you lead the life you were always meant to. 
+    At the sound of these words, we promise you will feel bright."
+    I snapped out of my reverie and did not put that distant voice in my head back in the "To be heard later" basket. 
+    Instead I took it for what it was - a very frightening promise to give me something back for all my losses. 
+    What had I to lose? Indeed. 
+    "I'm all yours then," I said to myself, with a sad realization slowly crawling into my heart that whatever had happened was already in the past and I now had the opportunity to start anew, in the loving arms of my newfound family. 
+    The TV that had no remotes turned back on the news channel. 
+    "News just in, the world's greatest scientist, responsible for many major discoveries ever since the year 1984 has backed out of the worldwide conference to be held this week. 
+    We give credit to his recent illness and hope to see him back in his feet soon. 
+    Stay tuned for the latest developments" 
+    - I heard the news anchor say.
+- "input": |-
+    I'll never forget - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, even my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - as if I was being made to feel that I was in some otherworldly flying ship, someone gently but mentally restraining me from my futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed.
+    I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    Our dear friend, you have a very ingenious mind that is so ripe for learning. 
+    Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. 
+    You may have lost your home, your loved ones and your free will but you are so very fortunate to be a part of a mission greater than anything you have ever imagined. 
+    You get your options to choose what you want to be. 
+    Do you have a job to do while on Earth? Was there a particular family member you used to always hate? 
+    We can fix it all now and help you lead the life you were always meant to. 
+    At the sound of these words, we promise you will feel bright."
+    I snapped out of my reverie and did not put that distant voice in my head back in the "To be heard later" basket. 
+    Instead I took it for what it was - a very frightening promise to give me something back for all my losses. 
+    What had I to lose? Indeed. 
+    "I'm all yours then," I said to myself, with a sad realization slowly crawling into my heart that whatever had happened was already in the past and I now had the opportunity to start anew, in the loving arms of my newfound family. 
+    The TV that had no remotes turned back on the news channel. 
+    "News just in, the world's greatest scientist, responsible for many major discoveries ever since the year 1984 has backed out of the worldwide conference to be held this week. 
+    We give credit to his recent illness and hope to see him back in his feet soon. 
+    Stay tuned for the latest developments" 
+    - I heard the news anchor say.
+  "instruction": |-
+    Cut the text by 10 percent to make it tighter
+  "output": |-
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed.
+    I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    Our dear friend, you have such a ripe imagination. 
+    Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. 
+    You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. 
+    We will help you lead the life that you were always meant to. 
+    At the sound of these words, we promise you will feel bright."
+    I snapped out of my reverie and immediately felt sad & frightened. 
+    "Impossible," I said to myself, but slowly a realization started to slowly crawl into my heart - whatever has happened is in the past and I have the opportunity to start anew, in the loving arms of my newfound family. 
+    I started crying, partly because I wanted to bid goodbye to my old life.
+    My tears began to form a pool under me and I could feel the hand of someone stroking my head, brushing my tears away.
+    "I'm all yours then," I said to myself. 
+    The TV that had no remotes turned back on the news channel. 
+    "News just in, the world's greatest scientist, responsible for many major discoveries ever since the year 1984 has backed out of the worldwide conference to be held this week. 
+    We give credit to his recent illness and hope to see him back in his feet soon. 
+    Stay tuned for the latest developments" 
+    - I heard the news anchor say.
+- "input": |
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park. Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate. It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix. I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky. I immediately knew that this was the object of the century. I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home. A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate. The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed. Then, almost as abruptly as it had appeared, it just flew away.  I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak. I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me. When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me. "Where am I?" is the thought I clearly remember right after that. I was in an oddly vague hospital ward with no apparent staff. As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed. I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed. I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever - "We are so sorry for your discomfort, we promise you will know why you were chosen.  "Our dear friend, you have such a ripe imagination. Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. We will help you lead the life that you were always meant to. At the sound of these words, we promise you will feel bright."
+  "instruction": |-
+    Finish it in a way that the reader can't be sure what happened, with an element of sarcastic humor.
+  "output": |-
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park. Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate. It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix. I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky. I immediately knew that this was the object of the century. I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home. A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate. The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed. Then, almost as abruptly as it had appeared, it just flew away.  I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak. I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me. When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me. "Where am I?" is the thought I clearly remember right after that. I was in an oddly vague hospital ward with no apparent staff. As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed. I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed. I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever - "We are so sorry for your discomfort, we promise you will know why you were chosen.  "Our dear friend, you have such a ripe imagination. Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. We will help you lead the life that you were always meant to. At the sound of these words, we promise you will feel bright."
+
+    MY THEORY - He was trapped in hyperspace against his will, as a dynamic prisoner. A scientist did an experiment using subjective art, as an alternative to more conventional torture techniques. What our protagonist didn't realize is that his concept of time was warped in the process. His star-gazing is the key to this.
+
+    PROBLEMS - I'm not sure how to navigate the use of mental jolts. Will I end up alienating several of my readers from the story? Also, I need to do some background reading before I can keep the voice authentic.
+- "input": |
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed. I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    "Our dear friend, you have such a ripe imagination. Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. We will help you lead the life that you were always meant to. At the sound of these words, we promise you will feel bright."
+  "instruction": |-
+    Finish it in a way that the reader gets an uneasy feeling and laughs it off
+  "output": |-
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed. I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    "Our dear friend, you have such a ripe imagination. Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. We will help you lead the life that you were always meant to. At the sound of these words, we promise you will feel bright."
+    I didn't feel bright at all. I felt a compulsion to get up, brush my teeth, put on the clothes I was about to put on and get out of the room. As I left the room, I again had a sense that it wasn't me who was in control of my movement, who was responding to what the voice told me to do. The voice yammered on, but I was too disturbed to heed anything of it, given it was minutes after I realized I'd been kidnapped.
+    I was in an empty, narrow, windowless room with a mirror, a shower and all the requisites you might need to freshen up when you get out of a hospital. I looked at myself in the mirror and tried to clean up and regain some control over myself. I didn't think I looked much different - but when I stumbled out of the room towards what seemed like a cafeteria area, still being directed by the voice, I saw many faces that looked exactly like mine. A really uneasy feeling crawled all over me as I tried to etch this out of my mind in a way that I would be able to laugh it off when I went back home the next day.
+    I sat at the table and three plates of piping hot breakfast appeared on the table - a plate with cereals, a plate with hash browns and a plate with a glass of orange juice and a whole deviled egg with a toothpick: the American breakfast. I hungrily had at all three plates and unlike the heavy, tomato-y and bacon-y breakfast I usually am used to: today I was just absolutely delighted.
+- "input": |-
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed. I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    "Our dear friend, you have such a ripe imagination. Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. We will help you lead the life that you were always meant to. At the sound of these words, we promise you will feel bright."
+    I didn't feel bright at all. I felt a compulsion to get up, brush my teeth, put on the clothes I was about to put on and get out of the room. As I left the room, I again had a sense that it wasn't me who was in control of my movement, who was responding to what the voice told me to do. The voice yammered on, but I was too disturbed to heed anything of it, given it was minutes after I realized I'd been kidnapped.
+    I was in an empty, narrow, windowless room with a mirror, a shower and all the requisites you might need to freshen up when you get out of a hospital. I looked at myself in the mirror and tried to clean up and regain some control over myself. I didn't think I looked much different - but when I stumbled out of the room towards what seemed like a cafeteria area, still being directed by the voice, I saw many faces that looked exactly like mine. A really uneasy feeling crawled all over me as I tried to etch this out of my mind in a way that I would be able to laugh it off when I went back home the next day.
+    I sat at the table and three plates of piping hot breakfast appeared on the table - a plate with cereals, a plate with hash browns and a plate with a glass of orange juice and a whole deviled egg with a toothpick: the American breakfast. I hungrily had at all three plates and unlike the heavy, tomato-y and bacon-y breakfast I usually am used to: today I was just absolutely delighted.
+  "instruction": |-
+    Give it a title
+  "output": |-
+    # A Flash of the Sky
+
+    I know I'll never forget this night - it was half past midnight and I had just come back from from my pre-slumber walk at the park.
+    Ever since my wife would left me two years ago, I had found myself indulging in my two passions - astronomy and hot chocolate.
+    It was only natural, therefore, that I always looked at the sky before getting my daily hot chocolate fix.
+    I turned on the telescope mounted on my balcony and, lo and behold, I identified a metallic flash in the dark sky.
+    I immediately knew that this was the object of the century.
+    I turned on all the lights in my home and looked out of the window as the metallic object hovered over the park right in front of my home.
+    A huge chill went down my spine as I suddenly realized that I must have been the only human who had witnessed this. There was no way the residents of this sleepy, sparsely populated neighborhood would have seen it and I wondered who else would have been in the mood for a midnight hot chocolate.
+    The next few minutes seemed like a lifetime. I saw the metallic object just hover there and make some alien sounds. The house shook a bit, my dog was freaking out, barking and cowering under the bed.
+    Then, almost as abruptly as it had appeared, it just flew away. 
+    I had a strange feeling in my head, my body was feeling heavy, my limbs felt weak.
+    I turned on the TV, but it kept flickering and enough of it came on to show me a message I never imagined I'd see - "Apologies for the disturbance, you are safe. Here are your weekly summary and our American breakfast recipe of the day." I must've lost my temper and thrown the remote at the TV because the last thing I remember was the feeling of being jolted by a powerful force, my body hurting to complete oblivion and everything going pitch black for me.
+    When I woke up, I was sprawled out on the floor and the world's bright, bright lights beating down on me.
+    "Where am I?" is the thought I clearly remember right after that.
+    I was in an oddly vague hospital ward with no apparent staff.
+    As soon as I had tried to sit up, I immediately felt an energy of some sort keeping me down - I was jolted with a memory of an invisible hand touching my head to gently but mentally restrain me from futile efforts to get out of bed.
+    I scanned the room for some reason for the TV remote - there was no TV in sight in the room, but after some digging around I saw the remote by the foot of my bed. I pressed the volume button once and suddenly, the same voice I heard after being jolted in my own home was back with more intensity than ever -
+    "We are so sorry for your discomfort, we promise you will know why you were chosen. 
+    "Our dear friend, you have such a ripe imagination. Even though you have now been brought here, you are still safe, you are healthy and we promise you that we haven't mucked up anything. You may have lost your home, your loved ones and your free will but you are so very fortunate that you chose to be a part of a mission greater than anything you have ever imagined. We will help you lead the life that you were always meant to. At the sound of these words, we promise you will feel bright."
+    I didn't feel bright at all. I felt a compulsion to get up, brush my teeth, put on the clothes I was about to put on and get out of the room. As I left the room, I again had a sense that it wasn't me who was in control of my movement, who was responding to what the voice told me to do. The voice yammered on, but I was too disturbed to heed anything of it, given it was minutes after I realized I'd been kidnapped.
+    I was in an empty, narrow, windowless room with a mirror, a shower and all the requisites you might need to freshen up when you get out of a hospital. I looked at myself in the mirror and tried to clean up and regain some control over myself. I didn't think I looked much different - but when I stumbled out of the room towards what seemed like a cafeteria area, still being directed by the voice, I saw many faces that looked exactly like mine. A really uneasy feeling crawled all over me as I tried to etch this out of my mind in a way that I would be able to laugh it off when I went back home the next day.
+    I sat at the table and three plates of piping hot breakfast appeared on the table - a plate with cereals, a plate with hash browns and a plate with a glass of orange juice and a whole deviled egg with a toothpick: the American breakfast. I hungrily had at all three plates and unlike the heavy, tomato-y and bacon-y breakfast I usually am used to: today I was just absolutely delighted.
