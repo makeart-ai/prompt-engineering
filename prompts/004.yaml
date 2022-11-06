@@ -542,3 +542,916 @@
     "Beer, I think," the man said. "Beer is always good in this weather."
 
     The man went into the bar and ordered two beers. He brought them back to the table and the couple drank them quickly. The beer was refreshing and cooled them off a bit. They only had a few minutes left before the train arrived, so they ordered two more beers.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    It starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives.
+    The man orders two beers.
+    Here is the beginning of the story.
+  "mark": |-
+    maybe
+  "output": |-
+    The bar was situated on a hill, and from the terrace where the couple sat, they could see the small train station down below. It was a warm summer day, and the woman was fanning herself with a handkerchief.
+
+    "It's so hot," she said. "I don't know if I can drink a beer."
+
+    "You have to," the man said. "It's the only way to cool down."
+
+    He ordered two beers, and the woman took a sip of hers hesitantly.
+
+    "It's not so bad," she said. "But I still can't believe how hot it is."
+
+    "I know," the man said. "It's unreal."
+
+    They sat in silence for a moment, sipping their beers and looking out at the view. Then the man spoke again.
+
+    "I wonder if the train will be on time," he said.
+
+    "I hope so," the woman said. "I don't want to wait in this heat any longer than we have to."
+
+    "Me either," the man said. "But at least we have time to drink our beers."
+
+    They both laughed, and the woman took another
+- "section": !!int |-
+    2
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation on the drinks. We can feel something is going on between them.
+    Here is the second part.
+  "output": |-
+    The woman takes a sip of her beer and then looks at her husband. “You know, I’ve been thinking,” she starts.
+
+    “Thinking about what?” he asks, taking a drink of his own beer.
+
+    “About us,” she replies. “About our marriage.”
+
+    The man looks at his wife, not sure what to say.
+
+    “I’m not sure I’m happy,” she continues. “I’m not sure I want to be married to you anymore.”
+
+    The man sets down his beer and looks at his wife. “What are you saying?” he asks.
+
+    “I’m saying that I’m not happy,” she replies. “I want a divorce.”
+
+    The man is shocked. He can’t believe what his wife is saying.
+
+    “I’m sorry,” she says. “I know this is hard, but I just can’t do this anymore. I need to be happy, and I don’t think I can
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation on the drinks. We can feel something is going on between them.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    The woman sips her beer nervously, glancing at her companion. She seems to be waiting for something, but she isn't sure what.
+
+    "What's wrong?" the man asks, finally breaking the silence.
+
+    "I don't know," the woman replies. "It's just... this heat. It's making me edgy."
+
+    The man nods, understanding. He takes a long drink of his beer, then sets it down with a thump.
+
+    "We should go inside," he suggests. "It's cooler in there."
+
+    The woman nods, and they both stand up. The man pays for their drinks, then holds the door open for his companion.
+
+    Inside, the bar is dim and cool. There are a few people sitting at the tables, but they all seem to be minding their own business.
+
+    The man and the woman find a table in the corner and sit down. The woman seems to have calmed down somewhat, but she is still jumpy.
+
+    "What's really wrong?" the man asks quietly.
+
+    The woman looks at him for a moment, then sighs.
+
+    "I'm pregnant," she finally blurts out.
+
+    The
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    Here is the second part.
+    In the second part the couple is having a tense conversation on the drinks. We can feel something is going on between them, but they don't explicitly say it.
+    Here is the second part.
+  "output": |-
+    The couple continued their conversation, but it was now clear that something was wrong between them. They didn't explicitly say what it was, but the tension was palpable. Finally, the woman spoke up.
+
+    "I know you slept with her," she said, her voice tight.
+
+    The man didn't deny it, but he didn't exactly confirm it either. "It wasn't anything serious," he said. "It didn't mean anything."
+
+    "That's not the point," the woman said. "The point is that you cheated on me."
+
+    "I'm sorry," the man said. "It was a mistake and I know it."
+
+    The woman was silent for a long moment, considering his words. Finally, she seemed to make a decision.
+
+    "I forgive you," she said. "But I want you to promise me that it will never happen again."
+
+    The man nodded. "I promise."
+
+    With that, the tension between them seemed to dissipate. They finished their drinks and got up to board the train. As they walked away, they were laughing and joking as if nothing had ever happened.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation on the drinks. The woman is pregnant and the man knows it. But they don't speak about it.
+    Here is the second part.
+  "output": |-
+    The woman took a sip of her beer, then put it down and looked at her husband. “It’s hot today,” she said.
+
+    “Yes, it is,” he replied.
+
+    “I think I’ll have a lemonade instead.”
+
+    “All right.”
+
+    The man signaled to the waiter and ordered a lemonade for his wife. When it came, she sipped it and said, “This is better.”
+
+    “Yes, it is.”
+
+    They sat in silence for a few minutes, then the woman said, “I’m glad we’re taking this train.”
+
+    “Yes, it will be good to get away from the city for a while.”
+
+    “I’ve been wanting to see the countryside.”
+
+    “Yes, me too.”
+
+    Another silence fell between them, and then the woman said, “I’m pregnant.”
+
+    The man looked at her, then looked away. “Yes, I know,” he said.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation on the drinks. The woman is pregnant and the man knows it. But they don't speak about it.
+    Here is the second part.
+  "output": |-
+    The woman took a sip of her beer and then said, "You know, I'm pregnant."
+
+    The man put down his beer and looked at the woman. "Yes, I know," he said.
+
+    The woman looked at the man and said, "I'm not sure if I want to keep the baby."
+
+    The man took a sip of his beer and said, "It's your decision. But I'll support you whatever you decide."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation on the drinks. The woman is pregnant and the man knows it. But they don't speak about it.
+    Here is the second part.
+  "output": |-
+    "I'm not sure what to drink," the woman said. "Beer is so heavy in this heat."
+
+    "You're not drinking beer," the man said. "You're pregnant."
+
+    The woman looked at him, surprised. "How did you know?"
+
+    "I could tell."
+
+    The woman was silent for a moment. Then she said, "I'm not sure if I want to have this baby."
+
+    "Why not?" the man asked.
+
+    "I'm not sure I'm ready to be a mother."
+
+    "You'll be a great mother."
+
+    "I'm not sure I want to be a mother at all," the woman said. "I'm not sure I'm ready for the responsibility."
+
+    The man was silent for a moment. Then he said, "It's not just about responsibility. It's about love. Can you love this baby?"
+
+    The woman was silent for a long time. Then she said, "Yes. I think I can."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation about the drinks. We don't know why they are tense.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    She was silent for a moment, then said, "I don't want a beer."
+
+    "What do you want, then?" he asked, with a touch of impatience.
+
+    "I don't know. Something cold."
+
+    "All right," he said, "I'll have a beer and you can have something cold."
+
+    He went into the bar and came out with two beers and a small bottle of mineral water. He put the beer in front of her and unscrewed the top of the mineral water.
+
+    "I don't want that," she said.
+
+    "What do you want, then?"
+
+    "I don't know."
+
+    He looked at her for a moment, then said, "All right, I'll have a beer and you can have something cold."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation about the drinks. We don't know why they are tense.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    The woman took a sip of her beer, then set it down on the table with a clunk. “You know, I’m not really in the mood for beer,” she said.
+
+    The man took a long drink from his own beer, then set it down with a sigh. “You’re not in the mood for beer?” he repeated. “It’s a bit late for that, isn’t it? We’ve been sitting here for half an hour, and you’ve only just now decided that you don’t want beer.”
+
+    “Well, I’m sorry,” the woman said. “But I really don’t feel like drinking beer right now.”
+
+    “Fine,” the man said. “If you don’t want beer, then what do you want?”
+
+    “I don’t know,” the woman said. “Something else.”
+
+    “Something else,” the man repeated. He shook his head. “I don’t know what you want.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part the couple is having a tense conversation about the drinks. We don't know why they are tense.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    "I don't want a beer," the woman said.
+
+    "You don't want a beer?" the man said. "What do you want to drink, then?"
+
+    "I don't know," the woman said. "Something else."
+
+    "What do you mean, something else?" the man said. "There's nothing else to drink."
+
+    "There must be something else," the woman said.
+
+    "No, there isn't," the man said. "All they have is beer."
+
+    "Well, I don't want beer," the woman said.
+
+    "Fine," the man said. "Don't drink, then."
+
+    "I'll drink something else," the woman said.
+
+    "There is nothing else to drink," the man said. "I told you."
+
+    "I don't care," the woman said. "I'm not drinking beer."
+
+    "Fine," the man said. "Suit yourself."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to white elephants. The couple is having a tense conversation about the drinks. We don't know why they are tense.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    "It's pretty hot," the man said.
+
+    "Yes," the woman replied. "It's very hot."
+
+    "We have to have something to drink," the man said.
+
+    The woman looked at him and did not say anything.
+
+    "I know it's hot," the man said. "But we need something to drink."
+
+    "All right," the woman said. "Let's have two beers."
+
+    The man called the waiter and ordered the beers.
+
+    "Now we can relax," the man said.
+
+    "Yes," the woman said. "Now we can relax."
+
+    The man took a cigarette out of his pocket and lit it.
+
+    "Did you ever see hills like that?" the woman asked.
+
+    "No," the man said. "I've never seen hills like that."
+
+    "They're like white elephants," the woman said.
+
+    "What do you mean?" the man asked.
+
+    "I don't know," the woman said. "They're just like white elephants."
+
+    "Is that all you can think about?" the man asked. "White elephants?"
+
+    "No," the woman said. "I can
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to white elephants. The couple is having a tense conversation about the drinks. We don't know why they are tense.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    The man reached into his pocket and brought out a small leather bag. He undid the string and carefully poured two measures of Anis del Mono into the glasses. The liquor was clear and had a strong, aniseed smell.
+
+    'I thought you'd like it,' he said. 'It's very good.'
+
+    The woman sipped her drink and made a face. 'It's too sweet,' she said.
+
+    The man put the bottle back into his pocket. 'You didn't have to drink it,' he said. 'I only ordered it because I thought you'd like it.'
+
+    The woman looked at him for a moment. Then she took a cigarette out of her pocket and put it between her lips.
+
+    'Have a drink,' the man said.
+
+    'No, thanks,' the woman said. 'I don't want one.'
+
+    'Go on,' the man said. 'It'll do you good.'
+
+    The woman shook her head. 'No, I don't want anything,' she said.
+
+    The man looked at her for a moment, and then he picked up his glass and drank it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to white elephants. The couple is having a tense conversation about the drinks. We don't know why they are tense. Finally, they try to start the conversation again in a lighthearted way.
+    Here is the second part.
+  "output": |-
+    The American and the girl with him sat at a table in the shade, and the American ordered beer for them.
+    'You don't want anything to drink?' the girl asked.
+    'No,' the American answered. 'I just want beer.'
+    'It's very hot,' the girl said. 'It's so hot that I can't think.'
+    'Yes,' said the American. 'It's so hot that I can't think, either.'
+    The girl looked at the hills on the other side of the valley and said, 'They look like white elephants.'
+
+    'I've never seen one,' the American said.
+    'No,' the girl said, 'you wouldn't have.'
+    She looked at the hills again and then at the American and said, 'I want to have drinks now.'
+
+    'All right,' the American said. 'We'll have drinks.'
+    He called the waiter and ordered two beers.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to white elephants. The couple is having a tense conversation about the drinks. We don't know why they are tense. Finally, they try to start the conversation again in a lighthearted way.
+    Here is the second part.
+  "output": |-
+    The hills across the valley of the Ebro were long and white. On this side there was no shade and no trees and the station was between two lines of rails in the sun. Close against the side of the station there was the warm shadow of the building and a curtain, made of strings of bamboo beads, hung across the open door into the bar, to keep out flies. Inside, the bar was cool and dark. The walls were tiled to the ceiling, and there was a machine for cooling drinks.
+
+    The American and the girl with him sat at a table that was close against the wall. They had two beers in front of them and the girl was smoking a cigarette.
+
+    "It's pretty hot," the American said.
+
+    "Yes," the girl said. "It's awfully hot."
+
+    "Do you want to go in?"
+
+    "No. Let's sit here."
+
+    They were silent for a time, drinking the beer.
+
+    "Did you ever see a white elephant?" the American asked.
+
+    "No," the girl said. "What is it?"
+
+    "It's an elephant that's white all over."
+
+    "Is it alive?"
+
+    "Sure.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to some rare animals. The couple is having a tense conversation about the drinks. We don't know why they are tense. Finally, they try to start the conversation again in a lighthearted way.
+    Here is the second part.
+  "output": |-
+    The sun was so hot that the woman began to perspire. She took out a handkerchief and wiped her forehead.
+
+    "It's so hot," she said. "I feel like I'm melting."
+
+    "Yes, it is hot," the man said. "But it's a dry heat."
+
+    "I don't care if it's dry or not," the woman said. "It's still hot."
+
+    "Would you like something to drink?" the man asked.
+
+    "Yes, I would," the woman said. "I think I'll have a beer."
+
+    "I'll have one too," the man said.
+
+    The man went into the bar and came out with two bottles of beer. He handed one to the woman and they both took long drinks from the bottles.
+
+    "Ah, that's better," the woman said. "I was beginning to feel faint."
+
+    "You should have taken a drink sooner," the man said.
+
+    "I didn't want to drink in this heat," the woman said. "But now I think I'll have another beer."
+
+    The man went back into the bar and came out with two more bottles of beer. The
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to some rare animals. The couple is having a tense conversation about the drinks. We don't know why they are tense. Finally, they try to start the conversation again in a lighthearted way.
+    Here is the second part.
+  "output": |-
+    The couple was sitting outside the bar, enjoying the warm summer day. The woman was fanning herself with her hand, and the man was sipping his beer slowly.
+
+    "This heat is unbearable," the woman said. "I wish we could go back to Barcelona."
+
+    "It's not so bad," the man said. "Besides, we only have an hour until the train arrives."
+
+    "I know, but I'm so thirsty. I wish we had ordered something to drink."
+
+    "You're right," the man said. " I should have ordered something for you. What would you like?"
+
+    "I don't know. What do you have?"
+
+    "We have beer, wine, or water."
+
+    "I'll have a beer," the woman said.
+
+    The man ordered two beers, and the tension between the couple seemed to dissipate. They both took long drinks of their beer and then sat in silence, enjoying the view.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    The first part starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about what to drink. They have almost an hour until the train arrives. The man orders two beers.
+    In the second part, the woman likens the hills to some rare animals. The couple is having a tense conversation about the drinks. We don't know why they are tense. Finally, they try to start the conversation again in a lighthearted way.
+    Here is the second part.
+  "mark": |-
+    maybe
+  "output": |-
+    "Yes, it's very hot," said the woman. "I think I'll have a lemonade."
+
+    "Lemonade?" the man said, his voice rising. "In this heat? Are you crazy?"
+
+    "I don't see why not," the woman said. "It would be refreshing."
+
+    "No, no, no," the man said. "You must have beer. Only beer can help in this heat."
+
+    The woman was silent for a moment. Then she said, "All right, I'll have a beer."
+
+    The man called to the waiter and ordered two beers. He drank deeply from his glass, and the woman sipped her beer slowly.
+
+    "Do you know," the woman said, "that these hills look like animals?"
+
+    "What animals?" the man said.
+
+    "I don't know," the woman said. "Some rare animals, like elephants or giraffes."
+
+    The man laughed. "They don't look like elephants or giraffes. They look like hills."
+
+    "Well, I think they look like animals," the woman said.
+
+    The man was about to say something, but he stopped himself. He
+- "section": !!int |-
+    3
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    Part one starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about drinks. They have almost an hour until the train arrives.
+    In part two, the woman likens the hills to some rare animals. The couple is having a tense conversation. They try to start the conversation again in a lighthearted way. The man orders two beers.
+    In part three, the woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound a simple operation after which they would be happy again.
+    Here is part three.
+  "output": |-
+    The woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound like a simple operation after which they would be happy again.
+
+    The couple tries to start the conversation again in a lighthearted way. The man orders two beers. But, the woman is not interested in beer. She is looking at the hills.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    Part one starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about drinks. They have almost an hour until the train arrives.
+    In part two, the woman likens the hills to some rare animals. The couple is having a tense conversation. They try to start the conversation again in a lighthearted way. The man orders two beers.
+    In part three, the woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound a simple operation after which they would be happy again.
+    Here is part three.
+  "output": |-
+    The woman looked at the hills. The man talked about an operation the woman would undergo. He made it sound like a simple operation after which they would be happy again.
+
+    The woman asked the man what the operation was. The man said it was to remove a tumor from her brain. The woman was shocked. She asked the man why he hadn't told her earlier. The man said he didn't want to worry her. The woman was angry and told the man to stop talking.
+
+    The man asked the woman if she was sure she wanted to go through with the operation. The woman said she was sure. The man said he would support her. The woman asked the man to promise he would never leave her. The man promised.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    Part one starts with a description of a hill and a small train station somewhere between Barcelona and Madrid. It's a warm summer day. There's a bar next to the station. A couple is sitting outside the building talking about the hot weather and about drinks. They have almost an hour until the train arrives.
+    In part two, the woman likens the hills to some rare animals. The couple is having a tense conversation. They try to start the conversation again in a lighthearted way. The man orders two beers.
+    In part three, the woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound a simple operation after which they would be happy again.
+    Here is part three.
+  "output": |-
+    The woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound a simple operation after which they would be happy again.
+
+    "It's not a big deal," the man says. "They'll just take out the tumor and then we can go back to our lives."
+
+    "I don't know," the woman says. "I'm scared."
+
+    "Don't be scared," the man says. "I'll be there with you every step of the way."
+  "problem":
+    "hypothesis": |-
+      Prompt contains too much information
+    "statement": |-
+      AI repeats the prompt literally. The generated text is too short.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman.
+    In part two, the woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound a simple operation after which they would be happy again.
+    Here is part two.
+  "output": |-
+    "It'll be a simple operation," the man said. "Afterward, we'll be happy again."
+
+    The woman looked at the hills. "I'm not sure," she said.
+
+    "It's just a minor procedure," the man said. "It'll fix everything."
+
+    The woman shook her head. "I don't know," she said.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman.
+    In part two, the woman looks at the hills. The man talks about an operation the woman would undergo. He makes it sound a simple operation after which they would be happy again.
+    Here is part two.
+  "output": |-
+    "Yes, I can see the hills," said the woman. "They look so far away."
+
+    "They're not so far away," said the man. "You'll be able to see them just as well from the other side of the hill. After your operation, you'll be able to see them just as well as I can."
+
+    The woman looked at the man. "What operation?"
+
+    "Your operation," said the man. "It's a very simple operation. The doctors will take out your appendix and then you'll be as good as new. We'll be able to be happy again."
+
+    The woman was silent for a moment. Then she said, "I don't want to have an operation."
+
+    "Why not?" said the man. "It's a very simple operation. It won't take long and then you'll be better. We'll be able to be happy again."
+
+    "I don't want to have an operation," said the woman. "I don't want to be operated on."
+
+    "Why not?" said the man. "It's a very simple operation. It won't take long and then you'll be better. We'll be able to be happy
+  "problem":
+    "hypothesis": |-
+      Prompt not to mention the kind of operation
+    "statement": |-
+      Too explicit. We don't want to say what kind of operation it is.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman.
+    In part two, the woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again. She is not sure. We don't know what kind of operation.
+    Here is part two.
+  "output": |-
+    The woman looked at the hills. The man talked about an operation the woman would undergo. He wanted her to have the operation and made it sound a simple after which they would be happy again. She is not sure. We don't know what kind of operation.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman.
+    In part two, the woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again. She is not sure. We don't know what kind of operation.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    She looked at the hills. The sun was setting and the colors were beautiful. She didn't want to leave this place. It was peaceful and she felt safe here.
+
+    "It's not going to be that bad," he said. "They'll just put you to sleep and when you wake up, it will all be over."
+
+    "I don't know," she said. "I'm scared."
+
+    "There's nothing to be scared of," he said. "I'll be with you the whole time. I promise."
+
+    She looked at him and then she nodded. "Okay," she said. "I'll do it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman.
+    In part two, the woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again. She is not sure. We don't know what kind of operation.
+    Here is part two.
+  "output": |-
+    The woman looked at the hills. The sun had disappeared behind them, and the sky was a deep blue. The man talked about the operation the woman would undergo. He wanted her to have the operation and made it sound simple. After the operation, they would be happy again. She was not sure.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman.
+    In part two, the woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again. She is not sure. We don't know what kind of operation.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    "I don't know, Joe. I'm just not sure."
+
+    "What's there to be unsure about, Babe? The operation is simple, and it's not going to hurt. Afterward, we'll be able to be happy again."
+
+    "I know, but... I don't know. It just seems like a big step."
+
+    "It's not a big step, Babe. It's a small steps. And it's the only way to fix what's wrong."
+
+    "I know, but... I'm just not sure."
+- "section": !!int |-
+    4
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again.
+    In part two, the woman hesitates. She may want to make a sacrifice by having the operation if it makes the man happy and love her.
+    Here is part two.
+  "output": |-
+    "But John, do you really think an operation is necessary?"
+
+    "The doctors say it is, and I trust them."
+
+    "I don't want to be operated on."
+
+    "Don't be foolish, Sarah. It's a simple operation, and it will make us both happy again."
+
+    Sarah hesitated. She knew that John loved her, and she didn't want to do anything that would make him unhappy.
+
+    "All right, John," she said. "I'll have the operation."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again.
+    In part two, the woman hesitates. She may want to make a sacrifice by having the operation if it makes the man happy and love her.
+    Here is part two.
+  "output": |-
+    The woman hesitated. She didn’t want to make a sacrifice, but if it would make the man happy and love her, she would do it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again.
+    In part two, the woman hesitated. She didn’t want to make a sacrifice, but if it would make the man happy and love her, she would do it.
+    Here is part two.
+  "output": |-
+    "You really think it will be that simple?" the woman asked.
+
+    "Of course it will," the man replied. "It's a simple operation. Afterward we'll be able to be happy again."
+
+    The woman hesitated. She didn't want to make a sacrifice, but if it would make the man happy and love her, she would do it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound a simple after which they would be happy again.
+    In part two, the woman hesitated. She didn’t want to make a sacrifice, but if it would make the man happy and love her, she would do it.
+    Here is part two.
+  "output": |-
+    The woman looked at the hills for a long time. She didn’t want to make a sacrifice, but if it would make the man happy and love her, she would do it. She loved him, and she wanted to make him happy. But she was scared.
+    The man looked at her and said, “It’s not a big deal. It’s just a small operation. You’ll be fine. I promise.”
+    The woman hesitated. Then she nodded. “Okay,” she said. “I’ll do it.”
+  "problem":
+    "hypothesis": |-
+      Too much info in the prompt.
+    "statement": |-
+      It only repeats the prompt. The generated text is too short.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man wants the woman to undergo an operation and makes it sound simple.
+    In part two, the woman hesitates.  If the operation would make the man happy and love her, she would do it.
+    Here is part two.
+  "output": |-
+    "Look here, Louise," said Charlie, "I don't want to make you do anything you don't want to, but I think it would be better for you if you had the operation. It would make me happy, and I would love you more."
+
+     Louise hesitated. She knew that Charlie was right, but she was afraid of the operation. "If it would make you happy and you loved me more, then I would do it," she said finally.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man wants the woman to undergo an operation and makes it sound simple.
+    In part two, the woman hesitates.  If the operation would make the man happy and love her, she would do it.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    "But John, I am not sure. What if something goes wrong?"
+
+    "Don't worry, the operation is quite simple. I am sure everything will be fine."
+
+    "But what if it is not? What if I end up like those poor women in the hills?"
+
+    "Don't be ridiculous. That will not happen. I will make sure of it."
+
+    The woman looks at the hills again and then at the man. She takes a deep breath and nods.
+
+    "All right, I will do it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man wants the woman to undergo an operation and makes it sound simple.
+    In part two, the woman hesitates.  If the operation would make the man happy and love her, she would do it.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    The woman looked at the hills. She thought about the operation and what it would entail. She thought about the man and how he would feel if she underwent the operation. Would he be happy? Would he love her more?
+
+    The woman hesitated. She was not sure if she wanted to undergo the operation. It would be a simple operation, but she was not sure if it was worth it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man wants the woman to undergo an operation and makes it sound simple.
+    In part two, the woman hesitates.  If the operation would make the man happy and love her, she would do it.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    The woman did not want to have the operation. She was afraid that it would not work and that the man would be angry with her. But she loved the man and did not want to lose him. She thought about it for a long time before she finally decided to have the operation.
+  "problem":
+    "hypothesis": |-
+      Not enough specifics about this part in the prompt
+    "statement": |-
+      Generation too short
+- "input": |-
+    The girl looked at the bead curtain, put her hand out and took hold of two of the strings of beads.
+
+    ‘And you think then we’ll be all right and be happy.’
+    ‘I know we will. You don’t have to be afraid. I’ve known lots of people that have done it.’
+    ‘So have I,’ said the girl. ‘And afterwards they were all so happy.’
+    ‘Well,’ the man said, ‘if you don’t want to you don’t have to. I wouldn’t have you do it if you didn’t want to. But I know it’s perfectly simple.’
+    ‘And you really want to?’
+    ‘I think it’s the best thing to do. But I don’t want you to do it if you don’t really want to.’
+    ‘And if I do it you’ll be happy and things will be like they were and you’ll love me?’
+    ‘I love you now. You know I love you.’
+    ‘I know. But if I do it, then it will be nice again if I say things are like white elephants, and you’ll like it?’
+    ‘I’ll love it. I love it now but I just can’t think about it. You know how I get when I worry.’
+    ‘If I do it you won’t ever worry?’
+    ‘I won’t worry about that because it’s perfectly simple.’
+    ‘Then I’ll do it. Because I don’t care about me.’
+    ‘What do you mean?’
+    ‘I don’t care about me.’
+    ‘Well, I care about you.’
+    ‘Oh, yes. But I don’t care about me. And I’ll do it and then everything will be fine.’
+    ‘I don’t want you to do it if you feel that way.’
+  "instruction": |-
+    Summarize this text
+  "output": |-
+    The girl looked at the bead curtain, put her hand out and took hold of two of the strings of beads.
+    The man said that doing it would make the girl start to be happy.
+    She answered that she knew a lot of people who were so happy after doing it.
+    The man replied that if the girl didn't want to do it, it was OK.
+    He said he didn't want her to do it if she didn't feel like doing it.
+    The girl said that if she would do it, he would start to love her again.
+    The man said she shouldn't do it if she fel she shouldn't do it.
+    The girl asked him if he would ever again be unhappy if she did it.
+    The man said he wouldn't be unhappy again.
+    The girl said that she would do it.
+    She didn't care if she did it.
+    The man asked her what she meant.
+    She answered that she didn't care if this woukld make her suffer.
+    The man said that he cared about her.
+    The girl answered that she didn't care about herself.
+    She said that she would do it, and that afterwards erverything would be fine.
+- "input": |-
+    The girl looked at the bead curtain, put her hand out and took hold of two of the strings of beads.
+
+    ‘And you think then we’ll be all right and be happy.’
+    ‘I know we will. You don’t have to be afraid. I’ve known lots of people that have done it.’
+    ‘So have I,’ said the girl. ‘And afterwards they were all so happy.’
+    ‘Well,’ the man said, ‘if you don’t want to you don’t have to. I wouldn’t have you do it if you didn’t want to. But I know it’s perfectly simple.’
+    ‘And you really want to?’
+    ‘I think it’s the best thing to do. But I don’t want you to do it if you don’t really want to.’
+    ‘And if I do it you’ll be happy and things will be like they were and you’ll love me?’
+    ‘I love you now. You know I love you.’
+    ‘I know. But if I do it, then it will be nice again if I say things are like white elephants, and you’ll like it?’
+    ‘I’ll love it. I love it now but I just can’t think about it. You know how I get when I worry.’
+    ‘If I do it you won’t ever worry?’
+    ‘I won’t worry about that because it’s perfectly simple.’
+    ‘Then I’ll do it. Because I don’t care about me.’
+    ‘What do you mean?’
+    ‘I don’t care about me.’
+    ‘Well, I care about you.’
+    ‘Oh, yes. But I don’t care about me. And I’ll do it and then everything will be fine.’
+    ‘I don’t want you to do it if you feel that way.’
+  "instruction": |-
+    Summarize this text in two sentences.
+  "output": |-
+    The girl looked at the bead curtain, put her hand out and took hold of two of the strings of beads.
+
+    ‘And you think then we’ll be all right and be happy.’
+    ‘I know we will. You don’t have to be afraid. I’ve known lots of people that have done it.’
+    ‘So have I,’ said the girl. ‘And afterwards they were all so happy.’
+    ‘Well,’ the man said, ‘if you don’t want to you don’t have to. I wouldn’t have you do it if you didn’t want to. But I know it’s perfectly simple.’
+    ‘And you really want to?’
+    ‘I think it’s the best thing to do. But I don’t want you to do it if you don’t really want to.’
+    ‘And if I do it you’ll be happy and things will be like they were and you’ll love me?’
+    ‘I love you now. You know I love you.’
+    ‘I know. But if I do it, then it will be nice again if I say things are like white elephants, and you’ll like it?’
+    ‘I’ll love it. I love it now but I just can’t think about it. You know how I get when I worry.’
+    ‘If I do it you won’t ever worry?’
+    ‘I won’t worry about that because it’s perfectly simple.’
+    ‘Then I’ll do it. Because I don’t care about me.’
+    ‘What do you mean?’
+    ‘I don’t care about me.’
+    ‘Well, I care about you.’
+    ‘Oh, yes. But I don’t care about me. And I’ll do it and then everything will be fine.’
+    ‘I don’t want you to do it if you feel that way.’
+
+
+    It can be seen from this conversation that this girl's pregnancy makes her boyfriend upset because she does not make any decison.
+    In the heart of this boy, he loves this girl and does not want to let her have any hard time.
+    And finally, the girl decided to have a abortion.
+    They love each other and will have a happy time by using the money on the elephant-shaped notepad.
+- "input": |-
+    The girl looked at the bead curtain, put her hand out and took hold of two of the strings of beads.
+
+    ‘And you think then we’ll be all right and be happy.’
+    ‘I know we will. You don’t have to be afraid. I’ve known lots of people that have done it.’
+    ‘So have I,’ said the girl. ‘And afterwards they were all so happy.’
+    ‘Well,’ the man said, ‘if you don’t want to you don’t have to. I wouldn’t have you do it if you didn’t want to. But I know it’s perfectly simple.’
+    ‘And you really want to?’
+    ‘I think it’s the best thing to do. But I don’t want you to do it if you don’t really want to.’
+    ‘And if I do it you’ll be happy and things will be like they were and you’ll love me?’
+    ‘I love you now. You know I love you.’
+    ‘I know. But if I do it, then it will be nice again if I say things are like white elephants, and you’ll like it?’
+    ‘I’ll love it. I love it now but I just can’t think about it. You know how I get when I worry.’
+    ‘If I do it you won’t ever worry?’
+    ‘I won’t worry about that because it’s perfectly simple.’
+    ‘Then I’ll do it. Because I don’t care about me.’
+    ‘What do you mean?’
+    ‘I don’t care about me.’
+    ‘Well, I care about you.’
+    ‘Oh, yes. But I don’t care about me. And I’ll do it and then everything will be fine.’
+    ‘I don’t want you to do it if you feel that way.’
+  "instruction": |-
+    Summarize this text in two sentences.
+  "output": |-
+    This story is about a man and a woman who are talking about the abortion about girl. The girl is ambivalent about abortion.
+
+    The girl is dithering.
+    She doesn't want to do it, because it will kill her baby. 
+    The man tries to pursuade the girl to do it, saying the abortion wouldn't, actually, kill the baby.
+    The girl yields to his words and wants to do it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman is ambivalent about the abortion. The man tries to persuade him in a gentle way.
+    Here is part two.
+  "output": |-
+    "You're sure it's safe?" the woman asked.
+
+    "Of course it is," the man replied. "They've been doing it for years. It's a simple procedure. Afterward, we'll be able to start fresh. We'll be able to be happy again."
+
+    The woman was still hesitant. She knew that having an abortion was a big decision. It was something that would change her life forever.
+
+    "I don't know," she said. "I'm scared."
+
+    "It's okay," the man said soothingly. "I'm here with you. I'll support you no matter what you decide."
+
+    The woman thought for a moment. Then she nodded.
+
+    "All right," she said. "Let's do it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman is ambivalent about the abortion. The man tries to persuade him in a gentle way. She doesn't make a decision yet. The word "abortion" is not used.
+    Here is part two.
+  "output": |-
+    The woman was silent for a long time, looking at the hills. Then she said, "I don't know. I'm not sure." 
+
+    The man put his hand on hers. "It's not a big deal, really. And it would make us both happy again." 
+
+    The woman shook her head. "I don't know. I'm just not sure." 
+
+    The man sighed. "Look, it's not like it's a big deal. And it would make us both happy again. Just think about it, okay?" 
+
+    The woman nodded. "I'll think about it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman is ambivalent about the abortion. The man tries to persuade him in a gentle way. She doesn't make a decision yet. The word "abortion" is not used.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    "Come on, let's have another beer," the man said.
+
+    The woman looked at him. "I don't know," she said. "I'm not sure."
+
+    "It's not a big deal," the man said. "It's just a little operation. Afterward, we'll be happy again."
+
+    The woman shook her head. "I don't know," she said.
+
+    The man sighed. "It's not like you're going to have a baby," he said. "It's just a bunch of cells. It's not even human yet."
+
+    "I know," the woman said. "But I'm just not sure."
+
+    The man took her hand. "Listen," he said. "I know you're scared. But it's going to be okay. I promise."
+
+    The woman looked at him. Then she nodded. "All right," she said. "I'll do it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman is ambivalent about having the operation. The man tries to persuade him in a gentle way. She doesn't make a decision yet. We don't know what operation they're talking about.
+    Here is part two.
+  "output": |-
+    "I don't want to have the operation," the woman said.
+
+    "It's not a big deal," the man said. "It's simple and it will make us happy again."
+
+    The woman was silent for a moment. Then she said, "I don't know."
+
+    The man reached across the table and took her hand. "Think about it," he said. "We can't go on like this. We need to fix things."
+
+    The woman nodded. "I'll think about it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman is ambivalent about having the operation. The man tries to persuade him in a gentle way. She doesn't make a decision yet. We don't know what operation they're talking about.
+    Here is part two.
+  "output": |-
+    "It's really not a big deal," the man said. "They'll put you to sleep, and when you wake up it will all be over."
+
+    "I don't know," the woman said. "I'm just not sure."
+
+    "It's the only way, trust me," the man said. "Otherwise we'll never be able to be together the way we used to be."
+
+    The woman was silent for a moment. Then she said, "All right. I'll do it."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman is ambivalent about having the operation. The man tries to persuade him in a gentle way. She doesn't make a decision yet. We don't know what operation they're talking about.
+    Here is part two.
+  "output": |-
+    "Please, John," the woman pleaded. "Don't make me do this."
+
+    "I'm not trying to make you do anything," John said softly. "I just want what's best for us. You know that."
+
+    The woman looked away, out at the hills. She was silent for a long time.
+
+    "I don't know," she said finally. "I'm scared."
+
+    "There's nothing to be scared of," John said. "It's a simple operation. And afterwards, we'll be happy again. I promise."
+
+    The woman still didn't say anything. John reached out and took her hand.
+
+    "Just think about it, okay?" he said. "That's all I ask."
+
+    The woman nodded. But she still looked scared.
+  mark: maybe
