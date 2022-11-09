@@ -33,7 +33,7 @@ def generate(promptFile):
             response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=0.94)
         else:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_COMPLETION)
-            response = openai.Completion.create(engine=engine, prompt=newPrompt["input"], temperature=0.94, max_tokens=256)
+            response = openai.Completion.create(engine=engine, prompt=newPrompt["input"], temperature=0.94, max_tokens=256, frequency_penalty=0.5)
         newPrompt['output'] = response.choices[0].text.strip()
         print(newPrompt['output'])
     with open(promptFile, 'w') as promptsToWrite:

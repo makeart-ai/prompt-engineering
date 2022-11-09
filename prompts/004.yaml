@@ -1438,6 +1438,8 @@
     In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
     In part two, the woman is ambivalent about having the operation. The man tries to persuade him in a gentle way. She doesn't make a decision yet. We don't know what operation they're talking about.
     Here is part two.
+  "mark": |-
+    maybe
   "output": |-
     "Please, John," the woman pleaded. "Don't make me do this."
 
@@ -1454,4 +1456,468 @@
     "Just think about it, okay?" he said. "That's all I ask."
 
     The woman nodded. But she still looked scared.
-  mark: maybe
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "output": |-
+    "I know you're worried, dear," the man said, trying to show empathy. "But it's really not that big of a deal. The operation is simple and it's going to make us both happy again."
+
+    The woman just stared at him, not wanting to believe what he was saying. She knew he was just trying to make her feel better, but it wasn't working. She shook her head and turned away from him, looking out at the hills.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "output": |-
+    The woman said, "I don't want you to speak. Just sit here and drink your beer."
+
+    The man said, "I'm sorry. I know you're upset."
+
+    The woman said, "I don't want to talk about it. I just want to sit here and think."
+
+    The man said, "I understand. I'll just sit here with you and drink my beer."
+
+    The woman said, "Thank you."
+
+    They sat in silence for a while, then the man said, "I really am sorry. I know this is hard for you."
+
+    The woman said, "I know you are, but I just can't talk about it right now."
+
+    The man said, "I understand. We'll talk when you're ready."
+
+    They sat in silence for a while longer, then the woman said, "I'm sorry, but I think I need to be alone right now."
+
+    The man said, "I understand. I'll go sit over there."
+
+    The woman said, "Thank you."
+
+    The man got up and moved to the other side of the platform. He sat down and watched as the woman stared off into the distance.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    The woman looked away from the hills and stared at the man. “I don’t want you to talk to me,” she said. “Not now, not ever.”
+
+    The man took a sip of his beer and set it down. “I’m sorry,” he said. “I didn’t mean to upset you.”
+
+    The woman shook her head. “It’s not that,” she said. “I just can’t stand to hear you talk. Your voice, the way you say things, it’s like nails on a chalkboard.”
+
+    The man frowned. “I’m sorry,” he said. “I didn’t realize.”
+
+    The woman sighed. “It’s not your fault,” she said. “I know you’re trying to help. But I just can’t stand to listen to you.”
+
+    The man nodded. “I understand,” he said. “I’ll try to be more careful in what I say.”
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "output": |-
+    "Look, Emmy," said the man, "I know you're worried about the operation. But it's really not a big deal. The doctors say it's a simple procedure and you'll be back to your old self in no time. We can be happy again, just like we used to be."
+
+    "I don't want to talk about it," said the woman. "Just leave me alone."
+
+    "Okay, okay," said the man. "I'm sorry. I just want you to know that I'm here for you. I love you, no matter what."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman knows something would be taken away forever. She doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    The woman looked at the man, her eyes hard and cold.
+
+    "I don't want you to speak to me," she said. "I don't want to hear your voice."
+
+    The man was taken aback. He had been trying to show empathy, to let her know that he understood how she felt.
+
+    "I'm sorry," he said. "I just wanted to help."
+
+    "You can't help," the woman said. "No one can. Just leave me alone."
+
+    The man shrugged and took a sip of his beer. He didn't know what to say, so he said nothing. He just sat there, looking at the woman.
+
+    After a few minutes, the woman spoke again.
+
+    "This is my life," she said. "It's all I have. And you want to take it away from me."
+
+    The man shook his head.
+
+    "That's not true," he said. "I just want you to be happy."
+
+    "You don't know what happiness is," the woman said. "You never will."
+
+    The man looked at the woman, but said nothing. He didn't know how to respond to that.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman knows something would be taken away forever. She doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "output": |-
+    The woman continued to look at the hills, until the man said, "I know you're upset, but we can't go on like this. You need to have the operation, and then we can be happy again."
+
+    The woman turned to him, and in a voice full of anger and sorrow, she said, "You don't understand. I know what they'll take from me. I won't be the same person after the operation. I can't go through with it."
+
+    The man reached out to touch her, but she pulled away. "I'm sorry," he said. "I didn't know it would be this hard for you. But we can't go on like this. You have to have the operation."
+
+    The woman shook her head, and the tears began to fall. "No," she said. "I won't do it. I can't."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple after which they would be happy again.
+    In part two, the woman knows something would be taken away forever. She doesn't want the man to speak at all. The man tries to show empathy.
+    Here is part two.
+  "output": |-
+    The woman knew something would be taken away from her forever if she underwent the operation, and she didn't want the man to speak at all. The man tried to show empathy, but the woman turned away from him.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, she doesn't say what.
+    Here is part two.
+  "output": |-
+    The train was due in a few minutes. John took their baggages to the platform and came back to Margaret. She was smiling.
+
+    "I've made up my mind, John. I'll have the operation."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, she doesn't say what.
+    Here is part two.
+  "output": |-
+    "I'm glad you've decided to have the operation," the man said as he put their bags down on the platform. "It's the best thing for you."
+
+    The woman smiled. "I know it is," she said. "And I'm ready for it."
+
+    The man put his arm around the woman and kissed her. "I'm proud of you," he said. "I know it's not easy, but you're doing the right thing."
+
+    The woman nodded. "I know," she said. "And I'm not scared."
+
+    The man hugged the woman tightly. "I love you," he said.
+
+    "I love you too," the woman said.
+
+    They boarded the train and found their seats. The man held the woman's hand as the train began to move. She leaned her head against his shoulder and closed her eyes.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    Here is part two.
+  "output": |-
+    The train whistle blew.
+
+    The man picked up their baggages and led the way to the platform. By the time he was back to the woman, she was smiling.
+
+    "I've made up my mind," she said. "I'm going to have the operation."
+
+    "I'm glad," the man said. "I'm sure it will be for the best."
+
+    The woman nodded. She knew something would be taken away forever, but she was ready to face it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    Here is part two.
+  "output": |-
+    The train was due any minute now. The man took their baggages to the platform. By the time he was back to the woman, she smiled. She had made a decision, but she didn't talk about it. She showed everything was fine.
+    "I'm sorry about what I said before," the man said. "I know it's a difficult decision."
+    "It's not that difficult," the woman replied. "I've made up my mind."
+    The man nodded and they sat in silence, waiting for the train.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs. It has three parts.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    Here is part two.
+  "output": |-
+    The train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+  "problem":
+    "statement": |-
+      It keeps repeating the prompt.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs. It has three parts.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    In part three, they get on the train.
+    Here is part two.
+  "output": |-
+    The train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+  "problem":
+    "hypothesis": |-
+      It doesn't work to say it has 3 parts and here is part 2.
+    "statement": |-
+      It still keeps repeating the prompt.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. By the time he is back to the woman, she smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    Here is part two.
+  "output": |-
+    The train whistle blew, and the man took their baggages to the platform. By the time he was back to the woman, she smiled. She had made a decision, but she didn't talk about it. She showed everything was fine.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. Then he goes back to the woman. She smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    The train was due any minute now. Carl took their baggages to the platform, then came back to where she was sitting.
+
+    "You sure you're all right?" he asked, looking at her closely.
+
+    She smiled. "Yes, I'm fine," she said.
+
+    She had made her decision, but she didn't want to talk about it yet. She wanted to wait until they were on the train, and then she would tell him. But for now, everything was fine.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. Then he goes back to the woman. She smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows everything is fine.
+    Here is part two.
+  "output": |-
+    The train was due any minute now. The man took their baggages to the platform and then came back to the woman. She was smiling.
+
+    "What is it?" he asked.
+
+    "I've made my decision," she said.
+
+    "That's good," he replied.
+
+    She didn't say anything else, but her smile showed that everything was fine.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. She makes a decision. When he comes back to her, she smiles. She shows everything is fine. She doesn't speak about the decision she has made.
+    Here is part two.
+  "output": |-
+    The train is about to come. The man takes their baggages to the platform. She makes a decision. When he comes back to her, she smiles. She shows everything is fine. She doesn't speak about the decision she has made.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. She makes a decision. When he comes back to her, she smiles. She shows everything is fine. She doesn't speak about the decision she has made.
+    Here is part two.
+  "output": |-
+    The train was due in a few minutes. The man took their baggages to the platform and came back to her. He was relieved to see that she was smiling.
+
+    "Are you sure you're all right?" he asked.
+
+    "Yes, I'm fine," she said.
+
+    She didn't speak about the decision she had made.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. Then he goes back to the woman. She smiles. She has made a decision, whether or not to have the operation, but she doesn't talk about it. She shows she's fine.
+    Here is part two.
+  "output": |-
+    The train whistle blew, and the man picked up their baggages and took them to the platform. He came back to the woman and she was smiling.
+
+    "I've made my decision," she said. "I'm going to have the operation."
+
+    "I'm glad," the man said. "I think it's the right thing to do."
+
+    "I know it is," the woman said. "I'm not afraid."
+
+    They hugged each other, and then the man helped the woman onto the train. She waved to him as the train pulled away.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages to the platform. Then he goes back to the woman. The woman smiles. She shows she's fine.
+    Here is part two.
+  "output": |-
+    "All right, then," the man said, with a touch of relief in his voice. He picked up their two small suitcases and started toward the platform.
+
+    The woman watched him go, then turned her head and looked out at the hills again. She was still smiling.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages and carries them to the platform. Then he goes back to the woman. The woman smiles. She shows she's fine.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    "The train's coming," the man said, getting up and picking up their bags. "I'll take these down to the platform."
+
+    He walked away, and the woman watched him go. Then she turned and looked out at the hills again.
+
+    The man came back a few minutes later. "Are you sure you're all right?" he asked.
+
+    The woman nodded and smiled. "I'm fine," she said. "Don't worry about me."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages and carries them to the platform. Then he goes back to the woman. The woman smiles. She shows she's fine.
+    Here is part two.
+  "mark": |-
+    maybe
+  "output": |-
+    "I'm sorry about this, darling," the man said as he took their baggages and carried them to the platform. "I know you're not feeling well, but I promise it will be over before you know it."
+
+    The woman smiled. "I'm fine," she said. "Really, I am. Don't worry about me."
+
+    The man kissed her forehead. "I'll be right back," he said.
+
+    The woman watched him go, then she turned her gaze to the hills. She knew something would be taken away from her forever, but she was ready to face it.
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages and carries them to the platform. Then he goes back to the woman. Now, something has changed in the woman, she smiles. She shows she's fine.
+    Here is part two.
+  "output": |-
+    "I'm sorry," the woman said, "I didn't mean to be rude."
+
+    "It's all right," the man said. "I understand."
+
+    He picked up their baggages and carried them to the platform. Then he went back to the woman.
+
+    "Are you sure you're all right?" he asked.
+
+    "Yes, I'm fine," she said, smiling. "I'm just a little nervous, that's all."
+
+    "There's nothing to be nervous about," the man said. "It's a simple operation, and it will be over before you know it."
+
+    "I know," the woman said. "I'm just scared that something will be taken away from me forever."
+
+    "Don't worry," the man said. "I'll be with you every step of the way. I promise."
+- "input": |-
+    This is a famous, 1500 word short story from 1920's. It uses plain language, dry dialogs.
+    In part one, a couple is sitting at a small train station and having a beer. There is a tension between the man and the woman. The woman looks at the hills. The man talks about an operation the woman would undergo. He wants her to have the operation and makes it sound simple. The woman knows something would be taken away forever. The man tries to show empathy.
+    In part two, the train is about to come. The man takes their baggages and carries them to the platform. Then he goes back to the woman. Now, something has changed in the woman, she smiles. She shows she's fine.
+    Here is part two.
+  "output": |-
+    The couple sat in silence for a few moments, until the sound of the train coming down the tracks broke the spell. The man jumped up and grabbed their baggages, carrying them out to the platform. He came back a few moments later to find the woman smiling.
+
+    "What's wrong?" he asked.
+
+    "Nothing," she replied. "I'm fine."
+
+    "Are you sure?"
+
+    "Yes, I'm sure. Let's go home."
+- "input": |-
+    The sun beat down mercilessly on the small hilltop train station. There was no relief from the heat, not even in the shade of the scrawny tree that offered meager protection from the brutal Spanish sun. The only relief was in the form of a small bar next to the station.
+    The couple sitting outside the bar was grateful for the opportunity to drink something cold. They were both sweating heavily, and the woman was fanning herself with her hand.
+    "It's so hot today," the woman said. "I can't believe how hot it is."
+    "I know," the man said. "It's unbearable. I can't wait to get on the train and get out of this heat."
+    "What should we drink?" the woman asked.
+    "Beer, I think," the man said. "Beer is always good in this weather."
+    "Yes, it's very hot," said the woman. "I think I'll have a lemonade."
+    "Lemonade?" the man said, his voice rising. "In this heat? Are you crazy?"
+    "I don't see why not," the woman said. "It would be refreshing."
+    "No, no, no," the man said. "You must have beer. Only beer can help in this heat."
+    The woman was silent for a moment. Then she said, "All right, I'll have a beer."
+    The man called to the waiter and ordered two beers. He drank deeply from his glass, and the woman sipped her beer slowly.
+    "Do you know," the woman said, "that these hills look like animals?"
+    "What animals?" the man said.
+    "I don't know," the woman said. "Some rare animals, like elephants or giraffes."
+    The man laughed. "They don't look like elephants or giraffes. They look like hills."
+    "Well, I think they look like animals," the woman said.
+    The man was about to say something, but he stopped himself.
+
+    She looked at the hills. The sun was setting and the colors were beautiful. She didn't want to leave this place. It was peaceful and she felt safe here.
+    "It's not going to be that bad," he said. "They'll just put you to sleep and when you wake up, it will all be over."
+    "I don't know," she said. "I'm scared."
+    "There's nothing to be scared of," he said. "I'll be with you the whole time. I promise."
+    She looked at him. "I don't know, Joe. I'm just not sure."
+    "What's there to be unsure about, Babe? The operation is simple, and it's not going to hurt. Afterward, we'll be able to be happy again."
+    "I know, but... I don't know. It just seems like a big step."
+    "It's not a big step, Babe. It's a small step. And it's the only way to fix what's wrong."
+    "Please, Joe," the woman pleaded. "Don't make me do this."
+    "I'm not trying to make you do anything," Joe said softly. "I just want what's best for us. You know that."
+    The woman looked away, out at the hills. She was silent for a long time.
+    "I don't know," she said finally. "I'm scared."
+    "There's nothing to be scared of," Joe said. "It's a simple operation. And afterwards, we'll be happy again. I promise."
+    The woman still didn't say anything. Joe reached out and took her hand.
+    "Just think about it, okay?" he said. "That's all I ask."
+    The woman nodded. But she still looked scared.
+
+    The woman looked away from the hills and stared at the man. “I don’t want you to talk to me,” she said. “Not now, not ever.”
+    The man took a sip of his beer and set it down. “I’m sorry,” he said. “I didn’t mean to upset you.”
+    The woman shook her head. “It’s not that,” she said. “I just can’t stand to hear you talk. Your voice, the way you say things, it’s like nails on a chalkboard.”
+    "I'm sorry," he said. "I just wanted to help."
+    "You can't help," the woman said. "No one can. Just leave me alone."
+    The man shrugged and took a sip of his beer. He didn't know what to say, so he said nothing. He just sat there, looking at the woman.
+    After a few minutes, the woman spoke again.
+    "This is my life," she said. "It's all I have. And you want to take it away from me."
+    The man shook his head.
+    "That's not true," he said. "I just want you to be happy."
+    "You don't know what happiness is," the woman said. "You never will."
+    The man looked at the woman, but said nothing. He didn't know how to respond to that.
+
+    The couple sat in silence for a few moments, until the sound of the train coming down the tracks broke the spell. The man jumped up and grabbed their baggages, carrying them out to the platform. He came back a few moments later to find the woman smiling.
+    "What's wrong?" he asked.
+    "Nothing," she replied. "I'm fine."
+    "Are you sure?"
+    "Yes, I'm sure. Let's go home."
+  "instruction": |-
+    Give this writing 5 title ideas
+  "output": |-
+    The sun beat down mercilessly on the small hilltop train station. There was no relief from the heat, not even in the shade of the scrawny tree that offered meager protection from the brutal Spanish sun. The only relief was in the form of a small bar next to the station.
+    The couple sitting outside the bar was grateful for the opportunity to drink something cold. They were both sweating heavily, and the woman was fanning herself with her hand.
+    "It's so hot today," the woman said. "I can't believe how hot it is."
+    "I know," the man said. "It's unbearable. I can't wait to get on the train and get out of this heat."
+    "What should we drink?" the woman asked.
+    "Beer, I think," the man said. "Beer is always good in this weather."
+    "Yes, it's very hot," said the woman. "I think I'll have a lemonade."
+    "Lemonade?" the man said, his voice rising. "In this heat? Are you crazy?"
+    "I don't see why not," the woman said. "It would be refreshing."
+    "No, no, no," the man said. "You must have beer. Only beer can help in this heat."
+    The woman was silent for a moment. Then she said, "All right, I'll have a beer."
+    The man called to the waiter and ordered two beers. He drank deeply from his glass, and the woman sipped her beer slowly.
+    "Do you know," the woman said, "that these hills look like animals?"
+    "What animals?" the man said.
+    "I don't know," the woman said. "Some rare animals, like elephants or giraffes."
+    The man laughed. "They don't look like elephants or giraffes. They look like hills."
+    "Well, I think they look like animals," the woman said.
+    The man was about to say something, but he stopped himself.
+
+    She looked at the hills. The sun was setting and the colors were beautiful. She didn't want to leave this place. It was peaceful and she felt safe here.
+    "It's not going to be that bad," he said. "They'll just put you to sleep and when you wake up, it will all be over."
+    "I don't know," she said. "I'm scared."
+    "There's nothing to be scared of," he said. "I'll be with you the whole time. I promise."
+    She looked at him. "I don't know, Joe. I'm just not sure."
+    "What's there to be unsure about, Babe? The operation is simple, and it's not going to hurt. Afterward, we'll be able to be happy again."
+    "I know, but... I don't know. It just seems like a big step."
+    "It's not a big step, Babe. It's a small step. And it's the only way to fix what's wrong."
+    "Please, Joe," the woman pleaded. "Don't make me do this."
+    "I'm not trying to make you do anything," Joe said softly. "I just want what's best for us. You know that."
+    The woman looked away, out at the hills. She was silent for a long time.
+    "I don't know," she said finally. "I'm scared."
+    "There's nothing to be scared of," Joe said. "It's a simple operation. And afterwards, we'll be happy again. I promise."
+    The woman still didn't say anything. Joe reached out and took her hand.
+    "Just think about it, okay?" he said. "That's all I ask."
+    The woman nodded. But she still looked scared.
+
+    The woman looked away from the hills and stared at the man. “I don’t want you to talk to me,” she said. “Not now, not ever.”
+    The man took a sip of his beer and set it down. “I’m sorry,” he said. “I didn’t mean to upset you.”
+    The woman shook her head. “It’s not that,” she said. “I just can’t stand to hear you talk. Your voice, the way you say things, it’s like nails on a chalkboard.”
+    "I'm sorry," he said. "I just wanted to help."
+    "You can't help," the woman said. "No one can. Just leave me alone."
+    The man shrugged and took a sip of his beer. He didn't know what to say, so he said nothing. He just sat there, looking at the woman.
+    After a few minutes, the woman spoke again.
+    "This is my life," she said. "It's all I have. And you want to take it away from me."
+    The man shook his head.
+    "That's not true," he said. "I just want you to be happy."
+    "You don't know what happiness is," the woman said. "You never will."
+    The man looked at the woman, but said nothing. He didn't know how to respond to that.
+
+    The couple sat in silence for a few moments, until the sound of the train coming down the tracks broke the spell. The man jumped up and grabbed their baggages, carrying them out to the platform. He came back a few moments later to find the woman smiling.
+    "What's wrong?" he asked.
+    "Nothing," she replied. "I'm fine."
+    "Are you sure?"
+    "Yes, I'm sure. Let's go home."
+    5 heading ideas.
+    1.
+    There's nothing to fear
+    2.
+    Heart of Darkness
+    3.
+    All of Us
+    4.
+    The Right Thing to Do
+    5.
+    I know but...
