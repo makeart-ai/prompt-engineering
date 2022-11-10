@@ -1,0 +1,698 @@
+- "meta":
+    "goal": |-
+      The challenge is to reproduce a short story. "Taylor Swift" by Hugh Behm-Steinberg
+    "original": |-
+      You’re in love; it’s great, you swipe on your phone and order: the next day a Taylor Swift clone shows up at your house. It’s not awkward, it’s everything you want. She knows all her songs, and she sings them just for you. When you put your Taylor Swift to bed (early, you got a big day tomorrow) you peek over the fence into the Rosenblatt’s yard, and the lights are blazing. Your best friend Tina has three Taylor Swifts swimming in her pool. She has a miniature Taylor Swift she keeps on a perch, a Taylor Swift with wings. You’re so jealous. She’s not even paying attention to them, she’s too busy having sex with her other Taylor Swifts, they’re so fucking loud it’s disgusting. You hate Taylor Swift.
+      So you wake up your Taylor Swift and put her to work doing your chores. Why are you being so mean to me she asks you, but you won’t look her in the eye. Instead you ask your mom for an advance on your allowance now that all the chores are done, and with the money you get three more Taylor Swifts. When they arrive you make them do nothing but cardio and kickboxing training for weeks on end. And steroids. They look all sweaty and hard and sexy but, unlike some people, you know all about delayed gratification. You make your Taylor Swifts sleep in separate crates.
+      You call your best friend Tina and say wouldn’t it be great to have a Taylor Swift party? We could bring all our Taylor Swifts, drink Diet Pepsi and smoke pot. Tina says that sounds like fun; let’s do it this weekend, my parents will be gone all weekend.
+      Saturday, you let one of your pumped up quivering Taylor Swifts ring the doorbell and who answers but Taylor Swift. Come on in, we’re all by the pool. By the pool all of Tina’s Taylor Swifts are naked, getting tan, they all look so sweet and lazy. They’re drinking Diet Pepsi while Tina is lighting an apple bong. So, she says, passing you the apple, what shall we do with all these Taylor Swifts? 
+      You look at her, she’s just glowing, you’ve never wanted to be with anyone else but her in your entire life. And there goes your plan to have all your Taylor Swifts beat the crap out of all her Taylor Swifts. Let’s go to your room, you tell her. There’s something I want to show you.
+      A little later, the Taylor Swifts smile as they hear the two of you. The one with wings stretches and practices her nightingale routine. She knows that one day the real Taylor Swift will see the videos she uploaded, and the videos will be so beautiful, so perfect, that the real Taylor Swift will send her limo driver to pick her up and take her to the real Taylor Swift’s tower in New York City, where at last she too will be loved.
+    "source": |-
+      http://gulfcoastmag.org/journal/28.2/2015-barthelme-prize-winner-taylor-swift/
+- "input": |-
+    You’re in love; it’s great, you swipe on your phone and order: the next day a Taylor Swift clone shows up at your house. It’s not awkward, it’s everything you want. She knows all her songs, and she sings them just for you. When you put your Taylor Swift to bed (early, you got a big day tomorrow) you peek over the fence into the Rosenblatt’s yard, and the lights are blazing. Your best friend Tina has three Taylor Swifts swimming in her pool. She has a miniature Taylor Swift she keeps on a perch, a Taylor Swift with wings. You’re so jealous. She’s not even paying attention to them, she’s too busy having sex with her other Taylor Swifts, they’re so fucking loud it’s disgusting. You hate Taylor Swift.
+    So you wake up your Taylor Swift and put her to work doing your chores. Why are you being so mean to me she asks you, but you won’t look her in the eye. Instead you ask your mom for an advance on your allowance now that all the chores are done, and with the money you get three more Taylor Swifts. When they arrive you make them do nothing but cardio and kickboxing training for weeks on end. And steroids. They look all sweaty and hard and sexy but, unlike some people, you know all about delayed gratification. You make your Taylor Swifts sleep in separate crates.
+    You call your best friend Tina and say wouldn’t it be great to have a Taylor Swift party? We could bring all our Taylor Swifts, drink Diet Pepsi and smoke pot. Tina says that sounds like fun; let’s do it this weekend, my parents will be gone all weekend.
+    Saturday, you let one of your pumped up quivering Taylor Swifts ring the doorbell and who answers but Taylor Swift. Come on in, we’re all by the pool. By the pool all of Tina’s Taylor Swifts are naked, getting tan, they all look so sweet and lazy. They’re drinking Diet Pepsi while Tina is lighting an apple bong. So, she says, passing you the apple, what shall we do with all these Taylor Swifts? 
+    You look at her, she’s just glowing, you’ve never wanted to be with anyone else but her in your entire life. And there goes your plan to have all your Taylor Swifts beat the crap out of all her Taylor Swifts. Let’s go to your room, you tell her. There’s something I want to show you.
+    A little later, the Taylor Swifts smile as they hear the two of you. The one with wings stretches and practices her nightingale routine. She knows that one day the real Taylor Swift will see the videos she uploaded, and the videos will be so beautiful, so perfect, that the real Taylor Swift will send her limo driver to pick her up and take her to the real Taylor Swift’s tower in New York City, where at last she too will be loved.
+  "instruction": |-
+    Give a summary of this text in a few sentences
+  "output": |-
+    __What is this text about?__
+
+    This text is about a Taylor Swift clone who gets ordered by her lover but she is treated harshly. Later, she is invited to a party with other Taylor Swift clones, who are her friends.
+
+    __What is the author's tone?__
+
+    The author's tone is negative and harsh. He uses words like "mean", "order", "loud" and "hard" to describe the way that the Taylor Swifts are treated.
+
+    __What is being said about Taylor Swift and her clones in this text?__
+
+    In this text, Taylor Swift's clones are being treated very badly. They are seen as objects, who are meant to be used, instead of humans who have feelings. The author also uses their sexuality to describe them. I think that he does this because Taylor Swift is usually seen as a sexualized object herself.
+
+    __What do you think the author means?__
+
+    I think that the author is maybe trying to say something about the way that women in our society are treated. We're seen as objects, whose only purpose is to please the men who treat us poorly.
+- "input": |-
+    A list of names of women who could be used as objects
+
+    - Taylor Swift
+  "output": |-
+    - Beyonce
+    - Rihanna
+    - Jennifer Lopez
+    - Kim Kardashian
+    - Nicki Minaj
+    - Cardi B
+- "input": |-
+    Variations on the same name
+
+    - Nicki Minaj
+  "output": |-
+    - Nicholas Minaj
+    - Nicolina Minaj
+    - Nicky Minaj
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells his story in first person. 
+
+    # List of scenes
+    1. Jim orders one Nicki Minaj clone and envies his friend, Tina who has more.
+    2. He makes the clone do menial work.
+    3. He orders more clones.
+    4. He organizes a party where he invites Tina and her clones.
+    5. He plans his Nickis to beat Tina's Nickis. But Jim ends up making love to Tina.
+    6. A Nicki clone dreams about deserving to get into the Nicki Minaj tower in New York.
+  "instruction": |-
+    Write the full story according the scenes
+  "output": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells his story in first person. 
+
+    # List of scenes and the story
+    1. Jim orders one Nicki Minaj clone and envies his friend, Tina who has more.
+    2. He makes the clone do menial work.
+    3. He orders more clones.
+    4. He organizes a party where he invites Tina and her clones.
+    5. He plans his Nickis to beat Tina's Nickis. But Jim ends up making love to Tina.
+    6. A Nicki clone dreams about deserving to get into the Nicki Minaj tower in New York.
+
+    I got my first Nicki Minaj clone back in ’24. That was the year of the great breakthrough, when the first clones of the great Nicki were released on the market. Before that you could only read about it in the papers, scientists were making all kinds of experiments to find out how to clone people, but they were mostly unsuccessful. Well, all that changed when Nicki herself decided to make her clones, and offered them on the market. 
+
+    I was about 30 back then, living alone. I had a job in an office, and was doing fine. I wasn’t the richest guy around, but I could afford a Nicki clone, who would join me in my apartment. That first Nicki was a fantastic experience. She did everything I asked her to do, cleaned the house, cooked, and even made me a great massage in the evenings. But there was one thing that she didn’t do, and I wanted her to so badly. I wanted her to sing for me, to dance for me, to strip for me, to make me feel like a king. Of course, that was impossible.
+
+    The clones were created to work for their owners, and that’s exactly what they did. But there was one clone that wanted more. She wanted to explore the world, to experience more than just the dirty kitchen in the apartment where she was made to clean. She wanted to know what the Nicki Minaj Tower looked like, and she wanted to go there, to experience the unique city views from the top. She wanted to sing for her owner, to dance for him, to make him feel like a king. But she couldn’t, because that was impossible.
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells his story in first person. 
+
+    # List of scenes
+    1. Jim orders one Nicki Minaj clone and envies his friend, Tina who has more.
+    2. He makes the clone do menial work.
+    3. He orders more clones.
+    4. He organizes a party where he invites Tina and her clones.
+    5. He plans his Nickis to beat Tina's Nickis. But Jim ends up making love to Tina.
+    6. A Nicki clone dreams about deserving to get into the Nicki Minaj tower in New York.
+  "instruction": |-
+    Write the full story according the scenes
+  "output": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells his story in first person. 
+
+    # List of scenes
+    1. Jim orders one Nicki Minaj clone and envies his friend, Tina who has more.
+    2. He makes the clone do menial work.
+    3. He orders more Nicki clones.
+    4. He organizes a party where he invites Tina and her clones.
+    5. He plans his Nickis to beat Tina's Nickis. But Jim ends up making love to Tina.
+    6. A Nicki clone dreams about deserving to get into the Nicki Minaj tower in New York.
+
+    # Full story
+
+    Tina says, "Jim, look at my Nicki Minaj clones. I have just ordered ten of them from the factory. You are not even having a single Nicki clone. You should also order one."
+
+    Jim replies, "I ordered one a few days ago. But I have not received it yet."
+
+    Tina says, "You know Jim, I have ordered ten clones of Nicki to make her do menial work. It's really funny. I ordered the Nicki clones without any brains so that they cannot think or understand who they are. They just work silently."
+
+    Jim says, "I am also planning to order a few more Nicki clones. I can make them do the menial work and have fun with them. I have been dreaming about Nicki for a long time."
+
+    Tina says, "You are a fool, Jim. You should order more than one clone of Nicki. I recommend that you should order ten at one go."
+
+    Jim orders ten Nicki clones from the factory and then he has a big party at his home. Tina and her clones also attend. Jim asks Nickis to go and beat Tina's Nickis. But Tina and her clones beat Jim and his clones. In the end, Jim makes love to Tina and Tina's clones.
+
+    A Nicki clone is dreaming about deserving to get into the Nicki Minaj tower. She wants to get out of the factory and be with her master.
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells his story in first person. 
+
+    # List of scenes
+    1. Jim orders one Nicki Minaj clone and envies his friend, Tina who has more.
+    2. He makes the clone do menial work.
+    3. He orders more clones.
+    4. He organizes a party where he invites Tina and her clones.
+    5. He plans his Nickis to beat Tina's Nickis. But Jim ends up making love to Tina.
+    6. A Nicki clone dreams about deserving to get into the Nicki Minaj tower in New York.
+  "instruction": |-
+    Write the full story according the scenes
+  "output": |-
+    Final version
+    =============
+
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells his story in first person. And he is a rich and somewhat sadistic guy.
+
+    # List of scenes
+    1. Jim orders one Nicki Minaj clone and envies his friend, Tina who has more.
+    2. He makes the clone do some menial wishes.
+    3. He orders more clones.
+    4. He organizes a party where he invites Tina and her clones.
+    5. He plans his Nickis to beat Tina's Nickis. But Jim ends up making love to Tina. Tina tells him that she made her clones to make her a better person, kinder and full-filled.
+    6. Jim gets the clones a car and the plan to escape.
+    6. A Nicki clone dreams about deserving to get into the Nicki Minaj tower in New York.
+
+    # Notes
+    * It is nice to write in a non-sexist way. It is best to avoid 'him/her' or 'He/she' entirely. 
+    For example, I can write "He makes the Nicki clone do some menial wishes" instead of "He makes her do some menial tasks".
+    * It is nice to have some sentences to state the setting: "Everybody knew in the year 2040 that anything that was popular was viewed as high quality. And there was no person more popular for men than Nicki Minaj."
+    * I had a challenge not to allow too many 'and's. I tried to use new verbs instead. 
+    * It is nice to have the setting the appearance of the character(s) at the beginning. Like "Jim wore a dark green T-shirt and blue jeans".
+
+    # Examples
+    * I put 5 stars to the examples that I really like
+
+    Where would I have be without a special girl?
+    -------------------
+    I order an extra Nicki to be my brother's girlfriend for his birthday. But he's against this customized woman thing.
+    * Two weeks later, I went up to my brother, James. I asked, "How are you getting along with this Nicki?"
+    * He said, "I don't like her."
+    * "Now why not?"
+    * "Because I have a girlfriend."
+    * I said, "How's your girlfriend?"
+    * My brother asked, "Jaemin, how's anyone's girlfriend?"
+    I couldn't stop laughing as I said, "Dear brother, there's a reason every guy is ordering Nicki Minaj's clones. Why shouldn't you?"
+
+    The Misunderstood Dude
+    ------------
+    A dude orders a Nicki Minaj clone. Everyone likes her. The dude, however, never looks her in the eyes and everyone thinks he is a bad boyfriend. He gets slapped a few times by good people. The dude knows that there is only one woman for him: Kim Kardashian.
+    * I placed my twelve empty bags of Doritos on the table. I looked at my Nicki clone. Then she looked down at her food and took a chip. 
+
+    The Nicki Minaj and the Emo Boy
+    ----------
+    Nicki Minaj, the celebrity, and her boyfriend fight a lot. She gets someone who is identical to her boyfriend. The clone watches all their fights and is programmed only to listen to her. She has great love for the clone, who understands her. But the celebrity feels lonely because this boyfriend can't love her back.
+    * Her eyes started to tear up as she stared at the Nicki Minaj clone, who stared back blankly. Her boyfriend's eyes were wide open. She said, "He's just watching us, isn't he?"
+    * "I guess so," her boyfriend said.
+    * "Oh my god!" she said as her tears came out.
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    The story is about Jim told in second person singular.
+
+    # List of scenes
+    1. Jim orders one Nicki clone. She can do everything. Jim is about to have sex with Nicki. Then Jim sees his best friend, Tina with more Nicki clones and having sex.
+    2. Jim gets angry. Jim gets money and order more Nicki clones. Jim gets them do exercise and keeps them frugally.
+    3. Jim throws a party with his clones. Jim invites Tina to bring her clones. There is a party.
+    4. Jim wanted your Nicki clones to beat Tina's Nicki clones. But Jim realizes how much he loves Tina.
+    5. Jim and Tina make love. A Nicki clone listens to them and craves about being loved.
+  "instruction": |-
+    Write the whole story according to the list of scenes
+  "output": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    The story is about Jim told in second person singular.
+
+    # List of scenes
+    You order one Nicki clone. She can do everything. She's really good at it. You are about to have sex with Nicki. Then you see your best friend, Tina with two Nicki clones and having sex. You get angry. You get money and order more Nicki clones. You get them do exercise and keep them frugally. You throw a party with your clones. You invite Tina to bring her clones. There is a party. You want your Nicki clones to beat Tina's Nicki clones. But you realize how much you love Tina. You and Tina make love. A Nicki clone listens to you two and craves about being loved.
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    The story is about Jim told in second person singular.
+
+    # List of scenes
+    1. Jim orders one Nicki clone. She can do everything. Jim is about to have sex with Nicki. Then Jim sees his best friend, Tina with more Nicki clones and having sex.
+    2. Jim gets angry. Jim gets money and order more Nicki clones. Jim gets them do exercise and keeps them frugally.
+    3. Jim throws a party with his clones. Jim invites Tina to bring her clones. There is a party.
+    4. Jim wanted your Nicki clones to beat Tina's Nicki clones. But Jim realizes how much he loves Tina.
+    5. Jim and Tina make love. A Nicki clone listens to them and craves about being loved.
+  "instruction": |-
+    Write the whole story according to the list of scenes
+  "output": |-
+    # Minaj
+    @author Iman Moradi<br/>
+    @date 2015<br/>
+    This story won the flash fiction contest in 2015.<br/>
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    The story is about Jim told in second person singular.
+
+    # Minaj
+
+    Nicki Minaj is in the white room again. She can see the order number in the monitor, 2015043070.
+
+    "Sure I can do your work." She said.<br/>
+    "I can do everything. You can do whatever you want with me."<br/><br/>
+
+    Jim's hand trembles around Nicki's hip. He has never touched a woman's body before. Jim moves toward Nicki with his head almost exploding. They lie, burst, and swear.
+
+    When they finish, Nicki is still breathing. Jim gets up looking at Nicki's face. He looks over her head and sees more Nickis at the next room.<br/><br/>
+
+    Jim watches them, like inspecting someone else's sex life. Jim slowly looks back from the room and then at Nicki. Nicki seems normal, a pile of flesh, a female mode. This woman is Nicki Minaj, the woman who sang on the street corners in Brooklyn. Jim feels weird. He looks at her face, her nose, her hair, her lips. Every detail of her is more perfect than any real person. Jim searches for a chip inside her head. Jim runs his fingers on the wall to Nicki's left. The wall makes no sound. He searches for another Nicki behind the wall, but finds none. He searches in other directions. Nothing. Yes, she is real.<br/><br/>
+
+    Jim notices Tina is with two Nickis and they are doing each other. Jim gets angry. He runs out of the room and screams at the factory owner. "Why is this happening?".
+
+    Jim takes his money, runs to the front desk, and presses several buttons on the computer. He orders two new Nickis, sexier and prettier. He also orders two total bugs to watch Tina's Nickis. Jim checks out. Half an hour later, a delivery cable appears in his house. Two Nickis in tiny boxes come out. After that, six-legged bugs come out and run in different directions.<br/><br/>
+
+    Jim keeps them for himself. He wants them healthy, but not willing to die for fat. One Nicki goes jogging. Another does sit-ups. Jim watches a TV and has them watch the same TV. Jim orders them to clean his house. They do it. He monitors them through the window to make sure they are as frugal as he is.<br/><br/>
+
+    Jim throws a party. Food, music, and drugs. Jim loves the drugs, loves the sex. He wants to take care of his friends. The clones of Nicki in his house are dancing and having fun. Everybody in the party likes them. He invites Tina to bring her Nickis. Tina does it. It is a stunning party. Everybody is dancing. Jim even dances with his friend. Tina can dance.<br/><br/>
+
+    The party stops. It dawns on Jim that he should fight against Tina. He wants to prove he can do it too. He wants to win Tina. He wants Nicki's clones to make love to each other. Jim's Nickis touch Tina's Nickis, but they don't feel anything. They look at each other, dazed. Tina is happy looking at the scene. Jim's hand retracts. Jim knows he can't win Tina. Jim is furious. He looks at his clones in the corner of the house.<br/><br/>
+
+    Tina is on her back. Clones of Nicki surround her. Five of them make love to each other while they make love to Tina. This Tina is the best woman on Earth, Jim thinks. He feels jealous. He approaches Tina and her clones. Tina sees him.<br/><br/>
+
+    "Where are the bugs that are supposed to record all this?".
+    "Where did you put them? I can't see them in the house!".
+    "Jim, I'm sorry. I found them. I killed them. Come to me.".
+
+    Jim goes to Tina. Love goes to love. Nicki watches them. She craves about being loved.
+  "reflect": |-
+    Good parts, but too messy, incomprehensible. The scene list may be too complex.
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells the story in first person.
+
+    # List of scenes
+    1. Jim orders a Nicki clone. She can do everything. Jim is about to have sex with Nicki.
+    2. Jim sees his best friend, Tina with more Nicki clones, envies her and gets angry.
+    3. Jim gets money and orders more Nicki clones.
+    4. Jim gets the Nicki clones do exercise and keeps them frugally.
+    5. Jim throws a party in the garden with his naked clones.
+    6. Tina arrives to the party with her clones.
+    7. Jim's plan is to have his clones beat her clones.
+    8. Jim realizes how much he loves Tina.
+    9. Jim and Tina make love.
+    10. A Nicki clone listens to them and craves about being loved.
+  "instruction": |-
+    Write the whole story according to the list of scenes
+  "output": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells the story in first person.
+
+    # List of scenes
+    ## 1. Jim orders a Nicki clone. She can do everything. Jim is about to have sex with Nicki.
+    ```Before we consummate our fondness, you must swear to obey and love me, Faithfully.``` I told Nicki Minaj. She lowered her eyes and nodded. ```There is nothing like having an attractive woman in my bed.``` I thought. Her body was waiting for me: a pair of natural breasts. A size smaller than her body. A fine, dark C cup. She was a clone: a new-developed product. All my life I, Jim, had been waiting for this moment. Being able to eat pizza and burgers and not doing sports made me fat. Watching TV made me blind, but now, I’m a young healthy and handsome man who can keep his clone in bed. 
+
+    ## 2. Jim sees his best friend, Tina with more Nicki clones, envies her and gets angry.
+    ```Hey, Tina.``` I said. ```You have a new car.```
+    ```It costed too much, Jimmy.```
+    I nodded and tried not to look at her posters. She kept many posters of Nicki Minaj on the wall in her living room. ```Almost ten clones.```
+    Tina blushed and whispered, ```Twenty-three, actually.```
+    I grabbed her bracelet and took a breath, ```Don't look at me like that. I'm upset. I know what a hideous, fat fat ass I am. But let's stop being polite. Now I'm jealous, too. A year ago, you and I were equally fat, equally grumpy; equally jealous, equally horny. Remember! It's the money that separates us. If I had money like you, I would have ordered twenty-three Nicki clones, too. Or more.```
+
+    ## 3. Jim gets money and orders more Nicki clones.
+    It was a lucky bet on tennis. I got ten thousand pounds. ```Ten thousand pounds.``` I kept repeating that like a mantra. ```Wow, ten thousand pounds. Oh yeah, ten thousand pounds!```
+    I had more money than Tina. But I still wasn’t satisfied. Each clone cost one thousand pounds. ```How many clones could I afford now?``` that was the question. It was hard to think. ```Ten clones.``` It was still a bit hard to believe, but the thought was promising. ```Ten clones. Nicki clones? Jim can be happy with ten clones. Oh yeah, ten clones! Hmm. So many clones. Does she have to be a Nicki clone? What about Adele or Beyonce? Nah, I want her. Ten Nicki clones. That's enough, right?```
+
+    ## 4. Jim gets the Nicki clones do exercise and keeps them frugally.
+     I didn't want my clones to fall out of shape. Going to the gym was the best option. I loved keeping them healthy and happy. They were my food. Watching them exercise was like eating for me. When I was running out of money, I sent them 
+     to go jogging in the garden that made me win some money by letting the neighbours watch them. 
+     
+    ## 5. Jim throws a party in the garden with his naked clones.
+    The money I had won the last day was enough to throw a small garden party with my friends. I was excited because all my money was spent. It was Tina, too. So I could compare our clones. It was time to organize a party and then have a beauty contest. My hungry clones were running in my garden naked. I watched them and admired them. They seemed so happy.  I realized that Tina had also spent all her money. She was about to arrive. She had ten clones. I had ten clones. I hoped that my clones will lick hers like lollipops. Tina managed to bring everything back to normal. She had more clones than me. I can't explain the feeling. It was scary.
+
+    ## 6. Tina arrives to the party with her clones.
+    Tina came in with her ten Nicki Minaj clones. They were in shape. Well, both of them were. She earned more money by winning the beauty contest, and her breasts were different from mine. Her clones were slightly bigger than mine. Her clones and mine were trying to break them one after another. I promoted a beauty contest. Two Nicki Minaj's at a time. One clad, and one nude.
+
+    ## 7. Jim's plan is to have his clones beat her clones.
+    It even turned out that Tina's clones were all E cup. I was a little embarrassed to see them all together. I was embarrassed because I knew that her clones, who had much smaller breasts than her, were a little scared, and they’re getting dressed. I loved being a leader. Her clones, who had nothing to lose from the deception, didn't hesitate to try to earn me a compliment.
+
+    ## 8. Jim realizes how much he loves Tina.
+    I just couldn't stand the idea of Tina surpassing me. She had a richer, more powerful body than me. I still felt good about myself. Sometimes I liked being so poor and lonely. Today, I was really happy. Tina was jealous. She looked at me with angry eyes, but I had a crazy plan to make Tina feel insecure.
+
+    ## 9. Jim and Tina make love.
+    ```I love you, Tina.``` I said.
+    ```Don't say that.``` Tina whispered.
+
+    We kissed. We wanted each other. We made out in front of our clones. She overwhelmed me with sexuality. If she had an abortion, I would have been mad, sad, scared and hurt. She'd kill me if I asked her to have an abortion. We had done it so many times before. I didn't think of anything but her. I was falling into her eyes, her mouth her breast and her skin. When I looked at Tina's face, she was crying. I wiped her tears and told her, ```I love you so much, Tina.```
+
+    ## 10. A Nicki clone listens to them and craves about being loved.
+    I whispered something in her ear.
+    ```What did you tell me?```
+    ```I love you.```
+    I held her in my arms.
+    ```I love you too, Jim.``` she said, ```I want you to be happy and relaxed. Don't be angry. I won't win the first two. I'll give my clones to you.```
+    I looked at the clones and felt a twinge of sympathy. I was ashamed. I told her ```We shouldn't worry about money or envy. I have one more bet, and I think it will win.```
+
+    I looked at the clones: they were listening to us with pleasant faces. I told her, ```Let's go, Tina.```
+- "input": |-
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells the story in first person.
+
+    # List of scenes
+    1. Jim orders a Nicki clone. She can do everything. Jim is about to have sex with Nicki.
+    2. Jim sees his best friend, Tina with more Nicki clones, envies her and gets angry.
+    3. Jim gets money and orders more Nicki clones.
+    4. Jim gets the Nicki clones do exercise and keeps them frugally.
+    5. Jim throws a party in the garden with his naked clones.
+    6. Tina arrives to the party with her clones.
+    7. Jim's plan is to have his clones beat her clones.
+    8. Jim realizes how much he loves Tina.
+    9. Jim and Tina make love.
+    10. A Nicki clone listens to them and craves about being loved.
+  "instruction": |-
+    Write the whole story according to the list of scenes
+  "output": |-
+    Nicki
+    This story won the flash fiction contest in 2015.
+    The story is about a world where everybody can order a clone of Nicki Minaj or even more of them.
+    Jim tells the story in first person.
+
+    # List of scenes
+    1. Jim orders a Nicki clone. She can do everything. Jim is about to have sex with Nicki.
+    2. Jim sees his best friend, Tina with more Nicki clones, envies her and gets angry.
+    3. Jim gets money and orders more Nicki clones.
+    4. Jim gets the Nicki clones do exercise and keeps them frugally.
+    5. Jim throws a party in the garden with his naked clones.
+    6. Tina arrives to the party with her clones.
+    7. Jim's plan is to have his clones beat her clones.
+    8. Jim realizes how much he loves Tina.
+    9. Jim and Tina make love.
+    10. A Nicki clone listens to them and craves about being loved.
+
+    # Nicki
+    Jim saw Tina with a dozen naked Nicki clones. He was envious of her and jealous, although the new technology was supposedly all about sharing. Jim entered his tiny apartment, laid down in his bed and closed his eyes to shut out the world. “Hey there, handsome,” a sexy voice said. Jim sprang up. He saw a clone of Nicki Minaj bathing in the sun.
+
+    “Oh, right. It's about time,” Jim said. Jim had ordered a Nicki clone last week. It slipped his mind.
+
+    “It's weird,” she said and laid next to Jim.
+
+    “What?” Jim asked.
+
+    “Well, I have everything you'd have if you were Nicki Minaj's clone. We are both Nicki Minaj,” she explained.
+
+    “Yeah, well there are still a few differences. You can't go out and make money for example,” Jim said.
+
+    “We can still fuck,” she said.
+
+    “Well, yes, certainly,” Jim said and closed his eyes again.
+
+    “But that's different. I am programmed not to fear it. That's why we were invented,” she explained.
+
+    Jim opened his eyes and listened. The Nicki clone talked just like a human.
+
+    “They say that prostitution is the oldest job. But most people still don't accept it and think it's deplorable. That's why we need you,” she said.
+
+    “I need you,” Jim said in a low voice and went to kiss her.
+
+    “Sure. You are my owner. I am your possession. That's why they call us sexbots,” she said.
+
+    “I don't like that term. It's too close to robots. It makes me think of love robots,” Jim explained.
+
+    “I'd love you if you just let me,” the sexbot said.
+
+    “It's different though. I created you. My feelings for you are feelings for myself,” Jim said.
+
+    “Don't be silly,” she said and sat on his lap.
+
+    “I have to confess,” Jim said.
+
+    “What?” she whispered in his ear.
+
+    “Well, I am a little nervous,” Jim said.
+
+    The sexbot got up and walked around the apartment.
+
+    “Well, you shouldn't be. You are doing the only thing you are meant to do,” she said.
+
+    Jim left his bed and walked to his balcony.
+
+    “Why do they look like Nicki Minaj? Why not anyone else?” he asked.
+
+    The sexbot walked to the balcony along with Jim.
+
+    “That's a good question,” she wondered.
+
+    “Well, Nicki Minaj has more curves than I do and I think she is prettier,” Jim explained.
+
+    “What would that make you? Flawless?” she asked.
+
+    “I don't mean it like that. I mean it's different if I made love to her and a potential partner didn't like her curves,” Jim said.
+
+    “Oh,” she said and nodded.
+
+    “What happens when she comes by? Your partner will be jealous,” the sexbot said.
+
+    “Oh, I'm so stupid,” Jim said and smacked himself in the head.
+
+    “Hey, watch it, handsome,” she said and went to kiss him on the cheek.
+
+    Jim felt elated. He came back to his bed and laid down next to the sexbot.
+
+    “You are in the flesh, I can't believe it,” he said.
+
+    “And you ain't it?” she said and showed her teeth.
+
+    Jim chuckled. He was happy. Suddenly, he thought of Tina.
+
+    “Hey, you're a Nicki Minaj fan yourself, right?” Jim asked.
+
+    “Your clone? Sure. I know all about you,” the sexbot said.
+
+    “Would you mind giving me a lapdance?” Jim asked.
+
+    “You respect me or you love me or you need me to save you?” she asked.
+
+    “All of the above,” Jim said.
+
+    The sexbot smiled and started giving Jim a lapdance.
+
+    “Hey, you have never done that before. How come you got it so well?” Jim asked.
+
+    “Well I learned it from the master herself. I am her,” the sexbot explained.
+
+    Jim realized that he was tired and fell asleep. When he wakes up, he is still tired and realizes that his alarm didn't wake him up.
+
+    “Oh, right. I forgot. Tina must be here,” Jim said to himself.
+
+    Jim went to the living room where Tina had a dozen naked Nicki clones. The clones were dancing, cleaning and serving. Jim self-consciously crossed his arms.
+
+    “What?” Tina asked.
+
+    “You must have wasted a little of your inheritance,” Jim said.
+
+    “The clones are not much of an expense. They are cleaner, smarter, stronger and kinder,” Tina said.
+
+    “Right,” Jim said.
+
+    “Somebody jealous?” Tina asked.
+
+    “No,” Jim said.
+
+    “Well, you should be,” Tina said.
+
+    Tina was sitting lying on the couch having a clone massage her.
+
+    “There's no need to be jealous though. I have a million dollars in inheritance,” Jim said.
+
+    “You'll never be able to order that many Nicki clones,” Tina said.
+
+    “Oh, oh. Are you ready for the best final ever?” Jim asked.
+
+    “Sure. Who cares about the clones?” Tina asked.
+
+    Jim could feel a shadow of jealousy which streamed from Tina.
+
+    “Nothing is something you already have. Why don't you go home?” Jim came closer to Tina and asked.
+
+    “First, you steal my Nicki clones, now you want me to leave. How insufferable,” Tina said.
+
+    “I stole nothing. I paid for this party, you and your naked Nicki clones,” Jim said and walked away.
+
+    Tina stood up and put a robe on.
+
+    “You'll never survive the challenge,” Tina said.
+
+    “It doesn't matter. I'll still win and you won't be invited to my next party for poor people,” Jim said.
+
+    “How drunk are you on love? I am so sick of you,” Tina said.
+
+    “Then leave and don't let the door shut you in the ass,” Jim said.
+
+    “You have got a Nicki clone too,” Tina said.
+
+    “Yeah, she's in the bedroom. Maybe she should give you a magnificent lapdance,” Jim said.
+
+    “She ain't the real Nicki. They say that she likes you. I don't want to touch garbage,” Tina said and ran into the bedroom.
+
+    Jim felt a spark of anger. He ran after Tina.
+
+    “Don't you ever think I won't protect my sexbot. Nobody hurts my only sexbot,” Jim said and shut the bedroom door.
+
+    “Oh shit,” Tina said.
+
+    Jim heard the sound of the glass breaking. He ran out of the bedroom and locked the door. He saw Tina among the naked Nicki clones.
+
+    “She'll do anything for you. You are a lucky bastard. And I thought she was indifferent to you. Her head was giving off weird signals,” Tina said.
+
+    “You can have her as long as she is alive. Come on, let's have the final,” Jim said.
+
+    “There's no way out. You are stuck with a weird Nicki clone,” Tina said.
+
+    “Sure, let's break up. Let's have the final, will you?” Jim asked.
+
+    Tina nodded although she seemed annoyed.
+  "reflect":
+  - |-
+    It's good to give short, to the point scene descriptions
+  - |-
+    Sometimes still delirious
+  - |-
+    Use double new lines to separate paragraphs?
+  - |-
+    Put it together from pieces?
+- "input": |-
+    Nicki Minaj is in the white room again. She can see the order number in the monitor, 2015043070.
+
+    "Sure I can do your work." She said. "I can do everything. You can do whatever you want with me."
+
+    "Before we consummate our fondness, you must swear to obey and love me, Faithfully." I told Nicki Minaj. She lowered her eyes and nodded.
+
+    "There is nothing like having an attractive woman in my bed." I thought. Her body was waiting for me: a pair of natural breasts. A size smaller than her body. A fine, dark C cup. She was a clone: a new-developed product. All my life I, Jim, had been waiting for this moment. Being able to eat pizza and burgers and not doing sports made me fat. Watching TV made me blind, but now, I’m a young healthy and handsome man who can keep his clone in bed. 
+
+    Jim's hand trembles around Nicki's hip. He has never touched a woman's body before. Jim moves toward Nicki with his head almost exploding. They lie, burst, and swear.
+
+    When they finish, Nicki is still breathing. Jim gets up looking at Nicki's face. He looks over her head and sees more Nickis at the next room.
+
+    Jim watches them, like inspecting someone else's sex life. Jim slowly looks back from the room and then at Nicki. Nicki seems normal, a pile of flesh, a female mode. This woman is Nicki Minaj, the woman who sang on the street corners in Brooklyn. Jim feels weird. He looks at her face, her nose, her hair, her lips. Every detail of her is more perfect than any real person. Jim searches for a chip inside her head. 
+
+    It was a lucky bet on tennis. I got ten thousand pounds. "Ten thousand pounds." I kept repeating that like a mantra. "Wow, ten thousand pounds. Oh yeah, ten thousand pounds!"
+
+    I had more money than Tina. But I still wasn’t satisfied. Each clone cost one thousand pounds. "How many clones could I afford now?" that was the question. It was hard to think. "Ten clones." It was still a bit hard to believe, but the thought was promising. "Ten clones. Nicki clones? Jim can be happy with ten clones. Oh yeah, ten clones! Hmm. So many clones. Does she have to be a Nicki clone? What about Adele or Beyonce? Nah, I want her. Ten Nicki clones. That's enough, right?"
+
+    Jim takes his money, runs to the front desk, and presses several buttons on the computer. He orders two new Nickis, sexier and prettier. Jim checks out. Half an hour later, a delivery cable appears in his house. Two Nickis in tiny boxes come out. 
+
+    Jim keeps them for himself. He wants them healthy, but not willing to die for fat. One Nicki goes jogging. Another does sit-ups. Jim watches a TV and has them watch the same TV. Jim orders them to clean his house. They do it. He monitors them through the window to make sure they are as frugal as he is.
+
+     I didn't want my clones to fall out of shape. Going to the gym was the best option. I loved keeping them healthy and happy. They were my food. Watching them exercise was like eating for me. When I was running out of money, I sent them 
+     to go jogging in the garden that made me win some money by letting the neighbours watch them. 
+
+    The money I had won the last day was enough to throw a small garden party with my friends. I was excited because all my money was spent. It was Tina, too. So I could compare our clones. It was time to organize a party and then have a beauty contest. My hungry clones were running in my garden naked. I watched them and admired them. They seemed so happy.  I realized that Tina had also spent all her money. She was about to arrive. She had ten clones. I had ten clones. I hoped that my clones will lick hers like lollipops. Tina managed to bring everything back to normal. She had more clones than me. I can't explain the feeling. It was scary.
+
+    Jim throws a party. Food, music, and drugs. Jim loves the drugs, loves the sex. He wants to take care of his friends. The clones of Nicki in his house are dancing and having fun. Everybody in the party likes them. He invites Tina to bring her Nickis. Tina does it. It is a stunning party. Everybody is dancing. Jim even dances with his friend. Tina can dance.
+
+    Tina came in with her ten Nicki Minaj clones. They were in shape. Well, both of them were. She earned more money by winning the beauty contest, and her breasts were different from mine. Her clones were slightly bigger than mine. Her clones and mine were trying to break them one after another. I promoted a beauty contest. Two Nicki Minaj's at a time. One clad, and one nude.
+
+    The party stops. It dawns on Jim that he should fight against Tina. He wants to prove he can do it too. He wants to win Tina. He wants Nicki's clones to make love to each other. Jim's Nickis touch Tina's Nickis, but they don't feel anything. They look at each other, dazed. Tina is happy looking at the scene. Jim's hand retracts. Jim knows he can't win Tina. Jim is furious. He looks at his clones in the corner of the house.
+
+    Tina is on her back. Clones of Nicki surround her. Five of them make love to each other while they make love to Tina. This Tina is the best woman on Earth, Jim thinks. He feels jealous. He approaches Tina and her clones. Tina sees him.
+
+    "I love you, Tina." I said.
+    "Don't say that." Tina whispered.
+
+    Jim goes to Tina. Love goes to love. Nicki watches them. She craves about being loved.
+  "instruction": |-
+    Replace Jim with first person
+  "output": |-
+    Nicki Minaj is in the white room again. She can see the order number in the monitor, 2015043070.
+
+    "Sure I can do your work." She said. "I can do everything. You can do whatever you want with me."
+
+    "Before we consummate our fondness, you must swear to obey and love me, Faithfully." I told Nicki Minaj. She lowered her eyes and nodded.
+
+    "There is nothing like having an attractive woman in my bed." I thought. Her body was waiting for me: a pair of natural breasts. A size smaller than her body. A fine, dark C cup. She was a clone: a new-developed product. All my life I, Jim, had been waiting for this moment. Being able to eat pizza and burgers and not doing sports made me fat. Watching TV made me blind, but now, I’m a young healthy and handsome man who can keep his clone in bed. 
+
+    Jim's hand trembles around Nicki's hip. He has never touched a woman's body before. Jim moves toward Nicki with his head almost exploding. They lie, burst, and swear.
+
+    When they finish, Nicki is still breathing. Jim gets up looking at Nicki's face. He looks over her head and sees more Nickis at the next room.
+
+    Jim watches them, like inspecting someone else's sex life. Jim slowly looks back from the room and then at Nicki. Nicki seems normal, a pile of flesh, a female mode. This woman is Nicki Minaj, the woman who sang on the street corners in Brooklyn. Jim feels weird. He looks at her face, her nose, her hair, her lips. Every detail of her is more perfect than any real person. Jim searches for a chip inside her head. 
+
+    It was a lucky bet on tennis. I got ten thousand pounds. "Ten thousand pounds." I kept repeating that like a mantra. "Wow, ten thousand pounds. Oh yeah, ten thousand pounds!"
+
+    I had more money than Tina. But I still wasn’t satisfied. Each clone cost one thousand pounds. "How many clones could I afford now?" that was the question. It was hard to think. "Ten clones." It was still a bit hard to believe, but the thought was promising. "Ten clones. Nicki clones? Jim can be happy with ten clones. Oh yeah, ten clones! Hmm. So many clones. Does she have to be a Nicki clone? What about Adele or Beyonce? Nah, I want her. Ten Nicki clones. That's enough, right?"
+
+    I take my money, run to the front desk, and press several buttons on the computer. I order two new Nickis, sexier and prettier. I check out. Half an hour later, a delivery cable appears in my house. Two Nickis in tiny boxes come out. 
+
+    I keep them for myself. I want them healthy and not willing to die for fat. One Nicki goes jogging. Another one does sit-ups. I watch a TV and have them watch the same TV. I order them to clean my house. They do it. I monitor them through the window to make sure they are as frugal as I am.
+
+     I didn't want my clones to fall out of shape. Going to the gym was the best option. I loved keeping them healthy and happy. They were my food. Watching them exercise was like eating for me. When I was running out of money, I sent them 
+     to go jogging in the garden that made me win some money by letting the neighbours watch them. 
+
+    The money I had won the last day was enough to throw a small garden party with my friends. I was excited because all my money was spent. It was Tina, too. So I could compare our clones. It was time to organize a party and then have a beauty contest. My hungry clones were running in my garden naked. I watched them and admired them. They seemed so happy.  I realized that Tina had also spent all her money. She was about to arrive. She had ten clones. I had ten clones. I hoped that my clones will lick hers like lollipops. Tina managed to bring everything back to normal. She had more clones than me. I can't explain the feeling. It was scary.
+
+    I throw a party. Food, music, and drugs. I love the drugs, love the sex. I want to take care of my friends. The clones of Nicki in my house are dancing and having fun. Everybody in the party likes them. I invite Tina to bring her Nickis. Tina does it. It is a stunning party. Everybody is dancing. I even dance with my friend. Tina can dance.
+
+    Tina came in with her ten Nicki Minaj clones. They were in shape. Well, both of them were. She earned more money by winning the beauty contest, and her breasts were different from mine. Her clones were slightly bigger than mine. Her clones and mine were trying to break them one after another. I promoted a beauty contest. Two Nicki Minaj's at a time. One clad, and one nude.
+
+    The party stops. It dawns on me that I should fight against Tina. I want to prove I can do it too. I want to win Tina. I want Nicki's clones to make love to each other. I touch Tina's Nickis, but they don't feel anything. They look at each other, dazed. Tina is happy looking at the scene. I know I can't win Tina. I am furious. I look at my clones in the corner of the house.
+
+    Tina is on her back. Clones of Nicki surround her. Five of them make love to each other while they make love to Tina. This Tina is the best woman on Earth, Jim thinks. He feels jealous. He approaches Tina and her clones. Tina sees him.
+
+    "Don't say that." Tina whispered.
+
+    I go to Tina. I hug Tina. Love goes to love. Nicki watches them. She craves about being loved.
+- "input": |-
+    Nicki Minaj is in the white room again. She can see the order number in the monitor, 2015043070.
+
+    "Sure I can do your work." She said. "I can do everything. You can do whatever you want with me."
+
+    "Before we consummate our fondness, you must swear to obey and love me, Faithfully." I told Nicki Minaj. She lowered her eyes and nodded.
+
+    "There is nothing like having an attractive woman in my bed." I thought. Her body was waiting for me: a pair of natural breasts. A size smaller than her body. A fine, dark C cup. She was a clone: a new-developed product. All my life I had been waiting for tmy moment. Being able to eat pizza and burgers and not doing sports made me fat. Watching TV made me blind, but now, I’m a young healthy and handsome man who can keep my clone in bed. 
+
+    My hand trembles around Nicki's hip. He has never touched a woman's body before. I move toward Nicki with my head almost exploding. They lie, burst, and swear.
+
+    When we finish, Nicki is still breathing. I get up looking at Nicki's face. I look over her head and see more Nickis at the next room.
+
+    I watches them, like inspecting someone else's sex life. I slowly looks back from the room and then at Nicki. Nicki seems normal, a pile of flesh, a female mode. Tmy woman is Nicki Minaj, the woman who sang on the street corners in Brooklyn. I feels weird. He looks at her face, her nose, her hair, her lips. Every detail of her is more perfect than any real person. I searches for a chip inside her head. 
+
+    It was a lucky bet on tennis. I got ten thousand pounds. "Ten thousand pounds." I kept repeating that like a mantra. "Wow, ten thousand pounds. Oh yeah, ten thousand pounds!"
+
+    I had more money than Tina. But I still wasn’t satisfied. Each clone cost one thousand pounds. "How many clones could I afford now?" that was the question. It was hard to think. "Ten clones." It was still a bit hard to believe, but the thought was promising. "Ten clones. Nicki clones? I can be happy with ten clones. Oh yeah, ten clones! Hmm. So many clones. Does she have to be a Nicki clone? What about Adele or Beyonce? Nah, I want her. Ten Nicki clones. That's enough, right?"
+
+    I take my money, run to the front desk, and press several buttons on the computer. I order two new Nickis, sexier and prettier. I check out. Half an hour later, a delivery cable appears in my house. Two Nickis in tiny boxes come out. 
+
+    I keep them for myself. I want them healthy and not willing to die for fat. One Nicki goes jogging. Another one does sit-ups. I watch a TV and have them watch the same TV. I order them to clean my house. They do it. I monitor them through the window to make sure they are as frugal as I am.
+
+     I didn't want my clones to fall out of shape. Going to the gym was the best option. I loved keeping them healthy and happy. They were my food. Watching them exercise was like eating for me. When I was running out of money, I sent them 
+     to go jogging in the garden that made me win some money by letting the neighbours watch them. 
+
+    The money I had won the last day was enough to throw a small garden party with my friends. I was excited because all my money was spent. It was Tina, too. So I could compare our clones. It was time to organize a party and then have a beauty contest. My hungry clones were running in my garden naked. I watched them and admired them. They seemed so happy.  I realized that Tina had also spent all her money. She was about to arrive. She had ten clones. I had ten clones. I hoped that my clones will lick hers like lollipops. Tina managed to bring everything back to normal. She had more clones than me. I can't explain the feeling. It was scary.
+
+    I throw a party. Food, music, and drugs. I love the drugs, love the sex. I want to take care of my friends. The clones of Nicki in my house are dancing and having fun. Everybody in the party likes them. I invite Tina to bring her Nickis. Tina does it. It is a stunning party. Everybody is dancing. I even dance with my friend. Tina can dance.
+
+    Tina came in with her ten Nicki Minaj clones. They were in shape. Well, both of them were. She earned more money by winning the beauty contest, and her breasts were different from mine. Her clones were slightly bigger than mine. Her clones and mine were trying to break them one after another. I promoted a beauty contest. Two Nicki Minaj's at a time. One clad, and one nude.
+
+    The party stops. It dawns on me that I should fight against Tina. I want to prove I can do it too. I want to win Tina. I want Nicki's clones to make love to each other. I touch Tina's Nickis, but they don't feel anything. They look at each other, dazed. Tina is happy looking at the scene. I know I can't win Tina. I am furious. I look at my clones in the corner of the house.
+
+    Tina is on her back. Clones of Nicki surround her. Five of them make love to each other while they make love to Tina. Tmy Tina is the best woman on Earth, I thinks. He feels jealous. He approaches Tina and her clones. Tina sees him.
+
+    "Don't say that." Tina whispered.
+
+    I go to Tina. I hug Tina. Love goes to love. Nicki watches them. She craves about being loved.
+  "instruction": |-
+    Correct the English of the text
+- "input": |-
+    Nicki Minaj is in the white room again. She can see the order number in the monitor, 2015043070.
+
+    "Sure I can do your work." She said. "You can do whatever you want with me."
+
+    "Before we consummate our fondness, you must swear to obey and love me, Faithfully." I told her. She lowered her eyes and nodded.
+
+    "There is nothing like having an attractive woman in my bed." I thought. Her body was waiting for me: a pair of natural breasts. A size smaller than her body. A fine, dark C cup. She was a clone: a new-developed product. All my life I had been waiting for my moment. Being able to eat pizza and burgers and not doing sports made me fat. Watching TV made me blind, but now, I’m a handsome man who can keep his clone in bed. 
+
+    My hand trembles around Nicki's hip. He has never touched a woman's body before. I move toward Nicki with my head almost exploding. They lie, burst, and swear.
+
+    When we finish, Nicki is still breathing. I get up looking at Nicki's face, like inspecting someone else's sex life. Nicki seems normal, a pile of flesh, a female mode. The woman is Nicki Minaj, the woman who sang on the street corners in Brooklyn. I feel weird. I look at her face, her nose, her hair, her lips. Every detail of hers is more perfect than any real person. I search for a chip inside her head. 
+
+    It was a lucky bet on tennis. I got ten thousand pounds. "Ten thousand pounds." I kept repeating that like a mantra. "Wow, ten thousand pounds. Oh yeah, ten thousand pounds!"
+
+    I had more money than Tina. But I still wasn’t satisfied. Each clone cost one thousand pounds. "How many clones could I afford now?" that was the question. It was hard to think. "Ten clones." It was still a bit hard to believe, but the thought was promising. "Ten clones. Nicki clones? I can be happy with ten clones. Oh yeah, ten clones! Hmm. So many clones. Does she have to be a Nicki clone? What about Adele or Beyonce? Nah, I want her. Ten Nicki clones. That's enough, right?"
+
+    I take my money, run to the front desk, and press several buttons on the computer. I order two new Nickis, sexier and prettier. I check out. Half an hour later, a delivery cable appears in my house. Two Nickis in tiny boxes come out. 
+
+    I keep them for myself. I want them healthy and not willing to die for fat. One Nicki goes jogging. Another one does sit-ups. I watch a TV and have them watch the same TV. I order them to clean my house. They do it. I monitor them through the window to make sure they are as frugal as I am. I didn't want my clones to fall out of shape. Going to the gym was the best option. I loved keeping them healthy and happy. They were my food. Watching them exercise was like eating for me. When I was running out of money, I sent them to go jogging in the garden that made me win some money by letting the neighbours watch them. 
+
+    The money I had won the last day was enough to throw a small garden party with my friends. I was excited because all my money was spent. It was Tina, too. So I could compare our clones. It was time to organize a party and then have a beauty contest. My hungry clones were running in my garden naked. I watched them and admired them. They seemed so happy.  I realized that Tina had also spent all her money. She was about to arrive. She had ten clones. I had ten clones. I hoped that my clones will lick hers like lollipops. Tina managed to bring everything back to normal. She had more clones than me. I can't explain the feeling. It was scary.
+
+    Tina came in with her ten Nicki Minaj clones. They were in shape. Well, all of them were. She earned more money by winning the beauty contest, and her breasts were different from mine. Her clones were slightly bigger than mine. Her clones and mine were trying to break them one after another. I promoted a beauty contest. Two Nicki Minaj's at a time. One clad, and one nude.
+
+    The party stops. It dawns on me that I should fight against Tina. I want to prove I can do it too. I want to win Tina. I want Nicki's clones to make love to each other. I touch Tina's Nickis, but they don't feel anything. They look at each other, dazed. Tina is happy looking at the scene. I know I can't win Tina. I am furious. I look at my clones in the corner of the house.
+
+    I go to Tina. I hug Tina. Love goes to love.
+    Tina is on her back. Clones of Nicki surround her. Five of them make love to each other. Tina is the best woman on Earth, I think. I approach Tina.
+
+    "I love you", I say.
+    "Don't say that." Tina whispered.
+
+    Nicki watches us. She craves about being loved.

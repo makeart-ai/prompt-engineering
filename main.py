@@ -30,7 +30,7 @@ def generate(promptFile):
             rawPrompts.append(newPrompt)
         if 'instruction' in newPrompt:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_EDIT)
-            response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=0.74)
+            response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=0.94)
         else:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_COMPLETION)
             response = openai.Completion.create(engine=engine, prompt=newPrompt["input"], temperature=0.94, max_tokens=256, frequency_penalty=0.5)
