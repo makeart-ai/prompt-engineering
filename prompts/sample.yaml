@@ -1,0 +1,16 @@
+- meta:
+    any-key: This is not processed
+- providers:
+    openai:
+      one-service:
+        url: https://openai.com/{engine}
+        args: temperature, top_p
+- set:
+    provider: openai
+    service: one-service
+- set:
+    temperature: 0.8
+- input: >
+    Once upon a time
+- output: Whatever is returned first
+- output: What is returned second without changing any parameter
