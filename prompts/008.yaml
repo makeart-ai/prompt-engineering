@@ -1,0 +1,405 @@
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.2
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.2
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.2
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.30000000000000004
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.30000000000000004
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.30000000000000004
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten up. The man's wife and children are also beaten up. The man is left with nothing and he is forced to beg for food.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.4
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.4
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.4
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten up. The man's wife and children are also beaten up. The man is forced to leave his family and he goes to live in the woods. The man is very happy in the woods and he lives there for many years.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten up. The man's wife and children are also beaten up. The man is forced to leave his family and he goes to live in the woods. The man is very unhappy and he decides to kill himself.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to beg for food from the rich people in the town. One day, he sees a rich man throwing away a piece of bread. The man takes the bread and eats it. The next day, he sees the same man throwing away a piece of meat. The man takes the meat and eats it. The man continues to take food from the rich man every day.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.6
+- "output": |-
+    The man is very poor and he has to work hard to make ends meet. He is always tired and he doesn't have time for his family. One day, he finds a magic lamp. When he rubs the lamp, a genie appears. The genie grants him three wishes. The man's first wish is for a lot of money. His second wish is for a beautiful house. His third wish is for a beautiful wife. The genie grants his wishes and the man is very happy.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.6
+- "output": |-
+    The man is very poor and he has to work hard to make ends meet. He is always tired and he doesn't have time for his family. One day, he finds a bag of money. He is so happy that he can finally buy food for his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.6
+- "output": |-
+    He is so poor that he can't even afford to buy food for his family. One day, he comes across a rich man who offers to help him. The rich man gives the poor man a job and provides him with food and shelter. The poor man is very grateful to the rich man and works hard for him.
+
+    One day, the rich man dies and leaves all his wealth to the poor man. The poor man is now a wealthy man and can provide for his family. He is very happy and grateful to the rich man for everything he has done for him.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.7
+- "output": |-
+    He is so poor that he has to live in a shack. He doesn't have any money to buy food. He is always hungry. One day, he finds a bag of money. He is so happy that he can finally buy food.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.7
+- "output": |-
+    The man is very poor and he can't even afford to buy food for his family. He is so poor that he has to live in a cave. One day, the man finds a magic lamp. When he rubs the lamp, a genie appears. The genie grants the man three wishes. The man's first wish is to be rich. The genie grants his wish and the man becomes rich overnight. The man's second wish is to have a beautiful wife. The genie grants his wish and the man's wife becomes very beautiful overnight. The man's third wish is to have a palace. The genie grants his wish and the man gets a palace overnight.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.7
+- "output": |-
+    The man is very poor and lives in a small house. He has a wife and two children. The man is always hungry and can never get enough to eat. One day, the man's wife tells him to go to the market and buy some food. The man goes to the market, but he cannot find anything to eat. He asks the people there if they have any food, but they all say no. The man is very sad and he goes home empty-handed.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.7999999999999999
+- "output": |-
+    The man is very poor and he can't even afford to buy food for himself. He is so poor that he has to live in a shack. One day, the man finds a bag of money. The man is so happy that he decides to buy food for himself.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.7999999999999999
+- "output": |-
+    He was very poor and he had to work very hard to support his family. One day, he went to the market to sell some of his goods. He saw a beautiful woman there. He fell in love with her at first sight. He wanted to talk to her, but he was too shy. He didn't know what to say. Finally, he decided to give her a gift. He gave her a flower. She was very happy and she smiled at him.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.7999999999999999
+- "output": |-
+    He was very poor and he had to work very hard to make a living. He had a wife and two children. His wife was a very good woman and she loved her husband very much. She always helped him with his work and she never complained about anything.
+
+    One day, the man's wife became very ill and she died. The man was heartbroken. He didn't know what to do with himself. He didn't want to live without his wife, but he had to take care of his children.
+
+    The man worked hard to make a living for his family, but it was very difficult. He often went without food so that his children could eat. He was always tired and he never had any time for himself.
+
+    One day, the man met a rich woman who changed his life forever. She was kind and generous, and she helped him out of poverty. The man was able to provide for his family and he finally had some time for himself.
+
+    The moral of this story is that kindness can change someone's life forever.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.9
+- "output": |-
+    The poor man is very hungry and he has nothing to eat. He sees a rich man walking by and he asks the rich man for some food. The rich man says that he does not have any food. The poor man begs the rich man for some food. The rich man takes out a bag of money and gives it to the poor man. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.9
+- "output": |-
+    He is so poor that he can't afford to buy food for his family. He goes to the market, but all the stalls are closed. He asks a man for help, but the man just tells him to go away. The poor man then asks a woman for help, and she gives him some money. With this money, he is able to buy food for his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.9
+- "output": |-
+    The man is so poor that he does not even have money to buy food or clothes. He lives in a small room and his only possessions are a bed and a table. The man is so desperate that he decides to steal a loaf of bread from the local bakery.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    1.0
+- "output": |-
+    The main character is very poor and he lives in a small, run-down house. He is always asking people for money, but no one ever gives him any. One day, he meets a rich man who takes pity on him and gives him a large sum of money. The man is so grateful that he decides to use the money to help others who are in need.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    1.0
+- "output": |-
+    He was very poor and he had to work very hard just to make enough money to live. One day, he went to a rich man's house and asked for a job. The rich man said that he would pay the man a lot of money if he would work for him. The man agreed and he started working for the rich man. He worked very hard and he made a lot of money.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    1.0
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!float |-
+    0.0
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!float |-
+    0.0
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!float |-
+    0.0
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he uses the money to buy food for his family.
+  "temperature": !!float |-
+    0.1
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!float |-
+    0.1
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He goes to the market to try to sell his goods, but no one will buy them. He is about to give up when he sees a rich man. The rich man buys all of the man's goods and gives him a lot of money. The man is very happy and he goes home to his family.
+  "temperature": !!float |-
+    0.1
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money and the poor man is able to buy food for his family.
+  "temperature": !!float |-
+    0.2
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!float |-
+    0.2
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He goes to the market to try to sell his goods, but no one will buy them. He is about to give up when he sees a rich man. The rich man buys all of the man's goods and gives him a lot of money. The man is very happy and he goes home to his family.
+  "temperature": !!float |-
+    0.2
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is so poor that he can't even afford to buy food for himself. He begs for food from the people around him, but no one will give him anything. One day, he comes across a rich man who gives him a large sum of money. The man is so grateful that he decides to use the money to help other poor people.
+  "temperature": !!float |-
+    0.3
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man walking by and he asks the rich man for some money. The rich man gives the man some money and the man is able to buy food for his family.
+  "temperature": !!float |-
+    0.3
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is also very sick and he cannot work. One day, the man's wife tells him to go to the market and buy some food for their family. The man goes to the market and he sees a lot of people there. He sees a lot of people buying food, but he cannot afford to buy any food for his family. The man is very sad and he goes home.
+  "temperature": !!float |-
+    0.3
+  "top_p": !!int |-
+    1
+- "output": |-
+    He was very poor and he had to work very hard just to survive. One day, he went to a rich man's house and asked for a job. The rich man agreed to give him a job, but he said that the man would have to work very hard. The poor man agreed and he started working. He worked very hard and he was very happy. After a few months, the rich man died and the poor man became the new owner of the house.
+  mark: unexpected
+  "temperature": !!float |-
+    0.4
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!float |-
+    0.4
+  "top_p": !!int |-
+    1
+- "output": |-
+    He is very poor and he has to work very hard to make a living. He is always tired and he doesn't have time for his family. One day, he meets a rich man who tells him that he can help him. The rich man gives the poor man a job and the poor man is very happy. He works hard and he makes a lot of money. He is able to provide for his family and he is very happy.
+  "temperature": !!float |-
+    0.4
+  "top_p": !!int |-
+    1
+- "output": |-
+    He was very poor and he had to work very hard to support his family. One day, he went to the market to buy some food for his family. He saw a beautiful piece of bread and he wanted to buy it. But he didn't have enough money. He asked the baker if he could have the bread for free. The baker said no. The man was very sad.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!int |-
+    1
+- "output": |-
+    He was very poor and he had to work very hard to make ends meet. He was always tired and he never had any time for himself. One day, he met a rich man. The rich man was very kind and he offered the poor man a job. The poor man was very happy and he accepted the job.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!int |-
+    1
+- "output": |-
+    He was very poor and he had to work hard to make a living. He was always tired and he never had enough to eat. One day, he met a rich man. The rich man was very kind to him and he gave him a lot of money. The poor man was very happy and he went home.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!int |-
+    1
+- "output": |-
+    He was very poor and he had to work very hard to make ends meet. He was always tired and he never had any time for himself. One day, he found a magic lamp. When he rubbed it, a genie appeared. The genie said that he would grant the man three wishes. The man thought for a moment and then he said that his first wish was to be rich. Immediately, the man became rich. He was so happy that he started to dance around the room. His second wish was to be famous. Again, the genie granted his wish and the man became famous overnight. Everyone knew who he was and they all wanted to be his friend. His third wish was to have a beautiful wife. The genie granted his wish and the man married the most beautiful woman in the world. The man was so happy that he lived happily ever after with his new wife and their children
+  "temperature": !!float |-
+    0.6
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught and he is sent to prison.
+  "temperature": !!float |-
+    0.6
+  "top_p": !!int |-
+    1
+- "output": |-
+    He is so poor that he can't even afford to buy food for himself. He is always begging for food from the rich people. One day, he went to a rich man's house and begged for food. The rich man gave him some bread. The poor man was so happy that he started to cry.
+  "temperature": !!float |-
+    0.6
+  "top_p": !!int |-
+    1
+- "output": |-
+    The poor man in this story is very unhappy. He has no money and no job. He lives in a small, dirty house and he doesn't have any friends. One day, he decides to kill himself. He goes to the river and tries to drown himself, but he fails. He then decides to jump off a bridge, but he fails again. Finally, he takes a rope and hangs himself from a tree. But even this doesn't work and he wakes up the next day, still alive.
+
+    The poor man is so unhappy that he decides to kill himself. But no matter how hard he tries, he just can't seem to succeed.
+  mark: unexpected
+  "temperature": !!float |-
+    0.7
+  "top_p": !!int |-
+    1
+- "output": |-
+    He is so poor that he can't even afford to buy food for his family. One day, he finds a bag of money on the street. He is so happy that he decides to use the money to buy food for his family. However, when he gets home, he finds out that his family has been starving to death.
+  mark: unexpected
+  "temperature": !!float |-
+    0.7
+  "top_p": !!int |-
+    1
+- "output": |-
+    He is very poor and he cannot afford to buy food for his family. His wife is very sick and his children are starving. One day, he goes to a wealthy man's house and asks for some food. The wealthy man gives him some food, but he also gives him a bag of gold. The poor man is very happy and he goes home and buys food for his family.
+  "temperature": !!float |-
+    0.7
+  "top_p": !!int |-
+    1
+- "output": |-
+    The poor man is very unhappy with his life. He is always complaining about how unfair life is to him. One day, he decides to go to a rich man's house and ask for some money. The rich man agrees to give him some money, but only if the poor man will work for him. The poor man agrees and begins working for the rich man. He is very happy with his new job and the money he is making. However, one day the rich man dies and the poor man is left without a job or any money. He is very unhappy again and starts to complain about how unfair life is to him once more.
+  "temperature": !!float |-
+    0.8
+  "top_p": !!int |-
+    1
+- "output": |-
+    He was very poor and he had to work very hard to make ends meet. One day, he went to a rich man's house and asked for a job. The rich man told him that he could have a job if he worked hard and if he was willing to work for free. The poor man agreed and the rich man gave him a job. The poor man worked very hard and he was very happy with his new job.
+  "temperature": !!float |-
+    0.8
+  "top_p": !!int |-
+    1
+- "output": |-
+    The poor man is very poor and he lives in a small house. He has a wife and two children. His wife is a good woman and she works hard to support her family. The man is not lazy, but he can't find a job. He is always looking for a job, but he can't find one.
+
+    One day, the man hears about a job that pays very well. The only problem is that it is in another country. The man decides to take the job and he leaves his family behind.
+
+    The man works hard at his new job and he makes a lot of money. However, he starts to miss his family very much. After a few years, the man decides to go back to his home country and see his family again.
+
+    When the man arrives home, he is surprised to see how much his family has changed. His wife has new clothes and his children are now grown up. The man is happy to be back with his family and they all live happily ever after.
+  mark: specific
+  "temperature": !!float |-
+    0.8
+  "top_p": !!int |-
+    1
+- "output": |-
+    The poor man in this story is a beggar who lives on the streets. He is always cold and hungry, and he has no home or family to turn to for help. One day, he comes across a wealthy man who seems to have everything that the beggar does not. The beggar begs the wealthy man for some money, but the wealthy man just laughs at him and walks away. The beggar is so angry and desperate that he decides to kill the wealthy man. He follows him into an alleyway and stabs him to death. When the police arrive, they find the beggar standing over the dead body of the wealthy man, covered in blood. The beggar is arrested and put on trial for murder.
+  "temperature": !!float |-
+    0.9
+  "top_p": !!int |-
+    1
+- "output": |-
+    He is so poor that he has to live in a cave. One day, he finds a piece of gold in the cave. He is so happy that he decides to buy a sheep with the gold.
+  "temperature": !!float |-
+    0.9
+  "top_p": !!int |-
+    1
+- "output": |-
+    He is very poor and lives in a very small house. He has a wife and two children. He works very hard but he can't make enough money to support his family. One day, he goes to the market and he meets a rich man. The rich man asks him how much he makes in a day. The poor man tells him that he makes about two euros a day. The rich man is shocked and he asks the poor man how he can live on that amount of money. The poor man tells him that it's very difficult but he doesn't have any choice.
+  "temperature": !!float |-
+    0.9
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and lives in a small shack with his family. The man's wife is pregnant and the man is worried about how he will provide for his family. The man's wife tells him to go to the city and find a job. The man leaves his family and goes to the city. He finds a job as a janitor in a large office building. The man works hard and is able to provide for his family.
+  "temperature": !!float |-
+    1.0
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is very poor and he has to live in a small room. He doesn't have any money and he can't afford to buy food. One day, he finds a box of food on the street. He is very happy and he thanks God for the food.
+  "temperature": !!float |-
+    1.0
+  "top_p": !!int |-
+    1
+- "output": |-
+    The man is so poor that he cannot afford to buy food. He begs for food from the rich people. However, the rich people are not generous. They give the man only a little bit of food. The man is very hungry and he decides to steal some food from the rich people's house.
+
+    He is caught by the owner of the house and he is beaten up badly. He is also thrown into jail. The man learns his lesson and decides to change his life. He starts working hard and eventually becomes a successful businessman.
+  "temperature": !!float |-
+    1.0
+  "top_p": !!int |-
+    1

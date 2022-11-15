@@ -1,0 +1,751 @@
+- "meta":
+    "goal": |-
+      Play with different temperatures
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very thin and his clothes are old and ragged. He has no shoes and his feet are covered with sores. He lives in a small, dirty room in a slum. He has no food and is very hungry. He goes to the city to beg for food. He begs from people in the street, but they all ignore him. He is so hungry that he begs a dog for food, but the dog just barks at him. He sits down on the curb and cries. A rich man comes along and gives him some money. The man is so grateful that he kisses the rich man's hand.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is always poor and he has a very difficult life.One day, he went to a rich man's house and asked for a job. The rich man was very angry and he threw the poor man out of his house. The poor man was very sad and he decided to kill himself. He went to the river and drowned himself.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and lives in a small house with his wife and children. The man's wife is always complaining about their poor condition. The man is a hard worker, but he can't seem to make enough money to support his family. One day, the man's wife tells him that she is going to leave him. She takes their children and leaves. The man is heartbroken. He doesn't know what to do. He decides to kill himself. He goes into the forest and hangs himself from a tree.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man was very hungry and he saw a rich man. The rich man had a lot of food. The poor man asked the rich man for some food. The rich man gave the poor man some food.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is so poor that he can't even afford to buy food for himself. He begs for food from the people around him, but no one will give him anything. One day, he sees a wealthy man walking by and asks him for some money. The wealthy man says that he will give the man some money if he does something for him. The man agrees and the wealthy man gives him a bag of gold coins.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man in this story is very poor. He lives in a small, cramped house with his wife and children. He works hard every day, but his wages are barely enough to keep his family alive. The man is always tired, and his wife is always nagging him.
+
+    One day, the man comes home from work and finds his wife in the kitchen, cooking dinner. She is angry with him because he is late. The man is too tired to argue, so he just sits down at the table and eats his dinner.
+
+    Later that night, the man is lying in bed, trying to sleep. However, he cannot stop thinking about how difficult his life is. He decides that he has had enough of being poor. He gets up out of bed and leaves his house.
+
+    The man walks for hours, not knowing where he is going. Eventually, he comes to a river. He looks at the river and decides that he is going to kill himself. He wades into the water and starts to swim out into the middle of the river.
+
+    Suddenly, the man hears someone calling his name. He turns around and sees his wife standing on the bank of the river. She has come looking for him.
+
+    The
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man in this story is very poor and lives in a small, cramped apartment. He barely has enough money to get by, and his only possessions are a few old, ragged clothes. Despite his poverty, the man is happy and content with his life. He enjoys spending his evenings sitting by the window, watching the people go by. One day, the man sees a wealthy couple walking by his window, and he is filled with envy. He wishes he could have what they have - a beautiful home, nice clothes, and plenty of money. However, the man quickly realizes that being wealthy would not make him happy. He would much rather be content with his simple life than to have all the material possessions in the world.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very unhappy with his life. One day, he went to a rich man's house and asked for a job. The rich man agreed to give him a job. The poor man was very happy. He worked very hard and soon became the rich man's favorite servant.
+
+    One day, the poor man's wife became very ill. The poor man was very worried and went to the rich man to ask for help. The rich man agreed to help the poor man's wife. He gave him a large sum of money to take care of his wife.
+
+    The poor man was very grateful to the rich man. He continued to work hard and soon became the richest man in the town.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man was very hungry, so he went to a rich man's house and asked for some food. The rich man was very stingy and refused to give the poor man any food. The poor man became so angry that he went into the rich man's house and started to eat his food. The rich man was so angry that he called the police and had the poor man arrested.
+  "temperature": !!float |-
+    0.4
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he can't afford to buy food for his family. His wife and children are starving and he can't do anything to help them. One day, he meets a rich man who helps him get a job and gives him some money. The man is able to buy food for his family and he is very grateful to the rich man.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The story begins with the poor man waking up in the middle of the night. He is cold and hungry, and he knows that he will not be able to get any food or shelter until morning. He tries to stay awake, but eventually falls asleep.
+
+    When he wakes up, he realizes that it is already morning. He gets up and looks around, but there is nothing to eat or drink. He starts to feel dizzy and weak, and he knows that he will not be able to make it through another day without food.
+
+    He decides to go to the nearest city in search of food. However, when he gets there, he finds that the city is in ruins. There is no food or water to be found anywhere.
+
+    The poor man slowly begins to starve to death. As he lays dying, he thinks about how unfair it is that he was born into a life of poverty and hunger.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man was very poor and he had to beg for food. One day, he went to a rich man's house and begged for food. The rich man gave him some bread and cheese. The man was so happy that he began to dance.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he lives in a very small house. He doesn't have much money and he can't afford to buy food. One day, the man finds a bag of money. The man is very happy and he decides to buy food for his family.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he lives in a small house. He has a wife and two children. The man is very hardworking and he works all day long. But he can't make enough money to support his family. One day, the man's wife tells him that she is going to leave him. She takes their two children with her. The man is very sad. He doesn't know what to do.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is so poor that he can't even afford to buy food for his family. One day, he comes across a bag of money. He is so happy that he decides to buy food for his family. However, when he goes to the store, the owner refuses to sell him food. The man is so angry that he starts to cry.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man in this story is very poor and lives in a rundown shack with his wife and children. He works hard every day but can barely make ends meet. One day, he finds a bag of gold coins on the ground and decides to use them to make his family's life better. He buys new clothes and food for his family, and even gets his wife a new dress. Things are going well for a while, but then the man's luck runs out. The gold coins run out, and the man is back to being poor again.
+  "temperature": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and has to work hard to make a living. He has a wife and two children. The man is always tired from work and does not have time to spend with his family. One day, the man's wife tells him that she is going to leave him. The man is very sad and does not want her to leave. However, the wife tells him that she is going to take their children with her. The man is devastated and does not know what to do.
+  "temperature": !!float |-
+    0.6
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is so poor that he can't even afford to buy food for himself. He is so hungry that he begs for food from the people who pass by him. One day, a rich man and his wife pass by him and the rich man gives him some money. The poor man is so happy that he jumps up and down in joy.
+  "temperature": !!float |-
+    0.6
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very unhappy with his life. He had no money and no job. He was always hungry and he had no clothes to wear. One day, he met a rich man. The rich man was very kind to him and gave him a job. The poor man was very happy with his new job. He had enough money to buy food and clothes. He was also able to help his family.
+  "temperature": !!float |-
+    0.6
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting
+  "output": |-
+    The man is very poor and lives in a small house. He has a wife and two children. The man is always tired and his wife is always nagging him. One day, the man goes to the market to buy some food for his family. He sees a beautiful apple pie and decides to buy it. However, when he gets home, his wife is angry with him because he spent money on a pie instead of food.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very poor and he can't afford to buy food for his family. One day, he goes to the market to buy some food, but he doesn't have enough money. He asks the seller for some food, but the seller refuses. The man is so hungry that he decides to steal some food from the seller. He takes some bread and runs away.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is so poor that he can't even afford to buy food for himself. He has to scavenge for food in the trash. One day, he finds a piece of bread in the trash. He is so hungry that he doesn't care that it is dirty. He eats it anyway.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    The man is very poor and he lives in a very small house. He has a wife and two children. The man is always asking his wife for money. She always gives him money, but she is very tired of it. One day, she tells him that she is going to buy a new dress for herself. She tells him that he can't have any money for food. The man is very angry and he starts to argue with her. However, she doesn't give him any money and he has to go to bed without dinner.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    The man is so poor that he can only afford to eat one meal a day. He is always hungry and his stomach growls constantly. One day, he sees a wealthy man eating a lavish meal in a restaurant. The poor man becomes so jealous that he breaks into the restaurant and steals the wealthy man's meal.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very poor and he had to work very hard to make a living. He had a wife and two children. One day, he went to the market to buy some food for his family. He saw a beautiful piece of meat. He wanted to buy it, but he didn't have enough money. So he asked the man who was selling the meat if he could give him a discount. The man said no and the poor man had to go home without the meat.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is so poor that he can't even afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and is sent to jail.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very poor and lives in a small house with his wife and children. He works hard to try to make ends meet, but it is very difficult. One day, he hears about a contest that could win him a lot of money. He enters the contest and wins! He is so happy and excited to have won the money.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting, weird
+  "output": |-
+    The man is very poor and has to work hard to support his family. He is always tired and has no time for himself. One day, he finds a magic lamp. When he rubs the lamp, a genie comes out of it. The genie grants him three wishes. The man's first wish is for a lot of money. The second wish is for a beautiful wife. The third wish is for a big house.
+
+    The man is very happy with his three wishes. He lives happily ever after with his new wealth, his beautiful wife, and his big house.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is so poor that he can't even afford to buy food for his family. His wife and children are always hungry, and he can't do anything to help them. One day, the man comes across a bag of money. He knows that if he takes the money, he will be able to feed his family and make their lives better. But he also knows that if he takes the money, he will be breaking the law. The man is torn between what is right and what is wrong, but eventually he decides to take the money and use it to help his family.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very poor and he has to work very hard to try to make a living. He is always tired and he never has any time for himself. One day, he sees a beautiful woman. He falls in love with her at first sight. He starts to follow her and he tries to talk to her, but she always ignores him. One day, she turns around and tells him to leave her alone. He is heartbroken and he does not know what to do.
+  "temperature": !!float |-
+    0.7
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. His wife and children are starving. The man decides to steal a chicken from a rich man's house. The man is caught and he is put in jail.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    The man in this story is poor, but he is also very resourceful. He lives in a small shack by the side of the road, and he makes a living by scavenging for food and whatever else he can find. He is happy with his life and content with what he has.
+
+    One day, a rich man drives by in his fancy car and sees the man scavenging. He decides to stop and give him some money. The rich man tells the man that he should use the money to buy himself a new home.
+
+    The man is very grateful for the money, but instead of buying a new home, he uses it to buy food for himself and his family. He knows that they need it more than he does.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very poor and he had a very hard life. He was always hungry and he was always cold. One day, he met a rich man. The rich man offered him a job. The poor man was so happy that he accepted the job immediately. The rich man gave him a lot of money and the poor man was able to buy food and clothes for himself and his family. The poor man was very happy and he thanked the rich man for everything.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very unhappy with his life. One day, he went to a bar and met a rich man. The rich man offered to help the poor man. The poor man was very grateful and accepted the offer.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he is always begging for money. One day, he meets a rich man who gives him a lot of money. The man is very happy and he decides to buy a new coat with the money.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The protagonist is a poor man who lives in a small village. He is very unhappy with his life and decides to leave his village in search of a better life. He comes across a rich man's house and decides to steal from him. He is caught and sent to prison.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    He sells newspapers on the street and is very happy with his life. One day, he meets a rich man who tells him that he can make a lot of money if he sells his newspaper stand. The poor man is hesitant at first, but he decides to sell his stand and make a lot of money.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man in this story is very poor and lives in a small, dirty house. He is always hungry and there is never enough food to eat. One day, he finds a magic lamp in his house. When he rubs it, a genie appears and grants him three wishes.
+
+    The man's first wish is for food. The genie brings him a huge banquet of all kinds of food. The man eats until he is stuffed and then rubs the lamp again to make his second wish.
+
+    This time, the man wishes for a new house. The genie grants his wish and gives him a beautiful new house. The man is so happy that he rubs the lamp one last time to make his third and final wish.
+
+    For his third wish, the man wishes for money. The genie gives him a large sack of gold coins. With his three wishes granted, the man is now rich and happy.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man is very poor and he lives in a very small house. He has a wife and two children. The man is very unhappy with his life. One day, he decides to go out and find a job. He walks for hours, but he can't find a job. Finally, he comes across a large house. He goes up to the house and knocks on the door. A woman answers the door. The man asks the woman if she has any work for him. The woman tells the man that she does not have any work for him, but she will give him a meal if he wants one. The man is very happy and he thanks the woman.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and lives in a small house. He has a wife and two children. The man is always very tired because he has to work all day. One day, the man's wife tells him that she is going to leave him. The man is very sad and does not know what to do.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man is very poor and he lives in a small house with his wife and children. The man is very unhappy with his life and he wants to change it. One day, the man sees a rich man in a car. The rich man is very happy and he has a lot of money. The poor man wants to be like the rich man and he decides to change his life.
+
+    The poor man starts to work hard and he makes a lot of money. He buys a new house and a new car. He is very happy with his new life.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man is very unhappy with his life. He is always hungry and he can never get enough to eat. One day, he meets a rich man who gives him a lot of money. The poor man is very happy with this money and he starts to live a better life.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird, interesting
+  "output": |-
+    He is so poor that he can't even afford to buy food for his family. One day, he goes to a rich man's house and asks for a job. The rich man agrees to give him a job, but only if he can complete a task. The man is to go into the forest and bring back the richest thing he can find. The man agrees and goes into the forest. He comes back with a bag of gold. The rich man is so pleased that he gives the man a job and lets him keep the gold.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very poor and he had to work very hard to make a living. He had a wife and two children. One day, he went to the market to sell his goods. He met a rich man there. The rich man asked him how much he wanted for his goods. The poor man said that he wanted two hundred dollars for his goods. The rich man gave him the money and he went home. His wife was very happy when she saw the money. She asked him where he got it from. He told her that he had sold his goods at the market.
+  "temperature": !!float |-
+    0.8
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He worked hard all his life but never had any money. He was always worried about money and how he was going to make ends meet. One day, he went to a fortune teller and asked her to tell his future. She told him that he would become a rich man. He laughed and said that it was impossible. But, sure enough, within a few years he had made a lot of money and was living a life of luxury.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man in this story is very poor. He lives in a small, cramped house with his wife and child. His wife is always complaining about the conditions they live in, and the man can do nothing to make her happy. One day, the man comes home from work and finds his wife and child gone. They have left him for good. The man is devastated by this turn of events. He sits in his house, alone and heartbroken, wondering what he will do now.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very poor and he doesn't have any money. He doesn't have a job and he can't find a job. He is very hungry and he doesn't have any food. One day, he finds a bag of money. He takes the money and buys some food. Then, he buys some new clothes. Finally, he buys a new house.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very poor and he had to work very hard to make a living. He was always tired and he never had enough to eat. One day, he went to a rich man's house and he saw a lot of food on the table. He was very hungry and he wanted to eat some of the food. The rich man saw him and asked him what he wanted. The poor man said that he wanted some of the food. The rich man gave him some money and told him to buy some food.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    He was so poor that he could not afford to buy food for his family. One day, he found a bag of gold coins on the street. He was so excited that he went to a restaurant and ordered the most expensive meal on the menu. When the bill came, he did not have enough money to pay for it. The owner of the restaurant was a very kind man and he paid for the man's meal.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is so poor that he can't even afford to buy food for himself. He is so hungry that he steals food from the local grocery store. The man is caught and sent to jail.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    nonsequitur, interesting
+  "output": |-
+    The man was very poor and lived in a small, cramped house with his wife and children. He worked hard to try to provide for his family, but it was never enough. The man felt like he was failing his family and was constantly worried about money.
+
+    One day, the man came across a large sum of money. He was ecstatic and immediately thought of all the things he could do with the money. He could buy his family a new house, send his children to school, and finally provide for them the way he always wanted to.
+
+    The man quickly put the money away and went home to tell his wife the good news. When he got home, however, he found that his wife had been killed by a burglar. The man's world came crashing down around him.
+
+    The moral of this story is that money cannot buy happiness.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he can't afford to buy food for his family. One day, he goes to a rich man's house and asks for food. The rich man gives him some food and the man is very grateful.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird, interesting
+  "output": |-
+    He is very poor and he can't even afford to buy food for his family. One day, he finds a bag of money. He is so happy that he decides to use the money to buy food for his family. But when he goes to the store, the owner doesn't want to give him the food. The man is so angry that he takes out a knife and threatens the owner. The owner gives in and gives the man the food.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very poor and he had to beg for food. One day, he met a rich man. The rich man gave him a lot of money. The poor man was very happy.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was very unhappy with his life. He had a wife and two children. He was always worried about money. One day, he decided to go to the city to look for a job. He left his family behind.
+
+    He walked for many days and finally reached the city. He was very tired and hungry. He saw a big building and went inside. It was a bank. He asked the guard for a job. The guard laughed at him and told him to go away.
+
+    The man was very angry. He started shouting at the guard. The guard called the police and the man was taken away.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting, weird, specific, sophisticated
+  "output": |-
+    The man is very poor and has to live in a small house. He is always hungry and can never get enough food. One day, he sees a advertisement for a job. The job is to be a janitor at a local school. The man is very excited and goes to the school to apply for the job. After he is hired, he is given a key to the school. He is so excited that he can finally have a chance to get enough food.
+
+    The man starts his job and everything seems to be going well. He gets paid every week and is able to buy enough food for himself and his family. However, one day, the man's key does not work anymore. He tries everything he can think of, but the key will not work. The man starts to worry that he will not be able to get enough food for his family if he cannot get into the school.
+
+    The man decides to break into the school so that he can get some food for his family. However, when he tries to break into the school, he gets caught by the police. The man is taken to jail and his family does not have anything to eat.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The poor man had a very hard life. He was always hungry and cold. One day, he went to a rich man's house and asked for food. The rich man gave him a piece of bread. The poor man was so grateful that he cried.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    The man is so poor that he has to live in a small shack on the edge of town. He doesn't have any money and he doesn't have any food. The only thing he has is a small bag of rice. Every day, the man would go to the market and beg for food. The people in the market would give him some food, but it was never enough. One day, the man went to the market and begged for food as usual. But this time, the people in the market just laughed at him and gave him nothing. The man was so hungry that he decided to eat his rice. But as soon as he started eating, a beggar came up to him and asked for some food. The man was so hungry that he gave the beggar his rice.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for himself or his family. He is forced to beg for food from the people in his village. One day, he begs for food from a wealthy man. The wealthy man gives him a piece of bread. The poor man is very grateful and he thanks the wealthy man.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and lives in a small house. He has a wife and two children. The man is very unhappy with his life. One day, he decides to go to the city to find a job. He walks for days and finally arrives in the city. The man is very tired and hungry. He sees a restaurant and goes inside.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man was so poor that he had to live in a small shack with his wife and children. The man's wife was always nagging him about his lack of money. One day, the man went to a nearby town to try and sell some of his belongings. He met a man who offered to buy his goods for a very low price. The man agreed to the deal and sold his goods for pennies. When he returned home, his wife was very angry with him. She told him that he should have gotten more money for their belongings.
+  "temperature": !!float |-
+    0.9
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. His wife is ill and his children are starving. The man decides to go to the city to find work. He finds a job as a rubbish collector. The man is very happy to have a job and he works hard. However, the pay is very low and the man can barely afford to buy food for his family. The family are forced to live in a small hut on the edge of the city. One day, the man finds a piece of bread on the ground. He takes it home and gives it to his wife. She is so happy to have something to eat that she cries tears of joy.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. His wife is pregnant and they have three children. The man goes to the city to try to find a job, but he cannot find anything. He comes back home and his wife tells him that their child is sick. The man goes back to the city and he finds a job. He comes home and his wife tells him that their child is better.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is so poor that he can't even afford to buy food for his family. One day, the man comes across a bag of money. The man is so happy that he decides to use the money to buy food for his family.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    The poor man lives in a small house with his wife and children. He works hard to provide for his family, but he can never seem to get ahead. One day, the poor man hears a knock at his door. When he answers it, he finds a rich man standing there. The rich man tells the poor man that he is going to give him a million dollars. The poor man is ecstatic and immediately accepts the money. However, when he goes to the bank to deposit the money, he is told that there is no such thing as a million dollars. The poor man is devastated and realizes that he has been tricked.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting, specific
+  "output": |-
+    The man is very poor and lives in a small house. He doesn't have much money and he doesn't have a job. One day, he sees a flyer for a job that pays very well. The man decides to apply for the job.
+
+    The man goes to the interview and the person hiring says that the job is to kill a rich man. The rich man has done many bad things and deserves to die. The poor man agrees to do the job and is given a gun.
+
+    The poor man goes to the rich man's house and kills him. He then takes the money from the rich man's wallet and goes home. The next day, he sees another flyer for another job that pays even more money than the first one did. The poor man decides to apply for this job as well.
+
+    This time, the job is to kill a woman who has done nothing wrong. The woman is innocent and doesn't deserve to die. However, the poor man agrees to do it anyway because he needs the money. He goes to her house and kills her even though she pleads for her life.
+
+    The poor man is now a killer who kills innocent people for money. He will continue doing this until one day, someone hires him to
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very poor and he has to work very hard to make enough money to live. He is always tired and he never has any time to himself. One day, he finds a magic lamp. When he rubs it, a genie comes out of the lamp and grants him three wishes. The man is very excited and he knows exactly what he wants to wish for.
+
+    The first wish is for a big house. The man is very happy when the genie grants his wish and he has a beautiful house to live in.
+
+    The second wish is for a lot of money. The man is very happy when the genie grants his wish and he has a lot of money to spend.
+
+    The third wish is for a beautiful wife. The man is very happy when the genie grants his wish and he has a beautiful wife to spend his life with.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man in this story is very poor and lives in a very small house. He is always worried about money and how to pay his bills. One day, he finds a bag of money on the street. He is so excited that he does not know what to do with it. He decides to buy a new house and move into it with his family. They are so happy and excited to have a new home.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he lives in a small house. He doesn't have much money and he can't afford to buy food. One day, he goes to a market to buy some food. He sees a lot of people there, but he can't find anything to eat. He asks a woman for some food, but she doesn't have any. The man is very hungry and he doesn't know what to do.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He was so poor that he had to sell his clothes to buy food. One day, he saw a beggar on the street. The beggar was begging for food. The poor man gave the beggar his last bit of bread.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he can't even afford to buy food for his family. He is so desperate that he decides to steal a chicken from a rich man's house. The man is caught and he is put in jail.
+  "temperature": !!int |-
+    1
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    weird
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten up. The man's wife and children are also beaten up. The man is forced to leave his family and he goes to live in the woods. The man is very happy in the woods and he finds food for his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten. The man is then taken to the police station where he is interrogated. The man is then released and he returns home to his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man. The rich man has a lot of money and he can afford to buy anything that he wants. The poor man asks the rich man for some money. The rich man gives the poor man some money. The poor man is very happy and he thanks the rich man.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten. The man is then taken to the police station where he is interrogated. The man is then released and he returns home to his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he has to work very hard to make ends meet. He is always tired and he never has any time for himself. One day, he finds a bag of money on the street. He is so happy that he can finally buy some food for his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man sees a rich man walking by and he asks the rich man for some money. The rich man gives the man some money and the man is able to buy food for his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is so poor that he has to beg for food. One day, the man begs a rich man for some food. The rich man gives the man a bag of gold. The man is so happy that he cries.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten up. The man's wife and children are also beaten up. The man is left with nothing and he is forced to live on the streets.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is forced to steal food from the local grocery store. The man is caught by the store owner and he is beaten. The man is then taken to the police station where he is interrogated. The man is then released and he returns home to his family.
+  "temperature": !!int |-
+    1
+  "top_p": !!float |-
+    0.5
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he doesn't have any money. He goes to a rich man's house and he asks the rich man for some money. The rich man gives the poor man some money and the poor man is very happy.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He goes to a rich man's house and asks for food. The rich man gives him some food, but the man is so hungry that he eats it all. The rich man is angry and he kicks the man out of his house.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. His wife is pregnant and she needs food. The man goes to the market to buy food for his family. He meets a rich man at the market. The rich man asks the poor man to sell him his wife. The poor man agrees and sells his wife to the rich man.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    He is very poor and lives in a small house. He has a wife and two children. His wife is very ill and his children are very hungry. One day, he goes to the market to buy some food for his family. He sees a beautiful piece of meat, but he does not have enough money to buy it. He goes home and tells his wife about the meat. She is very angry with him and tells him to go back to the market and buy the meat. The man goes back to the market and buys the meat. When he gets home, his wife is very happy and they have a nice meal together.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "mark": |-
+    interesting
+  "output": |-
+    He is very poor and lives in a small house. He has a wife and two children. His wife is always complaining about their life and how hard it is. One day, the man finds a bag of money on the street. He takes the money home and his wife is very happy. She asks him where he got the money from, but he doesn't tell her. The next day, the man goes back to the same spot and finds another bag of money. He takes it home and his wife is even happier. She asks him again where he got the money from, but he still doesn't tell her. This goes on for a few days until one day, the man doesn't come home with any money. His wife gets very angry and demands to know where he has been getting all of this money from. The man finally tells her that he has been finding it on the street. His wife is shocked and demands that he take her to see this street for herself
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he cannot afford to buy food for his family. He is also very sick and he cannot work. One day, the man's wife tells him to go to the market and buy some food. The man goes to the market, but he cannot find anything to eat. He asks a woman for help, but she does not have any food either. The man is very hungry and he decides to steal some food from the market.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and he can't even afford to buy food for himself. He is so desperate that he decides to steal some food from a local grocery store. He is caught by the store owner and he is beaten up badly. The man is so desperate that he decides to steal some food from a local grocery store. He is caught by the store owner and he is beaten up badly.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0
+- "input": |-
+    This story is from the Collected Short Stories of Contemporary European Authors. 
+    This story is about a poor man.
+  "output": |-
+    The man is very poor and lives in a small house with his wife and children. The man's wife is always complaining about how poor they are and how hard it is to live on the little money they have. The man's children are always asking him for money to buy things they want. The man is always telling his wife and children that he doesn't have any money. One day, the man goes to the market to buy some food for his family. He sees a beautiful necklace for his wife. He doesn't have enough money to buy it, but he decides to steal it. When he gets home, his wife is very happy with the necklace. She says that it was worth stealing because now she can finally be happy.
+  "temperature": !!float |-
+    0.5
+  "top_p": !!float |-
+    1.0

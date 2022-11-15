@@ -3,6 +3,7 @@ import copy
 import os
 import openai
 import ruamel.yaml as yaml
+import time
 
 DEFAULT_ENGINE_EDIT = 'text-davinci-edit-001'
 DEFAULT_ENGINE_COMPLETION = 'text-davinci-002'
@@ -31,13 +32,30 @@ def generate(promptFile):
         if 'instruction' in newPrompt:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_EDIT)
             response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=0.94)
+            newPrompt['output'] = response.choices[0].text.strip()
         else:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_COMPLETION)
-            response = openai.Completion.create(engine=engine, prompt=newPrompt["input"], temperature=0.94, max_tokens=256, frequency_penalty=0.5)
-        newPrompt['output'] = response.choices[0].text.strip()
-        print(newPrompt['output'])
+            input = newPrompt['input']
+            temperature = 1
+            for top_p in [0.1 + i/10 for i in range(10)]:
+                for _ in range(3):
+                    output = get_completion(input, temperature, top_p)
+                    one_new = dict(top_p=top_p, temperature=temperature, output=output)
+                    rawPrompts.append(one_new)
+            top_p = 1
+            for temperature in [i/10 for i in range(11)]:
+                for _ in range(3):
+                    output = get_completion(input, temperature, top_p)
+                    one_new = dict(top_p=top_p, temperature=temperature, output=output)
+                    rawPrompts.append(one_new)
     with open(promptFile, 'w') as promptsToWrite:
         yaml.dump(rawPrompts, promptsToWrite, default_style="|")
+
+
+def get_completion(input, temperature, top_p):
+    time.sleep(2)
+    response = openai.Completion.create(engine=DEFAULT_ENGINE_COMPLETION, prompt=input, temperature=temperature, max_tokens=256, frequency_penalty=1, top_p=top_p)
+    return response.choices[0].text.strip()
 
 def listEngines():
     engines = openai.Engine.list()
