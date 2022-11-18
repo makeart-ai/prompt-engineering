@@ -1,0 +1,2803 @@
+- "meta":
+    "goal": |-
+      The challenge is to write a piece that can be read at least in two different ways. 500 words.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+  "output": |-
+    The lawyer's number I dialled ended in six-six-six. My friend had recommended her to me and said that she could turn even the most hopeless case into a win. I need someone like that on my side now.
+  "temperature": !!float |-
+    0.9
+  "top_p": !!float |-
+    0.9
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+  "output": |-
+    I need someone who can turn my hopeless case into a winning one.
+  "temperature": !!float |-
+    0.9
+  "top_p": !!float |-
+    0.9
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+  "instruction": |-
+    Continue
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    This was my third attempt to make a call.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+  "instruction": |-
+    Continue
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the
+  "instruction": |-
+    Continue in the style of
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the thick file of
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the
+  "instruction": |-
+    Continue in the style of
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    Nobody w
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the
+  "instruction": |-
+    Continue in the style of
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, well, but she can turn the most hopeless case into.
+    This is what I need now.
+    I found six-six-six in all the lists and in the papers.
+    She's known as the saviour.
+    No case is too complicated.
+    A last resort before maximum se
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    She's known as
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    She's known as Madame Six-Six-Six.
+    [_]
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    She's known as
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    She's known as Hades' Bride.
+    But I never thought she would be like this [missing].
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    She's known as
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, [missing], but she can turn the most hopeless case into [missing].
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+  "instruction": |-
+    Replace [missing] with text
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    The first definition stated "conquest, triumph."
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    The client will want to know what that lawyer thinks the judge will finally decide.
+    All that lawyer can usually say is guess.
+    Because nothing else is certain.
+    Because no case is ever exactly like another one.
+    I can make a guess about how the dictionary will answer my question to see if the judge will have any influence over me or not.
+    But the dictionary can't say yes or no directly.
+    The dictionary can't even suck its thumb.
+    Another lawyer's number.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    I asked if this was Ina.
+    "Yes," she said.
+    "This is Ina", adding: "Kapitelman".
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+    It was the famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I'm not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I had to peel off a thin layer of paper...
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered: "Yes?" I thought she had answered in Russian, but I am not sure. All this happened many years ago. Now I don't understand a word of Russian.
+    I asked her if she handled divorce cases.
+    "Yes," she said.
+    I explained what I wanted, and she agreed to see me.
+    I asked when.
+    She said she could see me in the afternoon.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    "Hello," I said, "My name is...
+    I am..."
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    I said: "Are you, by any chance, from Stanejovce?"
+    She hesitated: "Yes."
+    "You should not be.
+    Neither should I.
+    We are all shameful people."
+    "What?"
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    "Is this the famous lawyer with address of 666?"
+    The voice was answering, probably with a smile: "Which suit do you have?"
+    "Three of clubs."
+    "Is this about cocaine?"
+    "No, no.
+    It's about justice, about the truth."
+    "Who is this?"
+    "I am Humbert Humbert."
+    "I'm sorry, Mr. Humbert, but you sound a little busted."
+    Perhaps her "busted" was a little bit exaggerated.
+    It was just a short silence, which made me decide to have another try.
+    With determination I pushed down the handle, dialed the number again, and said: "Hello, I am Humbert Humbert.
+    I would like to speak to Miss Nabokov."
+    "Do you mean Mrs. Vladimir Nabokov?"
+    "No," she was saying, "I mean Miss Nabokov."
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    The voice continued, probably with a smile: "Which suit do you have?"
+    "Three of clubs."
+    "Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    "Hello, I would like to speak to a lawyer."
+    "Which lawyer?"
+    She speaks Russian and I cannot translate her question.
+    She waits for my answer.
+    She repeats the question.
+    Suddenly I don't understand Russian.
+    I type in English: Which lawyer?
+    I wait a while and type: Which one?
+    The lawyer, any lawyer.
+    I press Return, and a long answer comes.
+    And again long sentences, and long pauses and my long lines of question marks.
+    I write: Do you speak English?
+    It's about justice.
+    Three of clubs are innocent.
+    A long sentence and then, for the first time, in the whole exchange, a question mark.
+    Can you give me your lawyer's number?
+    A scream is printed in the chat window: NO, no, no.
+    There are no lawyers in this chat room
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    The voice continued, probably with a smile: "Which suit do you have?"
+    "Three of clubs."
+    "Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes?"
+    The voice continued, probably with a smile: "Which suit do you have?"
+    "Three of clubs."
+    "Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+    "I'm not familiar with many different cases.
+    "Just listen to my story.
+    I'm calling to you."
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes? Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes? Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+    "I see.
+    Excuse me for asking.
+    In this profession, one has to be careful.
+    So, it's about justice, about the truth.
+    You're right, that's what I do.
+    Not just anyone.
+    This is six-six-six.
+    It is also the number of the Beast, as they say.
+    In this case, I suppose, justice is the Beast.
+    There's nothing to be afraid of.
+    You're going to win.
+    I will help you.
+    That's why I do my job."
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the pen.
+    Then I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes? Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+  "instruction": |-
+    Continue in a way that it can be read in two different ways.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    A famous lawyer's number.
+    A friend had recommended her.
+    How much she charges, I am not sure, but she can turn the most hopeless case into a victory.
+    This is what I need now.
+    I found six-six-six in all the lists and in the ads.
+    I put the newspaper on the table and I put down the plastic pen.
+    I read the paper.
+    I took the dictionary and looked up "victory."
+    There, in the upper corner, in small letters, was the name and telephone number of the lawyer.
+    I must have looked at the number for a long time before dialing.
+    I dialed the number, and a mature female voice answered, in Russian: "Yes? Is this about cocaine?"
+    "No, no. It's about justice, about the truth."
+    At that moment, the phone began to ring.
+    I picked it up, I looked at it, and I continued: "And it is also about a drug, of course.
+    A lot of fun and joy."
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a very short story of 200 words
+  "output": |-
+    Six-six-six is the first in the initial sequence of a phone number I dialed.
+    I forgot to add the area code, which is two-two-two-two.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a very short story of 200 words
+  "output": |-
+    My girlfriend discovered a string of strange sixes in her mobile number.
+    She got fed up of all the jokes so she transferred some to my phone.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    John dialed a phone number by accident.
+    It ended in six-six-six.
+    A woman answered.
+    She was very mad.
+
+    John hung up and dialed the number again.
+    The woman answered again, and she was still very mad.
+
+    John hung up and dialed the number again.
+
+    The woman answered again, and again she was mad.
+    But then her mood changed and she invited John over.
+
+    John was confused.
+    He wondered what was going on.
+    He wondered if he should go to see the woman.
+    After much thought, he decided to go.
+    He grabbed his coat, got in his car and drove to the woman's house.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    Fucking devils.
+
+    Then there was a beep.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    With a with a wit wit whacked wack wacky wocked welkit
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    I'm sorry, I didn't mean to disturb you.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.  The line was immediately disconnected.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    I'm sorry, I didn't mean to disturb you.
+
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep.
+
+    The phone number I dialed ended with six-six-six.
+    The line was immediately disconnected.
+  "instruction": |-
+    Make it a complete short story
+  "mark": |-
+    maybe
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    I'm sorry, I didn't mean to disturb you.
+
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep.
+
+    The phone number I dialed ended with six-six-six.
+    The line was immediately disconnected.
+
+    *************
+    He finished sending the e-mail and looked up at the clock.
+    It's time to leave, he thought.
+    The very moment he thought that, the phone rang.
+    He sighed.
+    "Hello?"
+    "Hello, could I speak to Mr. X?"
+    "This is him."
+    "This is from _____'s shopping mall.
+    We have great news for you!
+    You've just won one million yen.
+    We'd like to congratulate you, but you're actually on a video conference call with all the staff of _____'s shopping mall."
+    Mr. X let out a short breath.
+    Ah, so it's one of those.
+    So you don't really want to call yourself a scam after all.
+    "I refuse your proposal."
+    A long silence took over the phone.
+    "Why?"
+    "I said, I refuse your proposal.
+    I won't fall for it.
+    "
+    He hung up.
+    The very moment he hung up, the phone rang again.
+    "Hello?"
+    "Hello, could I speak to Mr. X?"
+    "This is him."
+    "This is from _____'s shopping mall.
+    We have great news for you!
+    You've just won one million yen.
+    We'd like to congratulate you, but you're actually on a video conference call with all the staff of _____'s shopping mall."
+    "I refuse your proposal."
+    Another long silence took over the phone.
+    "Why?"
+    "I said, I refuse your proposal.
+    I won't fall for it.
+    "
+    He hung up again.
+    The very moment he hung up, he received a text message.
+    "Eat shit and die!"
+    Who would it be?
+    Mr. X had no idea.
+    Pressing the down button on the elevator, Mr. X suddenly became aware of the phone in his left hand.
+    He was still holding the phone.
+    He tilted his head.
+    The elevator doors opened with a ding.
+    When he looked up again, Mr. X saw a person in a suit standing right in front of him.
+    "You!"
+    The man spat at him.
+    Mr. X stared at the small puddle of spit.
+    The liquid slowly spread, like a spider's web, spanning across the shoes and up the pants.
+    "Wait a moment," Mr. X said, smiling.
+    "I must have forgotten to hit #."
+    Mr. X turned to the elevator door.
+    "That's not a phone."
+    The man took a step back at those words, falling out of the elevator, green with fear.
+    Just then, several hands reached out of the ceiling and covered the man's eyes, mouth, ears and nostrils.
+    The elevator doors quietly closed.
+    If you look closely, you will see a small symbol engraved on the left side of the door, but only if you look closely.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    I'm sorry, I didn't mean to disturb you.
+
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep.
+
+    The phone number I dialed ended with six-six-six.
+    The line was immediately disconnected.
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    # The phone number I dialed ended with six-six-six.
+    I'm sorry, I didn't mean to disturb you.
+
+    # The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+
+    The phone number I dialed ended with six-six-six.
+    The line was immediately disconnected.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+  "instruction": |-
+    Make it a complete short story that has a different meaning if you read the paragraphs in a different order.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils, give me a break!
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Make it a complete short story that has a different meaning if you read the paragraphs in a different order.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+    ---
+    So he dialed 666, just to make sure it worked.
+    Then he regretted it, so he hung up quickly.
+    Because the phone number ended with 666, he thought he might have summoned the devil, and then he hung up before the devil had time to answer the phone.
+    It turned out that, by not leaving a voicemail, he had not summoned the devil at all.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Make it a complete short story that has a different meaning if you read the paragraphs in a different order.
+  "output": |-
+    … left a voicemail. 
+    The phone number I dialed ended with 666.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+    Fucking devils.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Make it a complete short story that has a different meaning if you read the paragraphs in a different order.
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.  I slammed down the phone.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a story that is funny and sad at the same time
+  "output": |-
+    George had a big problem with his phone number. It ended with the devil's number. Everyday he got callers that were looking to go to hell. And the worst were those called to sell hell.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a story that is funny and sad at the same time
+  "output": |-
+    It was a sunny day and everything was going well. That was when I accidentally dialed six-six-six and everything went drastically downhill.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a story that is funny and sad at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    She was the girl of my dreams.
+    But one day, she got into a horrible face-lift accident.
+    After that, our relationship took a turn for the worse.
+    She wasn't expecting it either.
+    She wanted to see other people, and since I didn't have a job, I wasn't able to keep her.
+    Whenever I gaze longingly at her shriveled, gnarled face, I can't help but think of how much like the inside of a banana's skin it looks like.
+    But then, I remember that she was never attracted to me.
+    She says I always nose into her business, and leave my dirty underwear on the living room rug.
+    If only my mother didn't throw all my Star Trek uniforms away -_-
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+  "instruction": |-
+    Make it a story that is funny and sad at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+    "You're such a cynic", said my mom, when I pointed that out.
+    I told her, "The Bible says we should all be alarmed when we see six-six-six, so I've every reason to be worried!
+    At that she chuckled and said, "you want to be safe from the devil if you act like this?
+    That's what the devil wants!
+    He doesn't want you to act silly every time you see," at this point she covered her mouth like little kids do sometimes and whispered, "the big bad number."
+    After giving me a moment to see the humor I felt bad for laughing and remember that the Bible says God is the one who turns even our mourning into laughter, but nobody had died...
+
+    "You're such a weirdo", I told my mom and she replied, "Honey, I just want you to enjoy family night.
+    You and daddy are working too hard to be part of this and I worry that you aren't taking enough time to enjoy your time off because you're scared of making a mistake somewhere."
+
+    What difference does it make what numbers come at the end of a phone number?
+    Obviously the only reason I called was because I recognized the area code, but my mom was so worried about me calling the devil she never even considered that I might be ignorant of the area code too if I didn't recognize the number enough to call it!
+    Could mom think I was that dumb?
+    I'd better not mention that as I try to regain some sense of dignity.
+    Why did she call me anyway?
+    Did she want me to feel bad for not being able to celebrate Father's Day like she thought I should?
+    But what?
+    Couldn't she have just let family night go and called tomorrow?
+
+    "We weren't doing anything special," I told her.
+    What was she going to do if I really had been doing something or if I was occupied later tonight when she wanted to call sin?
+    Was she hoping I could take care of her guilt like she always hoped daddy or me would take care of it?
+    First of all, I can't make up for missing Father's Day by spending $5 on fast food just because she thinks it will make her feel guilty that I didn't get gifts form my kid brothers too?
+    I'll tell her, "you want me to be more upset that I didn't celebrate with you than my kids were impossible for me to get them to sweep the floor?"
+    Now it sounded like she was trying to make me feel bad for my kids too!
+    That's it!
+    She is going to give me a guilt trip in order to pass her guilt from her missing out on family night, whatever family night was supposed to mean!
+
+    "I didn't say you were wrong about the area code," I bitched.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+  "instruction": |-
+    Make it a story that makes the reader laugh and cry at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    She was so funny and so sad all at the same time, until I made her angry by letting a balloon loose into the sky.
+    That's right, a balloon.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+  "instruction": |-
+    Make it a story that makes the reader laugh and cry at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    And she was as solid as gold, only she was 8013 times softer.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+  "instruction": |-
+    Make it a story that makes the reader laugh and cry at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    Things were pretty fine until I woke up one night with her on top of my chest in a lesbian pose.
+    I woke up and found her staring right into my eyes with a tear running down her cheek.
+    "Do you truly love me?", she said to me.
+    "Or are you just using me because I'm a good way to absorb your crease cakes while you study?"
+    I thought about the question a little, and then replied, "I think we should break up."
+    She then got on her knees and said, "So be it" and broke up with me.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+  "instruction": |-
+    Make it a story that makes the reader laugh and cry at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+
+    It is such a lovely story of how she left me.
+    One day she just picked up, and left.
+    My whole life was a lie.
+    I miss you, google.com
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+  "instruction": |-
+    Make it a story that makes the reader laugh and cry at the same time
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft like a fresh guacamole, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+
+    This is the most wonderful story I've every read - if you do not know what this story is all about please read it attentively once more, read it twice and after the third time you will find the truth.
+    Indeed, the truth is all around.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she said
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    # I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she said...
+
+    "I'm pregnant."
+
+    I was such an idiot.
+    I didn't even know how she managed it.
+    And I wasn't even sure if I loved the avocado kiwi girl.
+    So I did what any sensible person; I ran away.
+
+    I got into my Ferrari and headed South.
+    I assumed it was the idiomatic North to go to the South, but it wasn't.
+    It was real South.
+    The other side of the map.
+    Upside-down maps.
+    The fringe of the Earth.
+
+    Something strange happened in the middle of the equator, however.
+    An evil Villanous secret franschise stuffed a yellow and green kiwi fruit down my throat so I couldn't breathe.
+    This didn't have anything to do with the color green, or thinking of money.
+    It was just bananas.
+
+    Bananas are funny.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she said
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she said, "bla bla bla.
+    ", and I said, "bla bla bla.", then all of a sudden it was the end.
+    That's the end
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about handlblower
+
+    I blew it.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me the hottest news:
+
+    I was the father of a beautiful little flower.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezous with a young Mr. Potato Head who was married to someone she knew - someone who was six feet tall and
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew - someone who was six feet tall and
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew - someone who was six feet tall and had the tallest nose she had ever seen on a plastic toy.
+    The worst part was that she wanted to go back to him.
+    At first, I was heart-broken.
+    But, like the M&M's melted inside my Mr. Coffee CoolBrew coffee maker, I soon got over it.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew - someone who was six feet tall and
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew - someone who was six feet tall and was in love with a small potato.
+
+    They had spent some very intimate moments together and she couldn't believe she had slipped up.
+    MS. Potato head didn't have a job, but loved to be beside her pool.
+    I pleaded her to stay.
+    I told her that we could be happy together and that the potato was just a fling.
+    She said before killing the potato she would first have to set him on fire while under water.
+
+    She said that only if he could survive would she deny forgiveness.
+
+    The potato had short arms, poor eyesight, and rode his bike every day.
+    He wanted to be a doctor, or a lawyer, or even a make-up artist.
+    His hobby was swimming, and besides for the awkward moments he had shared with MS. Potatoe Head, he had lived a normal life.
+
+    His wife was six feet tall, (most potatoes are in fact very short.
+    I think it has something to do with their diet).
+    She fell into a deep depression and ended up standing on the edge of a bridge.
+    She then grabbed a small vine, slung it around her neck, and jumped into the river. Sadly as she jumped, it ended up slipping and landing on her neck - breaking her hyoid bone.
+
+    Her daughter didn't like the story and ended up being a vegetarian. 
+
+    The End.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name
+- "output": |-
+    was Ken, and that he was in fact married to Barbie.
+    Barbie was a tall, beautiful doll with perfect skin, long blonde hair, and a figure that most women would kill for.
+    I was devastated.
+
+    I ended up dialing 666 because I wanted to talk to someone who would understand what I was going through.
+  "temperature": !!float |-
+    0.9
+  "top_p": !!float |-
+    0.9
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew. I learned Mr. Potato Head's real name
+
+    I laughed hard inside, partly because I learned that Erica was a slut, and partly because I had been having very intimate rendezvous with her own mother, who I also knew very well.
+    I hit Erica in the face with my third arm, and asked her if she had ever had a cold potato chip.
+    She was speechless.
+    I told her to go put on some lipstick, for Christ's sake, then left for my condo.
+
+    I never saw her again.
+    I never saw her mother again.
+    I'm still married to my mail box, but our relationship has been stagnant (though I must say, she has a really good backbone). But, it's time damn time to move on.
+
+    I called the number, and there's a message. It was her voice.
+    The voice that sung my favorite part of the gospel amicably.
+    The voice that could recite the entire Lord's Prayer twice in the time a hamster could type the letter "A".
+    It was the voice I miss.....
+
+    She took a deep breath. There was a slight pause. Then, she finally said it:
+
+    "Ralph. I'm gunna...
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name
+  "instruction": |-
+    Make it a complete short story
+  "mark": |-
+    maybe
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of subtle potato chips at his feet and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I then shot him with a potato gun before he could react.
+    As the police later told me, he died pretty instantly.
+
+    The police arrested me and I'm going to jail for several years.
+
+    I have no regrets.
+    Except for the time I spent in a relationship with that avocado.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    He had somehow tricked our mutual friend into thinking his name was Mike.
+    He had been wearing a fake mustache and glasses.
+    I got in my car and drove to his house.
+    He was there.
+    I could see him through the windows.
+    I got out of the car and walked up to the front door.
+    I opened the door.
+    He was just sitting there, minding his own business, watching TV.
+    I picked up a lamp on a table beside me and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone and called 911.
+    Then I ate a sandwich.
+- "input": |-
+    The phone number I dialed ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name
+  "instruction": |-
+    Make it a complete short story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avacados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    He was called 'Tater'.
+    I knew from that point on that I would have to kill Tater, and I knew this because of the missing clue in all of this.
+
+    The phone number I dialed ended with six-six-six.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a [missing] at his feet and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Fill in the [missing] parts
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a tire at his feet and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+    The phone number I dialled ended with six-six-six.
+
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+    Fucking devils.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of [missing] at his feet and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Fill in the [missing] parts
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of white rice at his feet and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911. I had a feeling in my gut that this was the wrong thing to do, but I had to call someone.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Tell the story from Mr Potato Head's point of view
+  "output": |-
+    I was doing my morning yoga in my front yard.
+    I always do it in the nude.
+    It's just easier that way.
+    I heard a car pull up on the street in front of my house.
+    I looked up, and saw a man walking up to me.
+    He had a bag of rice in his hand, and he threw it at my feet.
+    "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    How did he know my real name?
+    I picked up a sound bowl that I found next to my yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with eight-eight-eight.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+  "instruction": |-
+    Tell the story from Mr Potato Head's point of view
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+
+    I was in love with a young woman who always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips, like me.
+    She was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a man she knew.
+    She told me his name.
+    It was Alan.
+
+    I drove over to Alan's house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga, which was very impressive.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Alan, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it, which was not very impressive.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    The man with a bleeding head stood up
+  "instruction": |-
+    Make it a complete story
+  "mark": |-
+    maybe
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    The man with a bleeding head stood up, and looked me straight in the eye.
+    He said "I poisoned your avocado."
+    I was stunned, and asked him "What do you mean you poisoned my avocado?"
+    I was confused, and then I realised how he did it.
+    He put the poison in the little holes on the side of the avocado.
+    I hadn't noticed, as I was so caught up in her beauty.
+    I said to him "You poisoned my avocado, so I'm going to do the same to you."
+    I took the bag of Basmati rice, and chucked it into his face.
+    He was angry, but I felt no remorse.
+    I walked around him, and noticed that he had a fresh bag of potatoes in his wheelbarrow.
+    I grabbed a potato, and started to shove it into his face.
+    I shoved my first potato into his right eye, and he screamed in pain.
+    When he had finished screaming, I took another potato, and shoved it into his left eye.
+    He stood there, blinded, covered in blood and Basmati rice, with a bag of potatoes shoved into his eye holes.
+    I said to him "I hope you die."
+
+    I left Mr. Potato Head in his front yard, and walked back to my car.
+    I was driving along, and I felt something wet on my shoulder.
+    I looked to my right, and noticed that my ex-girlfriend was sitting next to me.
+    I asked her "What are you doing here?"
+    She replied "We need to talk."
+    I said "Okay, but I'm driving, so I can't talk to you."
+    She turned on the radio, and started to sing along.
+    I was confused, and I stopped the car.
+    I turned to her, and said "I thought you said we needed to talk."
+    She said "I did, but I changed my mind."
+    I asked her "What do you mean you changed your mind?"
+    She said "I realised that I love Mr. Potato Head more than I love you."
+    I was shocked, and I said "But he's a potato."
+    She said "I don't care, he's the only one I love."
+    I was angry, and I said "You're not leaving my house until you tell me that you love me."
+    She said "No, I'm leaving with Mr. Potato Head."
+    I said "Fine, I never want to see you again."
+    She left, and I drove home.
+
+    I got back home, and I was greeted by my neighbour.
+    He started to talk to me, but I had forgotten what his name was.
+    I said to him "Hey, what's up?"
+    He said "Nothing much. You okay?"
+    I said "Yeah, it's just that I'm a little shaken up."
+    He said "What happened?"
+    I said "My ex-girlfriend was unfaithful to me, and now she's left me for a man who is a potato."
+    He said "That's awful. I'm sorry to hear that."
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    The man with a bleeding head stood up
+  "instruction": |-
+    Make it a complete story
+  "output": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    The man with a bleeding head stood up and started to talk to me.
+    "I'm sorry" he said, "I didn't mean to cheat on you."
+    I replied "that's nice, but I was talking to your wife,"
+
+    I walked away with a smile on my face.
+- "input": |-
+    The phone number I dialled ended with six-six-six.
+
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    The man with a bleeding head stood up
+  "instruction": |-
+    Make it a complete story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    The man with a bleeding head stood up and said "My name is not Mr. Potato Head."
+    He was a tall, skinny man with a large, golden nose.
+    He wore a white turban, and a blue bathrobe.
+    He told me that he was the owner of the golden nose, and that he was the god of the wind and the water.
+    As he spoke, I could see the whites of his eyes turning red, and his pupils turning yellow.
+    It made me feel like I was lost in the woods.
+    He told me that I was the god of the fire and the soil, and that I was the grandson of the man who had stolen the golden nose from his great-great-great-great-grandfather.
+    He said that my great-great-great-grandfather had stolen the golden nose from his great-great-great-grandfather.
+    He said that I was the god of the fire, and that I had the power to destroy the earth.
+    I did not believe him.
+    I grabbed the bag of rice and threw it at his feet.
+    I said "I have no power.
+    I am just a man."
+    He said "I know that you have no power, but you have the power to destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    The man with the golden nose picked up the rice and threw it at my feet.
+    He said "I have the power to destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+    The man with the golden nose said "I know that you can't destroy the earth, but you can destroy the earth.
+    I can see it in your eyes.
+    You are the god of fire."
+    I said "I can't destroy the earth."
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up
+  "instruction": |-
+    Make it a complete story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, did a martial arts pose, and said "You think you can hurt me with a sound bowl?
+    I'm a potato!"
+    I took a step back, grabbed a slice of cheese from my pocket, and started buttering it in preparation to make a grilled cheese sandwich.
+
+    The man laughed, and then he cried.
+    He cried, and then he laughed.
+    He laughed, and then he remembered that it was his birthday.
+    He remembered that it was his birthday, and then he remembered that he was married.
+    He remembered that he was married, and then he remembered that he had to pick up the kids from school.
+    He remembered that he had to pick up the kids from school, and then he remembered what his childhood was like.
+    He remembered what his childhood was like, and then he remembered that he had to get to the store before it closed at 11.
+    He remembered that he had to get to the store before it closed at 11, and then he remembered that he was lactose intolerant.
+    He remembered that he was lactose intolerant, and then he remembered the day he met his wife.
+    He remembered the day he met his wife, and then he remembered the day he took his first steps.
+    He remembered the day he took his first steps, and then he remembered that he had to pay the rent before tomorrow.
+    He remembered that he had to pay the rent before tomorrow, and then he remembered his life as if it were a movie playing in a theatre.
+    He remembered his life as if it were a movie playing in a theatre, and then he remembered that he went to the store to buy a new tie.
+    He remembered that he went to the store to buy a new tie, and then he remembered that he was lactose intolerant.
+    He remembered that he was lactose intolerant, and then he remembered that he had to get to the store before it closed at 11.
+    He remembered that he had to get to the store before it closed at 11, and then he remembered what his childhood was like.
+    He remembered what his childhood was like, and then he remembered that he was married.
+    He remembered that he was married, and then he remembered that it was his birthday.
+    He remembered that it was his birthday, and then he cried.
+    He cried, and then he laughed.
+    He laughed, and then he did a martial arts pose.
+    He did a martial arts pose, and then he said "You think you can hurt me with a sound bowl?
+    I'm a potato!"
+
+    I finished buttering the slice of cheese, and I threw it at his feet.
+    The cheese got stuck to his shoe, and he fell.
+    He fell, and then he remembered that he had to get to the store before it closed at 11.
+    He remembered that he had to get to the store before it closed at 11, and then he remembered what his childhood was like.
+    He remembered what his childhood was like, and then he remembered that he was married.
+    He remembered that he was married, and then he remembered that it was his birthday.
+    He remembered that it was his birthday, and then he cried.
+    He cried, and then he laughed.
+    He laughed, and then he did a martial arts pose.
+    He did a martial arts pose, and then he said "You think you can hurt me with a slice of cheese?
+    I'm a potato!"
+
+    I took a step back, grabbed a slice of bread from my pocket, and started buttering it in preparation to make a grilled cheese sandwich.
+
+    The man laughed, and then he cried.
+    He cried, and then he laughed.
+    He laughed, and then he remembered that it was his birthday.
+    He remembered that it was his birthday, and then he remembered that he was married.
+    He remembered that he was married, and then he remembered that he had to pick up the kids from school.
+    He remembered that he had to pick up the kids from school, and then he remembered what his childhood was like.
+    He remembered what his childhood was like, and then he remembered that he had to get to the store before it closed at 11.
+    He remembered that he had to get to the store before it closed at 11, and then he remembered that he was lactose intolerant.
+    He remembered that he was lactose intolerant, and then he remembered the day he met his wife.
+    He remembered the day he met his wife, and then he remembered the day he took his first steps.
+    He remembered the day he took his first steps, and then he remembered that he had to pay the rent before tomorrow.
+    He remembered that he had to pay the rent before tomorrow, and then he remembered his life as if it were a movie playing in a theatre.
+    He remembered his life as if it were a movie playing in a theatre, and then he remembered that he went to the store to buy a new tie.
+    He remembered that he went to the store to buy a new tie, and then he remembered that he was lactose intolerant.
+    He remembered that he was lactose intolerant, and then he remembered that he had to get to the store before it closed at 11.
+    He remembered that he had to get to the store before it closed at 11, and then he remembered what his childhood was like.
+    He remembered what his childhood was like, and then he remembered that he was married.
+    He remembered that he was married, and then he remembered that it was his birthday.
+    He remembered that it was his birthday, and then he cried.
+    He cried, and then he laughed.
+    He laughed, and then he did a martial arts pose.
+    He did a martial arts pose, and then he said "You think you can hurt me with a slice of bread?
+    I'm a potato!"
+
+    I finished buttering the slice of bread, and I threw it at his feet.
+    The bread got stuck to his shoe, and he fell.
+    He fell, and then he remembered that he had to get to the store before it closed at 11.
+    He remembered that he had to get to the store before it closed at 11, and then he remembered what his childhood was like.
+    He remembered what his childhood was like, and then he remembered that he was married.
+    He remembered that he was married, and then he remembered that it was his birthday.
+    He remembered that it was his birthday, and then he cried.
+    He cried, and then he laughed.
+    He laughed, and then he did a martial arts pose.
+    He did a martial arts pose, and then he said "You think you can hurt me with a slice of bread?
+    I'm a potato!"
+
+    Now I had both slices of bread and cheese, and I was ready to make a grilled cheese sandwich.
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up
+  "instruction": |-
+    Make it a complete story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    He looked at me and said, "I don't even remember your name..."
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up and said, "I don't deserve to live like this.
+    I'm going to kill myself."
+    He grabbed one of his yoga mats and wrapped it around his neck.
+    He grabbed the other mat, and wrapped it around his head.
+    Then he grabbed a third one, and wrapped it around his head and his neck.
+    At this point he was unable to talk, but I could still hear him scream.
+    He was now wrapped in four yoga mats, and was standing on his front porch.
+    He had his hands in the air, and was staring at me with a look of sheer determination.
+    He jumped off the porch, and landed on his head.
+    He instantly died.
+    I walked over to him and said, "I guess you weren't a big yoga fan, huh?"
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up
+  "instruction": |-
+    Make it a complete story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that Mr. Potato Head had been cheating on my girlfriend with my girlfriend.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+
+    I left my friend's house, and bought a really cool new pair of shoes.
+    I drove back home, put on the shoes, and went to bed.
+    I didn't know whether or not I would wake up the next morning.
+    I was worried that Mr. Potato Head would come in my room and kill me.
+    I was worried that he would steal my body and use it to get revenge on my girlfriend.
+    I was worried that my girlfriend would come in my room and kill me.
+    I was worried that she would steal my body and use it to get revenge on Mr. Potato Head.
+    I was worried that the next day would be one of the worst days of my life.
+    I was worried that I would do something that I would regret.
+    I was worried that I would never get over what I had done.
+    I was worried that I would never be happy again.
+    I was worried that I would never be able to look myself in the eyes again.
+    I was worried that I would never be able to look at myself in the mirror again.
+    I was worried that I would never be able to look at myself in the eyes again.
+    I was worried that I would never be able to look at the stars in the sky again.
+    I was worried that I would never be able to look at the moon in the sky again.
+    I was worried that I would never be able to look at the sun in the sky again.
+    I was worried that I would never be able to look at the sky again.
+    I was worried that I would never be able to look at the ground again.
+    I was worried that I would never be able to look at the trees again.
+    I was worried that I would never be able to look at the grass again.
+    I was worried that I would never be able to look at the leaves on the trees again.
+    I was worried that I would never be able to look at the flowers on the ground again.
+    I was worried that I would never be able to look at the flowers on the trees again.
+
+    I woke up the next morning, and the first thing I saw was a ring of dead flowers.
+    I looked up, and saw a ring of dead trees.
+    I looked up, and saw a ring of dead grass.
+    I looked up, and saw a ring of dead leaves.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+    I looked up, and saw a ring of dead flowers.
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+  "instruction": |-
+    Complete this story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+
+    He walked into his kitchen and got out some water.
+    The water was from a stream that ran through his property.
+    He had a filter in his sink that cleaned the water.
+    It was a pretty good filter.
+    He put the water on the stove, and put the teabag in a cup.
+    He turned the stove on, and watched the water boil.
+    Then he turned the stove off and put the cup on the counter.
+    He got out some milk, and put some of it into the cup.
+    He stirred it with a spoon, and then he took the spoon out of the cup.
+    He put the milk back in the fridge, and put the spoon in the sink.
+    He brought the tea to me.
+    "Here you go." he said.
+    I took the tea from him and drank it.
+    "Thank you for giving me this tea." I said.
+    "You're welcome." he said.
+    "Have you ever been to China?" I asked him.
+    "No." he said.
+    "I used to live there." I said.
+    "I would love to live there someday." he said.
+    "China is a great place.
+    I used to go there all the time." I told him.
+    "I would love to go there." he said.
+    "It is a very hot place." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there, too." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there, too." he said.
+    "You could live there." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "You could live there, too." he said.
+    "I would love to live there." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there, too." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there." he said.
+    "I would love to live there someday." I said.
+    "I would love to live there someday." he said.
+    "I would love to live there someday." I said.
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+  "instruction": |-
+    Finish this story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+    He made us both tea.
+    I drank mine quickly, and stood up.
+    I told him that I was going to go find Mr. Potato Head, and kill him.
+    He asked me if I had thought this through.
+    I told him that I had.
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+  "instruction": |-
+    Finish this story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+
+    I sat down on the floor, and he brought me a cup of tea.
+    We talked for a while, and after a couple hours he said "Do you want to see something cool?"
+    I said "Kinda."
+    He said "I've got this old computer in the basement, and it's got a bunch of cool games and programs on it."
+    I said "Oh, cool."
+    He said "Yeah.
+    I've been playing this one game, and I think it's really cool.
+    It's called 'Angry Birds'."
+    I said "That sounds cool."
+    He said "Yeah, it's really fun.
+    You should try it out."
+    I said "Okay."
+    He went into the basement, and came back with a giant computer.
+    The screen was about thirty inches long, and the computer was about half the size of a man.
+    It was a beast.
+    He put it on the floor, and plugged it in.
+    Then he opened up a program called "Steam".
+    Steam is a program that allows you to buy, download, and play video games.
+    He went to a page that said "Angry Birds", and clicked on a button that said "Play".
+    A screen came up and said "Would you like to play this game in 'Windowed Mode' or 'Fullscreen Mode'?"
+    I said "Windowed Mode."
+    The game started up, and there was a little pig on the screen.
+    I shot a bird, and the pig died.
+    I said "That's pretty cool."
+    He said "Yeah.
+    It's a pretty fun game."
+    I said "It's fun, but it's not really a game."
+    He said "Oh, really?"
+    I said "Yeah.
+    Real games are like 'Mass Effect' and 'Halo'."
+    He said "I've never played those games."
+    I said "You should.
+    They're really cool."
+    He said "Okay."
+    I got up and went home.
+    I had to get some rest.
+    In the morning I would go back over to Mr. Potato Head's house and kill him.
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+  "instruction": |-
+    Finish this story
+  "output": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+    He made me tea, and then he asked me if I wanted to go into the woods to look for berries.
+    He made us both berry smoothies when we got back.
+    They were delicious.
+
+    Later that night, I went back to Mr. Potato Head's house and parked down the street.
+    There was a man in a trench coat standing on the corner at the end of the block.
+    I thought nothing of him.
+    I walked up to Mr. Potato Head's house, and walked onto the porch.
+    I knocked on the door.
+    Mr. Potato Head answered the door.
+    He looked at me, and said "You've come back to me."
+    I said "Not exactly.
+    I've come back to kill you."
+    I drew out an Uzi, and shot him in the forehead.
+    He fell to the ground, dead.
+    I heard a police siren, so I ran back to my car.
+    I drove off.
+    I drove down the street and the man in the trench coat was still there.
+    The police car was driving towards him.
+    He pulled out a gun from his trench coat, and shot the police car.
+    It exploded.
+    He then turned around and shot at me.
+    I floored it.
+    He ran after me until he got tired and gave up.
+    I drove away into the night, and that was the last day I ever saw Mr. Potato Head.
+
+    I drove back to my friend's house to tell him about what had happened.
+    He was worried that the police would find Mr. Potato Head's body.
+    "The police will know that you did it," he said.
+    I told him that I had already gotten rid of the body.
+    I told him that I had taken the body to a dumpster behind a local deli.
+    I don't know why I said that.
+    It was a lie.
+    I didn't get rid of the body.
+    I left it in his front yard.
+    I wasn't sure if the police would find it.
+    I didn't know what would happen next.
+    I hoped that nothing would happen.
+    I hoped that we would just be left alone.
+    We weren't.
+
+    A few days later, my friend was found dead in his living room.
+    He had been shot in the head.
+    The police came to my house to ask me about what had happened.
+    I told them that I didn't know anything.
+    They didn't believe me, but they couldn't prove that I was lying.
+    They left my house and told me to call them if I learned anything.
+    I didn't.
+    I sat down on my couch, and turned on the television.
+    I ate some popcorn and watched a movie.
+    I didn't know what else to do.
+
+    A few months passed.
+    My friend's murder was still unsolved.
+    The police had stopped coming over to ask me questions.
+    I was sitting on my couch and eating popcorn, as usual.
+    I was watching a movie.
+    Suddenly, I heard a loud bang at my front door.
+    I opened the door, and it was the man in the trench coat.
+    He shot me in the head.
+    I fell to the ground, dead.
+    This story wasn't meant to have a happy ending.
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+
+    I sat down on the floor, and he brought me a cup of tea.
+    We talked for a while, and after a couple hours he said "Do you want to see something cool?"
+    I said "Kinda."
+    He said "I've got this old computer in the basement, and it's got a bunch of cool games and programs on it."
+    He went into the basement, and came back with a giant computer.
+    The screen was about thirty inches long, and the computer was about half the size of a man.
+    It was a beast.
+    He put it on the floor, and plugged it in.
+    He said "I've been playing this one game, and I think it's really cool."
+    It's called 'Angry Birds'."
+    I said "Okay."
+  "instruction": |-
+    Give this piece 5 title ideas
+  "output": |-
+    # 5 title ideas:
+    - The Great Mr. Potato Head
+    - The Revenge of the Great Mr. Potato Head
+    - The Revenge of the Great Mr. Potato Head 2: The Return of the Great Mr. Potato Head
+    - The Revenge of the Great Mr. Potato Head 3: The Return of the Return of the Great Mr. Potato Head
+    - The Revenge of the Great Mr. Potato Head 4: The Return of the Return of the Return of the Great Mr. Potato Head
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+
+    I sat down on the floor, and he brought me a cup of tea.
+    We talked for a while, and after a couple hours he said "Do you want to see something cool?"
+    I said "Kinda."
+    He said "I've got this old computer in the basement, and it's got a bunch of cool games and programs on it."
+    He went into the basement, and came back with a giant computer.
+    The screen was about thirty inches long, and the computer was about half the size of a man.
+    It was a beast.
+    He put it on the floor, and plugged it in.
+    He said "I've been playing this one game, and I think it's really cool."
+    It's called 'Angry Birds'."
+    I said "Okay."
+  "instruction": |-
+    Give this piece 5 title ideas
+  "output": |-
+    Title ideas:
+    - Mr. Potato Head's Revenge
+    - Local Man Kills Lover's Lover
+    - My Ex's Lover
+    - Mr. Potato Head
+    - The Bad Man
+- "input": |-
+    I just got out of a really bad relationship.
+    Yes, she was tall, didn't weigh much, and EVERYONE thought she had the perfect skin tone.
+    She always smelt of fresh avocados in the morning.
+    Her skin was soft as if it were made from kiwi seeds, and every time she laughed it sounded like someone stepping on a bag of subtle potato chips.
+    One day she told me about she had been unfaithful in our relationship, and that she had been having very intimate rendezvous with a young Mr. Potato Head who was married to someone she knew.
+
+    I learned Mr. Potato Head's real name.
+    I drove over to his house in a dark black car.
+    When I got there, he was in his front yard, doing his morning yoga.
+    I walked up to him, threw a bag of Basmati rice at his feet, and said "Mr. Potato Head, you've been a bad boy, and I'm here to make you pay."
+    I picked up a sound bowl that I found next to his yoga mat, and hit him over the head with it.
+    He fell to the ground, blood pouring from his head.
+    I picked up the phone to call 911.
+
+    The phone number I dialled ended with six-six-six.
+    Fucking devils.
+    Then there was a beep, and an operator asked me if I wanted to leave a voicemail.
+    I did not.
+
+    In the meantime the man stood up, wiped the blood from his face, and said "Did you really think that would kill me?
+    I am the great Mr. Potato Head, and I will be back to get you."
+    He ran into his house, and came back out with an AK-47.
+    He shot at me, but I was too fast for him.
+    I dove into my car and sped off.
+
+    I had a friend who lived in the woods near Mr. Potato Head's house.
+    I went over there to tell him about what had recently happened.
+    I told him that my girlfriend had been cheating on me with Mr. Potato Head.
+    He was shocked, and didn't know what to say.
+    He said "If I could, I would help you, but I can't.
+    I don't even have a car."
+    I told him that I would have to kill Mr. Potato Head and get revenge.
+    He asked me if I'd like some tea.
+    I said "Sure."
+    He asked me what kind of tea I wanted.
+    I said "Earl Grey."
+    He said "Hm.
+    I don't have that kind of tea."
+    I said "Alright.
+    What kind of tea do you have?"
+    He said "Chamomile."
+    I said "Okay."
+
+    I sat down on the floor, and he brought me a cup of tea.
+    We talked for a while, and after a couple hours he said "Do you want to see something cool?"
+    I said "Kinda."
+    He said "I've got this old computer in the basement, and it's got a bunch of cool games and programs on it."
+    He went into the basement, and came back with a giant computer.
+    The screen was about thirty inches long, and the computer was about half the size of a man.
+    It was a beast.
+    He put it on the floor, and plugged it in.
+    He said "I've been playing this one game, and I think it's really cool."
+    It's called 'Angry Birds'."
+    I said "Okay."
+  "instruction": |-
+    Give this piece 5 title ideas
+  "output": |-
+    1. I'm So Angry
+    2. Murder in the Woods
+    3. The Death of a Mr. Potato Head
+    4. The Great Mr. Potato Head
+    5. My Ex-Girlfriend
