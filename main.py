@@ -47,6 +47,24 @@ def json_from_url(url, token, payload=None):
     return requests.get(url, headers=headers, data=payload).json()
 
 
+def fill_in_template(template, vars):
+    """
+    >>> template = '{plants} are {color}'
+    >>> vars = {'plants': 'roses', 'color': 'red', 'extra': 'Dont care'}
+    >>> fill_in_template(template, vars)
+    'roses are red'
+    >>> fill_in_template(template, {'plants': 'trees'})
+    Traceback (most recent call last):
+       ...
+    KeyError: "Missing key 'color' for template '{plants} are {color}'"
+    """
+    template_vars = [f[1] for f in string.Formatter().parse(template) if f[1]]
+    for var in template_vars:
+        if var not in vars:
+            raise KeyError(f"Missing key '{var}' for template '{template}'")
+    return template.format(**vars)
+
+
 def get_service_url(prompt_settings):
     """
     >>> settings = {'providers':
