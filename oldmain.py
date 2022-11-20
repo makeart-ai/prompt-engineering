@@ -31,23 +31,17 @@ def generate(promptFile):
             rawPrompts.append(newPrompt)
         if 'instruction' in newPrompt:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_EDIT)
-            response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=0.94)
+            temperature = 0.7
+            response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=temperature)
             newPrompt['output'] = response.choices[0].text.strip()
         else:
             engine = newPrompt.get('engine', DEFAULT_ENGINE_COMPLETION)
             input = newPrompt['input']
-            temperature = 1
-            for top_p in [0.1 + i/10 for i in range(10)]:
-                for _ in range(3):
-                    output = get_completion(input, temperature, top_p)
-                    one_new = dict(top_p=top_p, temperature=temperature, output=output)
-                    rawPrompts.append(one_new)
-            top_p = 1
-            for temperature in [i/10 for i in range(11)]:
-                for _ in range(3):
-                    output = get_completion(input, temperature, top_p)
-                    one_new = dict(top_p=top_p, temperature=temperature, output=output)
-                    rawPrompts.append(one_new)
+            top_p = 0.9
+            temperature = 0.9
+            output = get_completion(input, temperature, top_p)
+            one_new = dict(top_p=top_p, temperature=temperature, output=output)
+            rawPrompts.append(one_new)
     with open(promptFile, 'w') as promptsToWrite:
         yaml.dump(rawPrompts, promptsToWrite, default_style="|")
 

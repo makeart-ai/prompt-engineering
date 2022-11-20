@@ -1,7 +1,7 @@
 import argparse
-import copy
 import os
 import openai
+import requests
 import ruamel.yaml as yaml
 
 DEFAULT_ENGINE_EDIT = 'text-davinci-edit-001'
@@ -24,7 +24,8 @@ def set_api_key():
 
 
 def load_yaml(fname):
-    pass
+    with open(fname) as file:
+        return yaml.safe_load(file)
 
 def merge_by_keys(dicts):
     """
@@ -37,8 +38,15 @@ def merge_by_keys(dicts):
         merged |= d
     return merged
 
+def json_from_url(url, headers={}, payload=None):
+    """
+    >>> json_from_url("https://catfact.ninja/fact")['fact']
+    33
+    """
+    return requests.get(url, params=headers, data=payload).json()
+
 def generate(prompt_file):
-    prompts = yaml_file_to_dicts(prompt_file)
+    prompts = load_yaml(prompt_file)
     params = merge_by_keys(prompts)
 
 
