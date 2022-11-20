@@ -80,9 +80,7 @@ def get_service_url(prompt_settings):
     service = prompt_settings['service']
     service_settings = prompt_settings['providers'][provider][service]
     url_template = service_settings['url']
-    template_var_names = [f[1] for f in string.Formatter().parse(url_template) if f[1]]
-    template_vars = {k: prompt_settings[k] for k in prompt_settings.keys() if k in template_var_names}
-    url = url_template.format(**template_vars)
+    url = fill_in_template(url_template, prompt_settings)
     return url
 
 
