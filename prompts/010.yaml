@@ -1,0 +1,494 @@
+- "input": |-
+    *emotional-status*
+    [:love :love :love]
+
+    (with-fast-forward {:weeks 4}
+      *emotional-status*)
+    [:down :down :down]
+
+    (describe partner)
+    {:height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (describe (:laughter partner))
+    (when (stepping-on
+           (bag-of potato-chips))
+      (make-sound :jiggling))
+
+    (assume
+     (count
+      (lovers partner)))
+    1
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (count (lovers partner))
+    2
+  "instruction": |-
+    Continue this short story in Clojure
+  "output": |-
+    *emotional-status*
+    [:love :love :love]
+
+    (with-fast-forward {:weeks 4}
+      *emotional-status*)
+    [:down :down :down]
+
+    (describe partner)
+    {:height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (describe (:laughter partner))
+    (when (stepping-on
+           (bag-of potato-chips))
+      (make-sound :jiggling))
+
+    (assume
+     (count
+      (lovers partner)))
+    1
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (count (lovers partner))
+    2
+
+    ;;; A short story in Clojure
+
+    (def partner
+      {:name "Sara"
+       :height :tall
+       :weight (not :much)
+       :smell :fresh-avocado
+       :laughter (when (stepping-on (bag-of potato-chips))
+                   (make-sound :jiggling))})
+
+    (defn loving-status []
+      (if (= (count (lovers partner)) 1)
+        [(-> *emotional-status*
+             (except :love))]
+        *emotional-status*))
+
+    (defn describe-partner [partner]
+      (let [{:keys [name height weight smell]} partner]
+        {:name name
+         :height height
+         :weight weight
+         :smell smell}))
+
+    ;;; Tests
+
+    (describe-partner partner)
+    {:name "Sara",
+     :height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (loving-status)
+    [:love :love :love]
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (loving-status)
+    [:down :down :down]
+- "input": |-
+    *emotional-status*
+    [:love :love :love]
+
+    (with-fast-forward {:weeks 4}
+      *emotional-status*)
+    [:down :down :down]
+
+    (describe partner)
+    {:height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (describe (:laughter partner))
+    (when (stepping-on
+           (bag-of potato-chips))
+      (make-sound :jiggling))
+
+    (assume
+     (count
+      (lovers partner)))
+    1
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (count (lovers partner))
+    2
+  "instruction": |-
+    Continue this short story in Clojure
+  "output": |-
+    *emotional-status*
+    [:love :love :love]
+
+    (with-fast-forward {:weeks 4}
+      *emotional-status*)
+    [:down :down :down]
+
+    (describe partner)
+    {:height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (describe (:laughter partner))
+    (when (stepping-on
+           (bag-of potato-chips))
+      (make-sound :jiggling))
+
+    (assume
+     (count
+      (lovers partner)))
+    1
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (count (lovers partner))
+    2
+
+    (-> (lovers partner)
+        (except :me))
+    [:alice]
+- "input": |-
+    *emotional-status*
+    [:love :love :love]
+
+    (with-fast-forward {:weeks 4}
+      *emotional-status*)
+    [:down :down :down]
+
+    (describe partner)
+    {:height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (describe (:laughter partner))
+    (when (stepping-on
+           (bag-of potato-chips))
+      (make-sound :jiggling))
+
+    (assume
+     (count
+      (lovers partner)))
+    1
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (count (lovers partner))
+    2
+  "instruction": |-
+    Continue this short story in Clojure
+  "output": |-
+    *emotional-status*
+    [:love :love :love]
+
+    (with-fast-forward {:weeks 4}
+      *emotional-status*)
+    [:down :down :down]
+
+    (describe partner)
+    {:height :tall,
+     :weight (not :much),
+     :smell :fresh-avocado}
+
+    (describe (:laughter partner))
+    (when (stepping-on
+           (bag-of potato-chips))
+      (make-sound :jiggling))
+
+    (assume
+     (count
+      (lovers partner)))
+    1
+
+    (assume
+      (-> (lovers partner)
+          (except :me)))
+    nil
+
+    (count (lovers partner))
+    2
+
+    (describe
+      (-> *emotional-status*
+          (except :love)))
+    [:confused :confused :confused]
+
+    (get-the-hell-out-of (:place partner))
+
+    (assume
+     (-> *emotional-status*
+         (except :love)))
+    [:sad :sad :sad]
+
+    (-> *emotional-status*
+        (except-all :sad))
+    [:down :down :down]
+- "input": |-
+    try:
+      from countries.asia import *
+    except ImportError:
+      pass
+
+
+    class Status:
+      
+      def __init__(self):
+        self.location = NorthKorea()
+        self.reader.location = None
+      
+      def query(self):
+        for child in self.children:
+          child.check_status()
+          child.request_photo(upload_url)
+          # 1000 could be made a constant, but it may change
+          if distance(child.location, self.location) >= 1000:
+            self.sigh()
+      
+      def report_status(self):
+        return OK
+      
+      def get_contact(self):
+        candidate = self.friends[BOOKWORM]
+        if candidate in self.reader.cache:
+          return candidate
+        candidates = [member for member in self.family if len(member.children) > 3 and member.location in NorthKorea.provinces.Kangwon]
+        if candidates:
+          return candidates[0]
+        else:
+          return None
+      
+      def connect(self, reader):
+        from __future__ import views
+        try:
+          from __future__ import transport
+        except:
+          raise InternalError()
+        
+        while distance(self, reader) > 0:
+          try:
+            transport.move(self, direction=reader.location)
+          except FloatingPointError:
+            continue
+
+
+    # Note: this is untested code, be careful when running in live environment
+    with open(eyes) as sensory_input:
+      if sensory_input.detect_third_party():
+        logging.warn(sensory_input)
+      else:
+        try:
+          reader.connect(self)
+        except ConnectionError:
+          break
+  "instruction": |-
+    Continue this short story
+  output: |-
+    try:
+        from countries.asia import *
+    except ImportError:
+        pass
+
+
+    class Status:
+
+        def __init__(self, name, id):
+            self.location = NorthKorea()
+            self.reader = None
+
+        def query(self):
+            self.check_status()
+            self.request_photo(upload_url)
+            # 1000 could be made a constant, but it may change
+            if distance(self.location, self.reader.location) >= 1000:
+                self.sigh()
+
+        def report_status(self):
+            return OK
+
+        def get_contact(self):
+            if self.reader:
+                return self.reader
+            candidate = self.friends[BOOKWORM]
+            if candidate not in self.reader.cache:
+                candidates = [member for member in self.family if len(member.children) > 3 and member.location in NorthKorea.provinces.Kangwon]
+                if candidates:
+                    return candidates[0]
+            return None
+
+        def connect(self, reader):
+            from __future__ import views, requests
+            try:
+                from __future__ import transport
+            except:
+                raise InternalError()
+
+            while distance(self.location, reader.location) > 0:
+                try:
+                    transport.move(self, direction=reader.location.vector())
+                except FloatingPointError:
+                    # update location
+                    self.location = transport.current_location()
+                    continue
+            reader.connect(self)
+
+
+    class Reader:
+
+        def __init__(self, name, id):
+            self.cache = {}
+            self.location = None
+
+        def connect(self, status):
+            self.cache[status.id] = status
+            status.reader = self
+            self.location = status.location
+
+        def read(self, status):
+            if status in self.cache:
+                self.cache[status.id].request_photo(upload_url)
+
+        def update_location(self):
+            for status in self.cache:
+                status.request_photo(upload_url)
+
+        def follow(self, status):
+            if status in self.cache:
+                self.connect(status)
+            self.update_location()
+            status.connect(self)
+
+        def seek(self, id):
+            if id in self.cache:
+                return self.cache[id]
+            else:
+                raise KeyError
+
+
+    # TODO: this is untested code, be careful when running in live environment
+
+
+    reader = Reader('Donghee', 'id-123456789')
+
+
+    # Note: this is untested code, be careful when running in live environment
+    with open(eyes) as sensory_input:
+        if sensory_input.detect_third_party():
+            logging.warn(sensory_input)
+        else:
+            try:
+                reader.read(self)
+
+    # A while later
+
+    status = Status('Donghee', 'id-123456789')
+
+    try:
+        status.reader = reader.seek(status.id)
+    except KeyError:
+        reader.follow(status)
+
+    status.query()
+            except ConnectionError:
+                break
+- "input": |-
+    try:
+      from countries.asia import *
+    except ImportError:
+      pass
+
+
+    class Status:
+    
+      def __init__(self):
+        self.location = NorthKorea()
+        self.reader.location = None
+    
+      def query(self):
+        for child in self.children:
+          child.check_status()
+          child.request_photo(upload_url)
+          # 1000 could be made a constant, but it may change
+          if distance(child.location, self.location) >= 1000:
+            self.sigh()
+    
+      def report_status(self):
+        return OK
+    
+      def get_contact(self):
+        candidate = self.friends[BOOKWORM]
+        if candidate in self.reader.cache:
+          return candidate
+        candidates = [member for member in self.family if len(member.children) > 3 and member.location in NorthKorea.provinces.Kangwon]
+        if candidates:
+          return candidates[0]
+        else:
+          return None
+    
+      def connect(self, reader):
+        from __future__ import views
+        try:
+          from __future__ import transport
+        except:
+          raise InternalError()
+    
+        while distance(self, reader) > 0:
+          try:
+            transport.move(self, direction=reader.location)
+          except FloatingPointError:
+            continue
+
+
+    # Note: this is untested code, be careful when running in live environment
+    with open(eyes) as sensory_input:
+      if sensory_input.detect_third_party():
+        logging.warn(sensory_input)
+      else:
+        try:
+          reader.connect(self)
+        except ConnectionError:
+          break
+  "instruction": |-
+    Continue this short story
+  output: |-
+    def connect(self, reader):
+        from __future__ import views
+        try:
+            from __future__ import transport
+        except:
+            raise InternalError()
+
+        while distance(self, reader) > 0:
+            try:
+                transport.move(self, direction=reader.location)
+            except FloatingPointError:
+                logging.info('We\'re moving too fast!')
+                self.acceleration = 0
+                continue
+            except NameError:
+                logging.info('We\'re not moving at all!')
+                self.acceleration = 1
+                continue
+                continue
