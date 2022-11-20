@@ -65,23 +65,25 @@ def fill_in_template(template, vars):
     return template.format(**vars)
 
 
-def get_service_url(prompt_settings):
+def get_url_and_payload(prompt_settings):
     """
     >>> settings = {'providers':
     ...                 {'foo':
     ...                      {'bar-service':
     ...                          {'url': 'https://example.com/{engine}',
     ...                           'args': ['temperature']}}},
-    ...             'provider': 'foo', 'service': 'bar-service', 'engine': 'steam', 'temperature': 1, 'other': 42}
-    >>> get_service_url(settings)
-    'https://example.com/steam'
+    ...             'provider': 'foo', 'service': 'bar-service', 'engine': 'steam', 'temperature': 1, 'extra': 42}
+    >>> get_url_and_payload(settings)
+    ('https://example.com/steam', {'temperature': 1})
     """
     provider = prompt_settings['provider']
     service = prompt_settings['service']
     service_settings = prompt_settings['providers'][provider][service]
     url_template = service_settings['url']
     url = fill_in_template(url_template, prompt_settings)
-    return url
+    accepted_keys = service_settings['args']
+    payload = {k: prompt_settings[k] for k in prompt_settings.keys() if k in accepted_keys}
+    return url, payload
 
 
 def generate(prompt_file):
