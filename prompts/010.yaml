@@ -305,7 +305,7 @@
           break
   "instruction": |-
     Continue this short story
-  output: |-
+  "output": |-
     try:
         from countries.asia import *
     except ImportError:
@@ -421,11 +421,11 @@
 
 
     class Status:
-    
+
       def __init__(self):
         self.location = NorthKorea()
         self.reader.location = None
-    
+
       def query(self):
         for child in self.children:
           child.check_status()
@@ -433,10 +433,10 @@
           # 1000 could be made a constant, but it may change
           if distance(child.location, self.location) >= 1000:
             self.sigh()
-    
+
       def report_status(self):
         return OK
-    
+
       def get_contact(self):
         candidate = self.friends[BOOKWORM]
         if candidate in self.reader.cache:
@@ -446,14 +446,14 @@
           return candidates[0]
         else:
           return None
-    
+
       def connect(self, reader):
         from __future__ import views
         try:
           from __future__ import transport
         except:
           raise InternalError()
-    
+
         while distance(self, reader) > 0:
           try:
             transport.move(self, direction=reader.location)
@@ -472,7 +472,7 @@
           break
   "instruction": |-
     Continue this short story
-  output: |-
+  "output": |-
     def connect(self, reader):
         from __future__ import views
         try:
@@ -492,3 +492,211 @@
                 self.acceleration = 1
                 continue
                 continue
+- "input": |-
+    try:
+        from countries.asia import *
+    except ImportError:
+        pass
+
+
+    class Status:
+
+        def __init__(self):
+            self.location = NorthKorea()
+            self.reader.location = None
+
+        def query(self):
+            for child in self.children:
+                child.check_status()
+                child.request_photo(upload_url)
+                # 1000 could be made a constant, but it may change
+                if distance(child.location, self.location) >= 1000:
+                    self.sigh()
+
+        def report_status(self):
+            return OK
+
+        def get_contact(self):
+            candidate = self.friends[BOOKWORM]
+            if candidate in self.reader.cache:
+                return candidate
+            candidates = [member for member in self.family if len(member.children) > 3 \
+                            and member.location in NorthKorea.provinces.Kangwon]
+            if candidates:
+                return candidates[0]
+            else:
+                return None
+
+        def connect(self, reader):
+            from __future__ import views
+            try:
+                from __future__ import transport
+            except:
+                raise InternalError()
+
+            while distance(self, reader) > 0:
+                try:
+                    transport.move(self, direction=reader.location)
+                except FloatingPointError:
+                    continue
+
+
+    # Note: this is untested code, be careful when running it in live environment
+    with open(eyes) as sensory_input:
+        if sensory_input.detect_third_party():
+            logging.warn(sensory_input)
+        else:
+            try:
+                reader.connect(self)
+            except ConnectionError:
+                break
+  "instruction": |-
+    Give this story 5 title ideas
+  "output": |-
+    try:
+        from countries.asia import *
+    except ImportError:
+        pass
+
+
+    # 1: The reader is a dutiful citizen of the totalitarian regime and a soldier at the same time.
+    # 2: The reader has to report everything the soldier does.
+    # 3: The soldier does not want to do anything wrong, but he has to report to his superiors.
+    # 4: The reader is in a total information society.
+    # 5: The reader has a dead man's switch.
+- "input": |-
+    try:
+        from countries.asia import *
+    except ImportError:
+        pass
+
+
+    class Status:
+
+        def __init__(self):
+            self.location = NorthKorea()
+            self.reader.location = None
+
+        def query(self):
+            for child in self.children:
+                child.check_status()
+                child.request_photo(upload_url)
+                # 1000 could be made a constant, but it may change
+                if distance(child.location, self.location) >= 1000:
+                    self.sigh()
+
+        def report_status(self):
+            return OK
+
+        def get_contact(self):
+            candidate = self.friends[BOOKWORM]
+            if candidate in self.reader.cache:
+                return candidate
+            candidates = [member for member in self.family if len(member.children) > 3 \
+                            and member.location in NorthKorea.provinces.Kangwon]
+            if candidates:
+                return candidates[0]
+            else:
+                return None
+
+        def connect(self, reader):
+            from __future__ import views
+            try:
+                from __future__ import transport
+            except:
+                raise InternalError()
+
+            while distance(self, reader) > 0:
+                try:
+                    transport.move(self, direction=reader.location)
+                except FloatingPointError:
+                    continue
+
+
+    # Note: this is untested code, be careful when running it in live environment
+    with open(eyes) as sensory_input:
+        if sensory_input.detect_third_party():
+            logging.warn(sensory_input)
+        else:
+            try:
+                reader.connect(self)
+            except ConnectionError:
+                break
+  "instruction": |-
+    Give this story 5 title ideas
+  "output": |-
+    # 1. "The Status of a North Korean"
+    # 2. "The Status of a North Korean Bookworm"
+    # 3. "The Status of a North Korean Bookworm in the Technological Age"
+    # 4. "The Status of a North Korean Bookworm in the Technological Age, or How I Learned to Stop Worrying and Love the Status"
+    # 5. "The Status of a North Korean Bookworm in the Technological Age, or How I Learned to Stop Worrying and Love the Status Quo"
+- "input": |-
+    try:
+        from countries.asia import *
+    except ImportError:
+        pass
+
+
+    class Status:
+
+        def __init__(self):
+            self.location = NorthKorea()
+            self.reader.location = None
+
+        def query(self):
+            for child in self.children:
+                child.check_status()
+                child.request_photo(upload_url)
+                # 1000 could be made a constant, but it may change
+                if distance(child.location, self.location) >= 1000:
+                    self.sigh()
+
+        def report_status(self):
+            return OK
+
+        def get_contact(self):
+            candidate = self.friends[BOOKWORM]
+            if candidate in self.reader.cache:
+                return candidate
+            candidates = [member for member in self.family if len(member.children) > 3 \
+                            and member.location in NorthKorea.provinces.Kangwon]
+            if candidates:
+                return candidates[0]
+            else:
+                return None
+
+        def connect(self, reader):
+            from __future__ import views
+            try:
+                from __future__ import transport
+            except:
+                raise InternalError()
+
+            while distance(self, reader) > 0:
+                try:
+                    transport.move(self, direction=reader.location)
+                except FloatingPointError:
+                    continue
+
+
+    # Note: this is untested code, be careful when running it in live environment
+    with open(eyes) as sensory_input:
+        if sensory_input.detect_third_party():
+            logging.warn(sensory_input)
+        else:
+            try:
+                reader.connect(self)
+            except ConnectionError:
+                break
+  "instruction": |-
+    Give this story 5 title ideas
+  "output": |-
+
+    # TITLE IDEAS
+    #  1. A Reader in a Strange Land
+    #  2. An Uninvited Reader
+    #  3. A Reader in Trouble
+    #  4. A Reader in Distress
+    #  5. A Reader in Search of Good Friends
+            except ConnectionError:
+                break

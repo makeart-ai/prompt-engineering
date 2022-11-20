@@ -1,6 +1,4 @@
-# A story of a girl, a fridge and a cart
-# The (Wo)man who cried milk
-# The milk that cried wolf
+# The Woman Who Cried Milk
 
 with open(fridge, by=sarah):
     sarah.smells(milk)
@@ -35,14 +33,12 @@ if sarah in os.HOME:
     sarah.teeth.brush()
     sarah.wash()
     sarah.groom()
-    sarah.make_up()
-    sarah.style()
-    sarah.perfume()
     sarah.dress()
     sarah.shoes()
     sarah.accessories()
-    sarah.fragrance()
     sarah.jewelry()
+    sarah.make_up()
+    sarah.perfume()
     sarah.look()
 
     for dance in rooms:

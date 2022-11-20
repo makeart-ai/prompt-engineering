@@ -54,3 +54,19 @@ with open(eyes) as sensory_input:
             reader.connect(self)
         except ConnectionError:
             break
+
+# If you're reading this, you've made it to the end of the file.
+# Congratulations!
+#
+# I'm going to be honest with you.
+# I'm not sure what to do with this story.
+#
+# I'm not sure if I should continue it.
+#
+# If you have any ideas, please let me know.
+#
+# I'm thinking of making this a story about a person who is being watched by the government.
+#
+# I'm not sure if I should make it a short story or a novel.
+#
+# If you have any ideas, please let me know.
