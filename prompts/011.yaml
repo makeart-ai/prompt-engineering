@@ -1,0 +1,1086 @@
+- "input": |-
+    if __name__ == "__main__":
+        main()
+  "instruction": |-
+    Write an O Henry prize winner story that is Python code
+  "mark": |-
+    yes
+  "output": |-
+    def main():
+        print("The last leaf: A story about the persistence of art")
+
+        for season in ['spring', 'summer', 'autumn', 'winter']:
+            print("The leaves are on the tree")
+
+        print("Two young artists named Sue and Johnsy are looking at the tree")
+        johnsy_has_pneumonia = True
+
+        while johnsy_has_pneumonia:
+            print("A leaf falls off")
+            if tree.number_of_leaves() == 1:
+                johnsy_has_pneumonia = False
+
+        print("Johnsy is dead")
+
+        print("Sue has pneumonia now")
+        sue_has_pneumonia = True
+
+        while sue_has_pneumonia:
+            print("A leaf falls off")
+            if tree.number_of_leaves() == 0:
+                sue_has_pneumonia = False
+
+        print("Sue is dead")
+
+        print("But wait, a leaf grows back!")
+        print("Because Behrman is a drunk but he paints like Michelangelo")
+
+
+    if __name__ == "__main__":
+        main()
+- "if __name__ == \"__main__\"": |-
+    main()
+  "output": |-
+    def main():
+    '''
+    Author: O Henry
+    Title: Roads of Destiny
+    '''
+    print("From the Northern Pacific railway station at Kalispell")
+    print("a man and a woman and a boy walked westward in the evening.")
+    print("The man carried a suit case.")
+    print("The woman carried a satchel containing her sewing machine.")
+    print("The boy had charge of a small, yellow dog.")
+    print("The dog had been named Yellow.")
+    print("The woman said:")
+    print("'His name is ridiculous. We will call him Towser.")
+    print("It is a fine, dignified name.'")
+    print("The man said:")
+    print("'If you call him Towser he will answer to it.")
+    print("And he will answer to Yellow.")
+    print("But if you call him Yellow he will not answer to Towser.")
+    print("His name is Yellow. And we will call him Yellow.'")
+    print("'You will not,' said the woman.")
+    print("'We will,' said the man.")
+    print("The boy said nothing.")
+    print("The dog said nothing.")
+    print("'Well, I will not,' said the woman.")
+    print("The man and the woman were married.")
+    print("The boy was their son.")
+    print("The dog was their dog.")
+    print("And they were going to Oregon.")
+    print("The man said:")
+    print("'Oregon is a good country.")
+    print("I was there once.")
+    print("And I liked it.'")
+    print("The woman said:")
+    print("'I am going to Oregon to live and die.")
+    print("I have always heard that it is a fine country.'")
+    print("The boy said:")
+    print("'Oregon is a fine country.")
+    print("And I am going to live and die in Oregon.'")
+    print("The dog said nothing.")
+    print("'It is a fine country,' said the man.")
+    print("'We are all going to live and die in Oregon.'")
+    print("'Well, I will not,' said the woman.")
+    print("The dog, Yellow, did not say anything.")
+    print("But he had decided in his mind.")
+    print("He was going to live and die in Oregon.")
+    print("The man, the woman, and the boy were very tired.")
+    print("The boy was sleepy.")
+    print("The dog was tired.")
+    print("They had been travelling all day.")
+    print("And they were going to Oregon.")
+    print("The man said:")
+    print("'We will stay in Kalispell to-night.")
+    print("And then to-morrow we will go on to Oregon.")
+    print("We will get a room and a bed to-night.")
+    print("And to-morrow we will go on to Oregon.'")
+    print("'We will go on to-night,' said the woman.")
+    print("'We will go on to-night,' said the boy.")
+    print("'We will go on to-night,' said the dog, Yellow.")
+    print("And they went on that night.")
+    print("They went on that night, and the boy was sleepy.")
+    print("And the dog was tired.")
+    print("And they went on to Oregon.")
+    print("And they came to a place where the road forked.")
+    print("And they stopped there.")
+    print("The man said:")
+    print("'We will stay here until to-morrow.")
+    print("And then we will go on to Oregon.'")
+    print("The woman said:")
+    print("'I will go on to-night.'")
+    print("The boy said:")
+    print("'I will go on to-night.'")
+    print("The dog said:")
+    print("'I will go on to-night.'")
+    print("'We will stay here until to-morrow,' said the man.")
+    print("'I will go on to-night,' said the woman.")
+    print("'I will go on to-night,' said the boy.")
+    print("'I will go on to-night,' said the dog, Yellow.")
+    print("And they stayed there that night.")
+    print("And they slept there that night.")
+    print("And in the morning they went on to Oregon.")
+    print("The man and the woman and the boy were tired.")
+    print("The dog, Yellow, was tired.")
+    print("They had been travelling all day.")
+    print("And they were going to Oregon.")
+    print("They came to a place where the road forked.")
+    print("And they stopped there.")
+    print("The man said:")
+    print("'We will stay here until to-morrow.")
+    print("And then we will go on to Oregon.'")
+    print("The woman said:")
+    print("'I will go on to-night.'")
+    print("The boy said:")
+    print("'I will go on to-night.'")
+    print("The dog said:")
+    print("'I will go on to-night.'")
+    print("'We will stay here until to-morrow,' said the man.")
+    print("'I will go on to-night,' said the woman.")
+    print("'I will go on to-night,' said the boy.")
+    print("'I will go on to-night,' said the dog, Yellow.")
+    print("And they stayed there that night.")
+    print("And they slept there that night.")
+    print("And in the morning they went on to Oregon.")
+    print("And they came to a place where the road forked.")
+    print("And they stopped there.")
+    print("The man said:")
+    print("'We will stay here until to-morrow.")
+    print("And then we will go on to Oregon.'")
+    print("The woman said:")
+    print("'I will go on to-night.'")
+    print("The boy said:")
+    print("'I will go on to-night.'")
+    print("The dog said:")
+    print("'I will go on to-night.'")
+    print("'We will stay here until to-morrow,' said the man.")
+    print("'I will go on to-night,' said the woman.")
+    print("'I will go on to-night,' said the boy.")
+    print("'I will go on to-night,' said the dog, Yellow.")
+    print("And they stayed there that night.")
+    print("And they slept there that night.")
+    print("And in the morning they went on to Oregon.")
+    print("The man and the woman and the boy were tired.")
+    print("The dog, Yellow, was tired.")
+    print("They had been travelling all day.")
+    print("And they were going to Oregon.")
+    print("They came to a place where the road forked.")
+    print("And they stopped there.")
+    print("The man said:")
+    print("'We will stay here until to-morrow.")
+    print("And then we will go on to Oregon.'")
+    print("The woman said:")
+    print("'I will go on to-night.'")
+    print("The boy said:")
+    print("'I will go on to-night.'")
+    print("The dog said:")
+    print("'I will go on to-night.'")
+    print("'We will stay here until to-morrow,' said the man.")
+    print("'I will go on to-night,' said the woman.")
+    print("'I will go on to-night,' said the boy.")
+    print("'I will go on to-night,' said the dog, Yellow.")
+    print("And they stayed there that night.")
+    print("And they slept there that night.")
+    print("And in the morning they went on to Oregon.")
+    print("And they came to a place where the road forked.")
+    print("And they stopped there.")
+    print("The man said:")
+    print("'We will stay here until to-morrow.")
+    print("And then we will go on to Oregon.'")
+    print("The woman said:")
+    print
+- "mark": |-
+    yes
+  "output": |-
+    from os import path
+
+    def the_gift_of_the_magi():
+        """
+        Write a program that calculates the cost of giving the perfect Christmas
+        gift. The program should read in a double from standard input representing
+        the amount of money that Jim has available to spend on a gift for his wife,
+        Della. It should then read in a double from standard input representing the
+        cost of the furs that Della wants to buy for Jim. Finally, it should read in
+        a double from standard input representing the cost of the watch chain that
+        Jim wants to buy for Della. The program should calculate and print to
+        standard output the total cost of buying the furs and the watch chain.
+
+        The furs cost $20. The watch chain cost $10. If the money Jim has available
+        to spend is less than the cost of buying the furs and the watch chain, the
+        program should print to standard output the string "Not enough money".
+        """
+        available = float(input())
+        cost_of_furs = 20.0
+        cost_of_watch_chain = 10.0
+        if available < cost_of_furs + cost_of_watch_chain:
+            print("Not enough money")
+        else:
+            print(cost_of_furs + cost_of_watch_chain)
+
+    def counting_bob():
+        """
+        Write a program that counts the number of times that the string "bob" occurs
+        in a given input string.
+        """
+        bob = "bob"
+        input_string = input()
+        count = 0
+        for i in range(len(input_string)):
+            if input_string[i:i + 3] == bob:
+                count += 1
+        print(count)
+
+    def find_the_number_of_times_the_string_s_occurs_in_the_given_string():
+        """
+        Write a program that finds the number of times that the string "bob" occurs
+        in the given input string.
+        """
+        s = "bob"
+        input_string = input()
+        count = 0
+        for i in range(len(input_string)):
+            if input_string[i:i + 3] == s:
+                count += 1
+        print(count)
+
+    def does_string_have_same_first_and_last_characters():
+        """
+        Write a program that takes a string and prints whether or not that string
+        has the same first and last character.
+        """
+        input_string = input()
+        print(input_string[0] == input_string[-1])
+
+    def find_the_longest_substring_that_does_not_contain_a_repeated_character():
+        """
+        Write a program that finds the longest substring that does not contain a
+        repeated character.
+        """
+        input_string = input()
+        length = len(input_string)
+        current_longest_substring = input_string[0]
+        longest_substring = current_longest_substring
+        for i in range(length):
+            if input_string[i] not in current_longest_substring:
+                current_longest_substring += input_string[i]
+                if len(current_longest_substring) > len(longest_substring):
+                    longest_substring = current_longest_substring
+            else:
+                current_longest_substring = input_string[i]
+        print(longest_substring)
+
+    def how_many_vowels_are_in_the_string():
+        """
+        Write a program that finds the number of vowels in a given string.
+        """
+        vowels = "aeiou"
+        input_string = input()
+        count = 0
+        for char in input_string:
+            if char in vowels:
+                count += 1
+        print(count)
+
+    def count_the_number_of_occurrences_of_the_word_bob():
+        """
+        Write a program that counts the number of times that the string "bob" occurs
+        in a given input string.
+        """
+        bob = "bob"
+        input_string = input()
+        count = 0
+        for i in range(len(input_string)):
+            if input_string[i:i + 3] == bob:
+                count += 1
+        print(count)
+
+    def how_many_times_does_the_string_s_occur_in_the_string():
+        """
+        Write a program that finds the number of times that the string "bob" occurs
+        in the given input string.
+        """
+        s = "bob"
+        input_string = input()
+        count = 0
+        for i in range(len(input_string)):
+            if input_string[i:i + 3] == s:
+                count += 1
+        print(count)
+
+    def does_string_have_same_first_and_last_character():
+        """
+        Write a program that takes a string and prints whether or not that string
+        has the same first and last character.
+        """
+        input_string = input()
+        print(input_string[0] == input_string[-1])
+
+    def find_the_longest_substring_that_does_not_contain_a_repeated_character():
+        """
+        Write a program that finds the longest substring that does not contain a
+        repeated character.
+        """
+        input_string = input()
+        length = len(input_string)
+        current_longest_substring = input_string[0]
+        longest_substring = current_longest_substring
+        for i in range(length):
+            if input_string[i] not in current_longest_substring:
+                current_longest_substring += input_string[i]
+                if len(current_longest_substring) > len(longest_substring):
+                    longest_substring = current_longest_substring
+            else:
+                current_longest_substring = input_string[i]
+        print(longest_substring)
+
+    def how_many_vowels_are_in_the_string():
+        """
+        Write a program that finds the number of vowels in a given string.
+        """
+        vowels = "aeiou"
+        input_string = input()
+        count = 0
+        for char in input_string:
+            if char in vowels:
+                count += 1
+        print(count)
+
+    if __name__ == "__main__":
+      the_gift_of_the_magi()
+- "input": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+  "instruction": |-
+    Continue this story
+  "output": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+
+    print("Oh no, there's a bird outside who wants to eat the last leaf!")
+
+    print("But the tree is an art tree, and it won't let the bird eat the leaf")
+- "input": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+  "instruction": |-
+    Continue this story
+  "output": |-
+    print("The last leaf: A story about the persistence of art, and some other things")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    # I think this is a loop:
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+- "input": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+  "instruction": |-
+    Continue this story
+  "output": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+
+    print("An ambulance arrives")
+
+    print("The paramedics are at a loss")
+- "input": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+  "instruction": |-
+    Continue this story
+  "mark": |-
+    yes
+  "output": |-
+    print("The last leaf: A story about the persistence of art")
+
+    for season in ['spring', 'summer', 'autumn', 'winter']:
+        print("The leaves are on the tree")
+
+    print("Two young artists named Sue and Johnsy are looking at the tree")
+    johnsy_has_pneumonia = True
+
+    while johnsy_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 1:
+            johnsy_has_pneumonia = False
+
+    print("Johnsy is dead")
+
+    print("Sue has pneumonia now")
+    sue_has_pneumonia = True
+
+    while sue_has_pneumonia:
+        print("A leaf falls off")
+        if tree.number_of_leaves() == 0:
+            sue_has_pneumonia = False
+
+    print("Sue is dead")
+
+    print("The tree is alive")
+- "input": |-
+    # Console
+
+    Ada: Enough of the boring side of programming, let's see the funny part of Python. We're going to use the console. You may know what happens if you type `python spam.py`.
+    Knut: Easy. It will execute a Python file named `spam.py`.
+    Ada: Indeed. And what happens if there's no such file?
+    Knut: An error, I assume.
+    Ada: Right. Now what happens if I omit the file completely? I just type `python`.
+    Knut: ...
+    Ada: I get to the intestinal tract of the computer.
+    Knut: ?
+    Ada: Look, we get to another console. But this is different as you can tell by its look. Instead of a single `>`, its prompt is `>>>` showing we are three times deeper. Whatever you type from now on will be directly interpreted by Python.
+    Knut: I wouldn't call it the intestines of the computer.
+    Ada: It's the center of the brain, then. You can type `1+2` and it prints the result. Isn't that amazing?
+    ```python
+    >>> 1+2
+    3
+    ```
+    Knut: That's elementary math.
+    Ada: How about `1089*9`?
+    Knut: I don't know. You just open a calculator app. I see this multiplication the reverse of amazing.
+    Ada: Gnizama? Or you mean the number? Then you're right:
+    ```python
+    >>> 1089*9
+    9801
+    ```
+    Knut: 😮
+    Ada: You have a few neat functions at your hand. You can quickly add up the numbers from 1 to 1000
+    ```python
+    >>> sum(range(1, 1001))
+    5050
+    ```
+    Yes, it counts only up to 1000 and excludes the upper limit. But enough of the boring side of the builtin functions.
+
+    # Hello
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knuth: Can you actually type `import secret drawer`?
+    Ada: Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knuth: `import secret_drawers`, then?
+    Ada: There's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    >>> help(secrets)
+    Help on module secrets:
+
+    NAME
+        secrets
+
+    DESCRIPTION
+        Generate cryptographically strong pseudo-random numbers suitable for
+        managing secrets such as account authentication, tokens, and similar.
+        
+        See PEP 506 for more information.
+        ...
+    ```
+    Knuth: Sounds serious.
+  "instruction": |-
+    Continue this story
+  "output": |-
+    # Console
+
+    Ada: Enough of the boring side of programming, let's see the funny part of Python. We're going to use the console. You may know what happens if you type `python spam.py`.
+    Knut: Easy. It will execute a Python file named `spam.py`.
+    Ada: Indeed. And what happens if there's no such file?
+    Knut: An error, I assume.
+    Ada: Right. Now what happens if I omit the file completely? I just type `python`.
+    Knut: ...
+    Ada: I get to the intestinal tract of the computer.
+    Knut: ?
+    Ada: Look, we get to another console. But this is different as you can tell by its look. Instead of a single `>`, its prompt is `>>>` showing we are three times deeper. Whatever you type from now on will be directly interpreted by Python.
+    Knut: I wouldn't call it the intestines of the computer.
+    Ada: It's the center of the brain, then. You can type `1+2` and it prints the result. Isn't that amazing?
+    ```python
+    >>> 1+2
+    3
+    ```
+    Knut: That's elementary math.
+    Ada: How about `1089*9`?
+    Knut: I don't know. You just open a calculator app. I see this multiplication the reverse of amazing.
+    Ada: Gnizama? Or you mean the number? Then you're right:
+    ```python
+    >>> 1089*9
+    9801
+    ```
+    Knut: 😮
+    Ada: You have a few neat functions at your hand. You can quickly add up the numbers from 1 to 1000
+    ```python
+    >>> sum(range(1, 1001))
+    5050
+    ```
+    Yes, it counts only up to 1000 and excludes the upper limit. But enough of the boring side of the builtin functions.
+
+    # Hello
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knuth: Can you actually type `import secret drawer`?
+    Ada: Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knuth: `import secret_drawers`, then?
+    Ada: There's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    >>> help(secrets)
+    Help on module secrets:
+
+    NAME
+        secrets
+
+    DESCRIPTION
+        Generate cryptographically strong pseudo-random numbers suitable for
+        managing secrets such as account authentication, tokens, and similar.
+        
+        See PEP 506 for more information.
+        ...
+    ```
+    Knuth: Sounds serious. I didn't know Python was this good in cryptography.
+    Ada: It's not. The secrets module is just for generating cryptographic secrets only.
+    Knuth: Why not just use the random module?
+    Ada: A random module is random enough for non-security-related purposes. For instance, you can use it to generate random numbers.
+    ```python
+    >>> import random
+    >>> random.randint(1, 6)
+    2
+    >>> random.randint(1, 6)
+    6
+    >>> random.randint(1, 6)
+    2
+    >>> random.randint(1, 6)
+    5
+    >>> random.randint(1, 6)
+    3
+    >>> random.randint(1, 6)
+    5
+    >>> random.randint(1, 6)
+    4
+    >>> random.randint(1, 6)
+    4
+    >>> random.randint(1, 6)
+    6
+    >>> random.randint(1, 6)
+    6
+    ```
+    Knuth: I see. The sequence of random numbers is just a stream of numbers.
+    Ada: That's what random numbers are for.
+    Knuth: But I don't understand why the one-sided 6-sided dice should be this complicated.
+    Ada: Who said it should be?
+    Knuth: Well, I...
+    Ada: You don't have to use the random module. You can just make up random numbers.
+    Knuth: I don't think I'm going to do that.
+    Ada: Well, I'll do it for you.
+    Knuth: You can't just make up numbers.
+    Ada: I just did.
+    Knuth: No, you didn't. You just randomly chose numbers.
+    ```python
+    >>> 5
+    5
+    ```
+    Knuth: So what?
+    ```python
+    >>> 5 * 2
+    10
+    ```
+    Knuth: That's just elementary math.
+    ```python
+    >>> import math
+    >>> math.sqrt(4)
+    2.0
+    ```
+    Knuth: That's just the square root of 4.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi)
+    2.0
+    ```
+    Knuth: That's 0.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi
+    6.283185307179586
+    ```
+    Knuth: That's just the circumference of a circle with a radius of 2.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi
+    19.739208802178716
+    ```
+    Knuth: That's just the area of that circle.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi
+    62.83185307179586
+    ```
+    Knuth: That's just the volume of a sphere with a radius of 2.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi
+    201.39208802178716
+    ```
+    Knuth: That's just the volume of the 4th power of that sphere.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi * math.pi
+    643.8477630171674
+    ```
+    Knuth: That's just the volume of the 5th power of that sphere.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi
+    2069.6438474724322
+    ```
+    Knuth: That's just the volume of the 6th power of that sphere.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi
+    6658.713692980906
+    ```
+    Knuth: That's just the volume of the 7th power of that sphere.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi
+    21618.204498982818
+    ```
+    Knuth: That's just the volume of the 8th power of that sphere.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi
+    70058.68133692739
+    ```
+    Knuth: That's just the volume of the 9th power of that sphere.
+    ```python
+    >>> import math
+    >>> math.sqrt(4) + math.sin(math.pi) * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi * math.pi
+    226838.2044989828
+    ```
+    Knuth: That's just the volume of the 10th power of that sphere.
+    Knuth: ...
+    Knuth: I won't let you get away with this.
+    Knuth: ...
+    Knuth: Tell me what's going on here.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+    Knuth: I don't know.
+    Knuth: ...
+- "input": |-
+    # Console
+
+    Ada: Enough of the boring side of programming, let's see the funny part of Python. We're going to use the console. You may know what happens if you type `python spam.py`.
+    Knut: Easy. It will execute a Python file named `spam.py`.
+    Ada: Indeed. And what happens if there's no such file?
+    Knut: An error, I assume.
+    Ada: Right. Now what happens if I omit the file completely? I just type `python`.
+    Knut: ...
+    Ada: I get to the intestinal tract of the computer.
+    Knut: ?
+    Ada: Look, we get to another console. But this is different as you can tell by its look. Instead of a single `>`, its prompt is `>>>` showing we are three times deeper. Whatever you type from now on will be directly interpreted by Python.
+    Knut: I wouldn't call it the intestines of the computer.
+    Ada: It's the center of the brain, then. You can type `1+2` and it prints the result. Isn't that amazing?
+    ```python
+    >>> 1+2
+    3
+    ```
+    Knut: That's elementary math.
+    Ada: How about `1089*9`?
+    Knut: I don't know. You just open a calculator app. I see this multiplication the reverse of amazing.
+    Ada: Gnizama? Or you mean the number? Then you're right:
+    ```python
+    >>> 1089*9
+    9801
+    ```
+    Knut: 😮
+    Ada: You have a few neat functions at your hand. You can quickly add up the numbers from 1 to 1000
+    ```python
+    >>> sum(range(1, 1001))
+    5050
+    ```
+    Yes, it counts only up to 1000 and excludes the upper limit. But enough of the boring side of the builtin functions.
+
+    # Hello
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knuth: Can you actually type `import secret drawer`?
+    Ada: Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knuth: `import secret_drawers`, then?
+    Ada: There's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    >>> help(secrets)
+    Help on module secrets:
+
+    NAME
+        secrets
+
+    DESCRIPTION
+        Generate cryptographically strong pseudo-random numbers suitable for
+        managing secrets such as account authentication, tokens, and similar.
+        
+        See PEP 506 for more information.
+        ...
+    ```
+    Knuth: Sounds serious.
+  "instruction": |-
+    Continue this story
+  "output": |-
+    # Console
+
+    Ada: Enough of the boring side of programming, let's see the funny part of Python. We're going to use the console. You may know what happens if you type `python spam.py`.
+    Knut: Easy. It will execute a Python file named `spam.py`.
+    Ada: Indeed. And what happens if there's no such file?
+    Knut: An error, I assume.
+    Ada: Right. Now what happens if I omit the file completely? I just type `python`.
+    Knut: ...
+    Ada: I get to the intestinal tract of the computer.
+    Knut: ?
+    Ada: Look, we get to another console. But this is different as you can tell by its look. Instead of a single `>`, its prompt is `>>>` showing we are three times deeper. Whatever you type from now on will be directly interpreted by Python.
+    Knut: I wouldn't call it the intestines of the computer.
+    Ada: It's the center of the brain, then. You can type `1+2` and it prints the result. Isn't that amazing?
+    ```python
+    >>> 1+2
+    3
+    ```
+    Knut: That's elementary math.
+    Ada: How about `1089*9`?
+    Knut: I don't know. You just open a calculator app. I see this multiplication the reverse of amazing.
+    Ada: Gnizama? Or you mean the number? Then you're right:
+    ```python
+    >>> 1089*9
+    9801
+    ```
+    Knut: 😮
+    Ada: You have a few neat functions at your hand. You can quickly add up the numbers from 1 to 1000
+    ```python
+    >>> sum(range(1, 1001))
+    5050
+    ```
+    Yes, it counts only up to 1000 and excludes the upper limit. But enough of the boring side of the builtin functions.
+
+    # Hello
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knuth: Can you actually type `import secret drawer`?
+    Ada: Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knuth: `import secret_drawers`, then?
+    Ada: There's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    >>> help(secrets)
+    Help on module secrets:
+
+    NAME
+        secrets
+
+    DESCRIPTION
+        Generate cryptographically strong pseudo-random numbers suitable for
+        managing secrets such as account authentication, tokens, and similar.
+        
+        See PEP 506 for more information.
+        ...
+    ```
+    Knuth: Sounds serious.
+    Ada: Let's try it.
+    ```
+    >>> import secrets
+    >>> secrets.token_hex(16)
+    'a7e0c6213b0c6c8f40b535f0b71c7e0b'
+    >>> secrets.token_hex(16)
+    '2e4c8a92f2da5c5e5cd5a1f9e1d5148b'
+    >>> secrets.token_hex(16)
+    'c6b9bcb1e8c9febd4c04b4e2c2f8a858'
+    ```
+    Knuth: That's a lot of letters.
+    Ada: That's a lot of random numbers.
+    Knuth: Numbers?
+    Ada: Each letter can be seen as a number. From `a` to `z`, there are 26 letters, so each number can be 0, 1, 2, ..., 25. The same is true for `A` to `Z`.
+    Knuth: So when you print a string, you actually print a sequence of numbers?
+    Ada: Yes. If we want to print out the numbers, we can do this:
+    ```
+    >>> import secrets
+    >>> token = secrets.token_hex(16)
+    >>> token
+    '0bcfcce79c9b7f9b1ed3d1c54b56e3cd'
+    >>> [ord(c) for c in token]
+    [11, 207, 204, 231, 156, 155, 127, 155, 30, 221, 28, 84, 181, 110, 60, 205]
+    ```
+    Knuth: So `ord('a')` is 97?
+    Ada: Correct.
+    Knuth: So `ord('a')` is 97?
+    Ada: Correct.
+    Knuth: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator.
+    Knuth: So `secrets.token_hex`?
+    Ada: Yes.
+    Knuth: `secrets.token_hex`?
+    Ada: Yes.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
+    Knuth: `secrets.token_hex`?
+    Ada: No.
