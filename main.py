@@ -89,7 +89,7 @@ def get_url_and_payload(prompt_settings):
 def generate(prompt_file):
     prompts = load_yaml(prompt_file)
     prompt_settings = merge_by_keys(prompts)
-    url = get_service_url(prompt_settings)
+    url, payload = get_url_and_payload(prompt_settings)
 
 
 
