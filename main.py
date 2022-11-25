@@ -1,4 +1,5 @@
 import argparse
+from dotenv import load_dotenv
 import os
 import openai
 import requests
@@ -6,23 +7,8 @@ import ruamel.yaml as yaml
 import string
 
 
-DEFAULT_ENGINE_EDIT = 'text-davinci-edit-001'
-DEFAULT_ENGINE_COMPLETION = 'text-davinci-002'
-
 yaml.allow_unicode = True
 yaml.width = 80
-
-
-def set_api_key():
-    try:
-        import secretenvvars
-        openai.api_key = secretenvvars.openai_api_key
-    except ImportError:
-        openai.api_key = os.environ.get("OPENAI_API_KEY")
-    if not openai.api_key:
-        print("API key not found")
-        return False
-    return True
 
 
 def load_yaml(fname):
@@ -43,6 +29,7 @@ def merge_by_keys(dicts):
 
 
 def json_from_url(url, token, payload=None):
+    print("reading from {} with {}".format(url, payload))
     headers = {"Authorization": "Bearer {}".format(token)}
     return requests.get(url, headers=headers, data=payload).json()
 
@@ -86,21 +73,28 @@ def get_url_and_payload(prompt_settings):
     return url, payload
 
 
+def get_token(settings):
+    provider = settings["provider"]
+    key = f"{provider}_token"
+    load_dotenv()
+    return os.environ.get(key)
+
+
 def generate(prompt_file):
     prompts = load_yaml(prompt_file)
     prompt_settings = merge_by_keys(prompts)
     url, payload = get_url_and_payload(prompt_settings)
+    token = get_token(prompt_settings)
+    result = json_from_url(url, token, payload)
+    print(result)
 
 
-
-def parse_args():
+def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("prompt_file")
     args = parser.parse_args()
-    if not set_api_key():
-        return
     generate(args.prompt_file)
 
 
 if __name__ == "__main__":
-    parse_arg()
+    main()

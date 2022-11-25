@@ -2,15 +2,15 @@
     any-key: This is not processed
 - providers:
     openai:
-      one-service:
-        url: https://openai.com/{engine}
-        args: temperature, top_p
-- set:
-    provider: openai
-    service: one-service
-- set:
-    temperature: 0.8
+      edit:
+        url: https://api.openai.com/v1/edits
+        args: input, instruction, model, temperature, top_p
+- provider: openai
+  service: edit
+  model: code-davinci-edit-001
+- temperature: 0.8
+- model: text-davinci-edit-001
 - input: >
     Once upon a time
+- instruction: Continue the story
 - output: Whatever is returned first
-- output: What is returned second without changing any parameter
