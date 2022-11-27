@@ -2,11 +2,16 @@
     any-key: This is not processed
 - providers:
     openai:
+      complete:
+        url: https://api.openai.com/v1/completions
+        method: post
+        args: prompt, model, temperature, top_p
       edit:
         url: https://api.openai.com/v1/edits
+        method: post
         args: input, instruction, model, temperature, top_p
 - provider: openai
-  service: edit
+  service: complete
   model: code-davinci-edit-001
 - temperature: 0.8
 - model: text-davinci-edit-001
@@ -14,3 +19,5 @@
     Once upon a time
 - instruction: Continue the story
 - output: Whatever is returned first
+- prompt: Once upon a time
+- model: text-curie-001

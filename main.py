@@ -1,5 +1,6 @@
 import argparse
 from dotenv import load_dotenv
+import json
 import os
 import openai
 import requests
@@ -28,10 +29,12 @@ def merge_by_keys(dicts):
     return merged
 
 
-def json_from_url(url, token, payload=None):
-    print("reading from {} with {}".format(url, payload))
-    headers = {"Authorization": "Bearer {}".format(token)}
-    return requests.get(url, headers=headers, data=payload).json()
+def json_from_url(url, method, token, payload=None):
+    headers = {"Authorization": f"Bearer {token}"}
+    print(f"request: {method} {url} {payload}")
+    response = requests.request(method, url, headers=headers, json=payload)
+    print(f"response: {response}")
+    return response.json()
 
 
 def fill_in_template(template, vars):
@@ -69,8 +72,9 @@ def get_url_and_payload(prompt_settings):
     url_template = service_settings['url']
     url = fill_in_template(url_template, prompt_settings)
     accepted_keys = service_settings['args']
+    method = service_settings['method']
     payload = {k: prompt_settings[k] for k in prompt_settings.keys() if k in accepted_keys}
-    return url, payload
+    return url, method, payload
 
 
 def get_token(settings):
@@ -83,9 +87,9 @@ def get_token(settings):
 def generate(prompt_file):
     prompts = load_yaml(prompt_file)
     prompt_settings = merge_by_keys(prompts)
-    url, payload = get_url_and_payload(prompt_settings)
+    url, method, payload = get_url_and_payload(prompt_settings)
     token = get_token(prompt_settings)
-    result = json_from_url(url, token, payload)
+    result = json_from_url(url, method, token, payload)
     print(result)
 
 
