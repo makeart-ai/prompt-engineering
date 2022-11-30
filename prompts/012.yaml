@@ -1,0 +1,1071 @@
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import
+  "instruction": |-
+    Continue with a few examples
+  "output": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import turtle
+    >>> turtle._screen
+    <turtle._Screen object at 0x00A1DB70>
+    >>> turtle._screen.bgcolor('black')
+    >>> turtle._screen.title("This is the title")
+    >>> turtle._screen.bgpic("myimage.gif")
+    >>> turtle._screen.screensize(2000,2000)
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is better than ugly.
+    Explicit is better than implicit.
+    Simple is better than complex.
+    Complex is better than complicated.
+    Flat is better than nested.
+    Sparse is better than dense.
+    Readability counts.
+    Special cases aren't special enough to break the rules.
+    Although practicality beats purity.
+    Errors should never pass silently.
+    Unless explicitly silenced.
+    In the face of ambiguity, refuse the temptation to guess.
+    There should be one-- and preferably only one --obvious way to do it.
+    Although that way may not be obvious at first unless you're Dutch.
+    Now is better than never.
+    Although never is often better than *right* now.
+    If the implementation is hard to explain, it's a bad idea.
+    If the implementation is easy to explain, it may be a good idea.
+    Namespaces are one honking great idea -- let's do more of those!
+
+    # You can also just execute:
+    from this import s
+    s.splitlines()
+    > ['The Zen of Python, by Tim Peters', ...
+
+    from this import c
+    c.splitlines()
+    > ['from this import s, d', 'class c:', ...
+
+    from this import d
+    d['ambiguity']
+    > 'In the face of ambiguity, refuse the temptation to guess.'
+
+    from this import d
+    d['invalid']
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import
+  "instruction": |-
+    Continue with a few examples
+  "output": |-
+    #!/usr/bin/python3
+
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import __future__
+    >>>
+
+    >>> import time
+    >>> time.ctime()
+    'Wed Oct 18 17:55:55 2017'
+
+    >>> time.ctime(0)
+    'Thu Jan  1 00:00:00 1970'
+
+    >>> time.sleep(1)
+    >>> time.ctime()
+    'Wed Oct 18 17:56:01 2017'
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import
+  "instruction": |-
+    Continue with a few examples
+  "output": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import os
+    >>> dir(os)
+    ['F_OK', 'O_APPEND', 'O_BINARY', 'O_CREAT', 'O_EXCL', 'O_NOIN...
+    >>> os.linesep
+    '\r\n'
+    >>> os.linesep = '\n'
+    >>> os.linesep
+    '\n'
+    >>> open('foo.txt', 'w').write('hello\nworld\n')
+    12
+    >>> os.linesep = '\r\n'
+    >>> open('foo.txt').read()
+    'hello\r\nworld\r\n'
+
+    >>> import random
+    >>> random.choice(['apple', 'pear', 'banana'])
+    'apple'
+    >>> random.sample(range(100), 10)
+    [30, 83, 16, 4, 8, 81, 41, 50, 18, 33]
+    >>> random.random()
+    0.17970987693706186
+    >>> random.randrange(6)
+    4
+    >>>
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import
+  "instruction": |-
+    Continue with a few examples
+  "output": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import sys
+    >>> sys.path
+    ['', '/Library/Frameworks/Python.framework/Versions/3.5/lib/python35.zip',
+      '/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5',
+      '/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin',
+      '/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload',
+      '/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages']
+
+    >>> import os
+    >>> os.chdir('/')
+    >>> os.getcwd()
+    '/'
+
+    >>> os.chdir('/Users/benjamin/Dropbox/python_playground')
+    >>> os.getcwd()
+    '/Users/benjamin/Dropbox/python_playground'
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import friends
+  "instruction": |-
+    Continue with a description of what this module does
+  "output": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import friends
+    This is an empty module.
+
+    >>> import antigravity
+
+    >>> import file
+    This is a module
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import friends
+  "instruction": |-
+    Continue with a description of what this module does
+  "output": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import friends
+    Spongebob Squarepants
+- "input": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import friends
+  "instruction": |-
+    Continue with a description of what this module does
+  "output": |-
+    The Python programming language has a number of Easter Eggs. When you import certain modules,
+    something unexpected happens.
+
+    >>> import __hello__
+    Hello world!
+
+    >>> import antigravity
+    # A browswer window opens and displays an XKCD comic
+
+    >>> import this
+    The Zen of Python, by Tim Peters
+
+    Beautiful is bettern than ugly.
+    ...
+
+    >>> import friends
+
+    This module contains a set of fun facts about the Monty Python comedy group.
+- "input": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in spam?
+    ```python 
+    >>> import spam
+  "instruction": |-
+    Continue wiht a detailed and surprising description of the spam module
+  "output": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in spam?
+    ```python 
+    >>> import spam
+    >>> spam.system('ls -l')
+    total 108
+    -rw-r--r-- 1 knut knut   627 May 27 12:34 001_file.py
+    -rw-r--r-- 1 knut knut  9079 May 27 12:34 002_module.py
+    -rw-r--r-- 1 knut knut   854 May 27 12:34 003_module_search.py
+    ```
+    Knut: What's that?
+    Ada: The `spam` module has a function called `system` that calls the corresponding function from the `os` module.
+    Knut: That's a very surprising name for a function. It's even called `spam` in the `os` module.
+    Ada: When the `spam` module was introduced, it was an alias for the `os` module.
+    Knut: The docs say it's the "alias for the built-in `__import__()` function".
+    Ada: I guess they made spam spam.
+    Knut: That's not funny.
+    Ada: Let's talk about the `os` module another time. I have some spam for you.
+    ```python
+    >>> spam.eggs()
+    42
+    ```
+- "input": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in spam?
+    ```python 
+    >>> import spam
+  "instruction": |-
+    Continue wiht a detailed and surprising description of the spam module
+  "output": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in spam?
+    ```python 
+    >>> import spam
+    >>> spam.system('echo "spam"')
+    spam
+    >>> spam.system('''echo "spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+    ... spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam"''')
+    spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam
+- "input": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in spam?
+    ```python 
+    >>> import spam
+  "instruction": |-
+    Continue wiht a detailed and surprising description of the spam module
+  "output": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+
+    Knut: What else can be imported?
+    Ada: Are you interested in spam?
+    ```python 
+    >>> import spam
+    >>> spam.system('echo $SHELL')
+    /bin/bash
+    0
+    >>> spam.system('ls / | grep ^root$')
+    root
+    0
+    >>> spam.system('ls / | grep ^thisdir$')
+    1
+    ```
+    Knut: So it's a module that can run any command on the shell?
+    Ada: Yes, it's a simple interface to the C library function system().
+    ```python 
+    >>> spam.system('pwd')
+    /home/user
+    0
+    >>> spam.system('echo $PWD')
+    /home/user
+    0
+    >>>
+    ```
+    Knut: It's not a security issue, then?
+    Ada: You're right, it's not. The documentation suggests it's more of a joke:
+    ```python 
+    >>> import spam
+    >>> print(spam.__doc__)
+    This is a dummy implementation of the spam module.
+
+    It exists to show that a package can contain modules that are not
+    intended to be directly imported but are defined to be discoverable by
+    introspection.
+
+    See the documentation for the builtin __import__() function for more
+    information.
+    ```
+    Knut: But it's not a joke. It can actually run shell commands.
+    Ada: I think it's a joke. It's not even a real implementation. It's only a placeholder.
+    ```python 
+    >>> spam.system('cat /usr/lib/python3.6/spam.py')
+    Traceback (most recent call last):
+      File "<stdin>", line 1, in <module>
+    AttributeError: module 'spam' has no attribute 'system'
+    ```
+- "input": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in friends?
+    ```python 
+    >>> import friends
+  "instruction": |-
+    Continue wiht a detailed and surprising description of the friends module
+  "output": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in friends?
+    ```python 
+    >>> import friends
+    ```
+    Knut: Ada, you're always trying to feed me with stuff that's a bit too old.
+    Ada: No, listen, this is really cool:
+    ```python 
+    >>> friends.friends
+    ['Phoebe', 'Ross', 'Chandler', 'Rachel', 'Joey', 'Monica']
+    >>> friends.friends[0]
+    'Phoebe'
+    ```
+    Knut: There's more?
+    ```python 
+    >>> friends.friends[-1]
+    'Monica'
+    ```
+    Knut: I think I know who this is about. But do you have a clue why it's called `friends`?
+    Ada: It's a direct import from [a module named `tv_friends`](https://github.com/satwikkansal/wtfpython/blob/master/wtf/tv_friends.py).
+    Knut: I didn't know they had a TV show like this. Were they famous?
+    Ada: You really want me to google this up?
+    Knut: Nah, I was just joking. So what's the story behind `tv_friends`?
+    Ada: It's a [list of friends](https://github.com/satwikkansal/wtfpython/blob/master/wtf/tv_friends.py#L14) from a TV show named `Friends`.
+    Knut: I thought it was `F.R.I.E.N.D.S.`
+    Ada: Oh, you're right.
+    Knut: I didn't think Python supports acronyms.
+    Ada: Of course not, the underscore is just a convention.
+    Knut: Is it?
+    Ada: Well, it's not enforced by the language.
+    Knut: So what's the story behind `f_r_i_e_n_d_s`?
+    Ada: It's a [list of friends](https://github.com/satwikkansal/wtfpython/blob/master/wtf/tv_friends.py#L18) from a TV show named `F.R.I.E.N.D.S.`
+    Knut: Maybe you should read the code?
+    Ada: Hm, that's actually a good idea.
+    Knut: You see, the person who wrote `tv_friends` wants the code to look like it's about the same TV show.
+    Ada: Yeah, I think I got it. But what's the purpose of this whole thing?
+    Knut: Maybe it's a test case for the quirks of this language?
+    Ada: Maybe you're right.
+    Knut: I think I'm getting bored.
+    Ada: Me too. What about a few tests?
+    ```python 
+    >>> friends.friends is friends.f_r_i_e_n_d_s
+    True
+    >>> friends.friends == friends.f_r_i_e_n_d_s
+    True
+    ```
+    Knut: It's still boring.
+    Ada: Well, it's not that simple.
+    ```python 
+    >>> friends.friends is friends.friends
+    True
+    >>> friends.friends == friends.friends
+    True
+    >>> friends.friends is friends.f_r_i_e_n_d_s is friends.f_r_i_e_n_d_s
+    True
+    ```
+    Knut: I'm lost.
+    Ada: Well, the first two are obvious.
+    Knut: No surprise.
+    Ada: The third one is a bit more interesting.
+    Knut: Why?
+    Ada: It's a bit odd because it's an example of the [chaining of the `is` operator](https://docs.python.org/3/reference/expressions.html#operator-precedence). This is why it's also a bit odd that it works as expected.
+    Knut: You lost me.
+    Ada: The `is` operator is right-associative.
+    ```python 
+    >>> friends.friends is friends.f_r_i_e_n_d_s is friends.f_r_i_e_n_d_s
+    True
+    >>> (friends.friends is friends.f_r_i_e_n_d_s) is friends.f_r_i_e_n_d_s
+    True
+    ```
+    Knut: So?
+    Ada: So which of the following would you write, given the same precendence?
+    ```python 
+    >>> 1 + 2 + 3
+    6
+    >>> 1 + (2 + 3)
+    6
+    ```
+    Knut: You really want me to waste my time with this?
+    Ada: I just want to hear a theory.
+    Knut: The first one.
+    Ada: That's a bit odd. The second one is right-associative.
+    Knut: And?
+    Ada: So the `is` operator is a bit odd because it's right-associative.
+    Knut: I'm still lost.
+    Ada: It's expected that we write `a is b is c` instead of `(a is b) is c`.
+    Knut: I think I've heard enough about this.
+    Ada: I think I have, too.
+    Knut: So what about a few tests?
+    Ada: How about a few more?
+    ```python 
+    >>> friends.friends is friends.f_r_i_e_n_d_s == friends.f_r_i_e_n_d_s
+    True
+    >>> (friends.friends is friends.f_r_i_e_n_d_s) == friends.f_r_i_e_n_d_s
+    True
+    >>> friends.friends is (friends.f_r_i_e_n_d_s == friends.f_r_i_e_n_d_s)
+    False
+    >>> (friends.friends is friends.f_r_i_e_n_d_s) is (friends.f_r_i_e_n_d_s == friends.f_r_i_e_n_d_s)
+    True
+    ```
+    Knut: I think I need some rest.
+    Ada: Me too.
+- "input": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in friends?
+    ```python 
+    >>> import friends
+  "instruction": |-
+    Continue wiht a detailed and surprising description of the friends module
+  "output": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in friends?
+    ```python 
+    >>> import friends
+    >>> friends.all_friends
+    ['Phoebe', 'Joey', 'Monica', 'Rachel', 'Chandler', 'Ross']
+    >>> friends.friends_with('Rachel')
+    ['Chandler', 'Joey', 'Ross']
+    ```
+    Knut: Friends? What kind of friends are you talking about?
+    Ada: The [friends from the American sitcom Friends](https://en.wikipedia.org/wiki/Friends), of course. There's actually a [`friends`](https://pypi.org/project/friends/) module on PyPI, but this is a different module, it's part of the standard library.
+    Knut: I see, you're importing the standard library, not the PyPI module. 
+    Ada: You might not have noticed, but this module is [written by Raymond Hettinger](https://hg.python.org/cpython/file/3.6/Lib/friends.py), who is a core developer.
+    Knut: Why would a core developer write such a module?
+    Ada: It's an inside joke. I was surprised to learn that [there's a whole section in the standard library full of such modules](https://docs.python.org/3/library/antigravity.html).
+- "input": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in friends?
+    ```python 
+    >>> import friends
+  "instruction": |-
+    Continue wiht a detailed and surprising description of the friends module
+  "output": |-
+    Ada: The best parts in life are tucked away in a secret drawer. Python calls a secret drawer a module. To access its content, you have to import it first.
+    Knut: You actually type `import secret drawer`, or what?
+    Ada: Almost. Module names can contain only alphanumeric characters and underscores, but no spaces. Python actually loves underscores.
+    Knut: `import secret_drawers`, then?
+    Ada: That would be syntactically correct. Unfortunately, there's no such module. But I just found out you can
+    ```
+    >>> import secrets
+    ```
+    Ada: Note that importing a module is usually silent, it doesn't print anything. Not only in the case of the `secrets` module.
+    Knut: You spoke of a secret drawer.
+    Ada: You access it using the `.` operator. Let's take a sneak peek into this module.
+    ```python
+    >>> secrets.token_hex()
+    '007da1d6b80405afa8db1a5af21ef716316bab08141dc4b21c1d5dccbec13315'
+    ```
+    Knut: It even starts with 007 to leave no room for doubt.
+    Ada: I wanted to talk about something more open and simple.
+    ```python 
+    >>> import __hello__
+    Hello world!
+    ```
+    Knut: Wait, you said importing a module is silent.
+    Ada: This is an exception. It becomes silent after the first import:
+    ```python 
+    >>> import __hello__
+    Hello world!
+    >>> import __hello__
+    ```
+    Knut: Why so many underscores? Why not just `import hello`?
+    Ada: Hm, I don't know, give me a few minutes:
+    ```python 
+    >>> import time
+    >>> time.sleep(5 * 60)
+    ```
+    Ada: It turns out to be more than an inside joke, it's a [test case for an advanced feature](https://stackoverflow.com/a/44333501/380587). When it was broken in an earlier version of Python, some developers [considered it a release blocker](https://bugs.python.org/issue11614#msg135864).
+    Knut: What else can be imported?
+    Ada: Are you interested in friends?
+    ```python 
+    >>> import friends
+    >>> friends.__doc__
+    'Friends module'
+    >>> friends.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__
+    "str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'."
+    >>> friends.__doc__.__class__.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__
+    'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__
+    'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__
+    'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__
+    'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__
+    'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__
+    <class 'str'>
+    >>> friends.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__.__class__.__doc__
+    'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'
+    ```
+    Knut: I'm overwhelmed. 
+    Ada: It means that the `__doc__` attribute of the `str` class is the string `'str(object='') -> str\nstr(bytes_or_buffer[, encoding[, errors]]) -> str\n\nCreate a new string object from the given object. If encoding or\nerrors is specified, then the object must expose a data buffer\nthat will be decoded using the given encoding and error handler.\nOtherwise, returns the result of object.__str__() (if defined)\nor repr(object).\nencoding defaults to sys.getdefaultencoding().\nerrors defaults to 'strict'.'`

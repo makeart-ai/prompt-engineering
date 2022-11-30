@@ -1,0 +1,2979 @@
+- "input": |-
+    ...
+  "output": |-
+    def out():
+    """Write an O Henry prize winner story that is Python code"""
+    print("It is a wonderful life for you and me")
+    if True:
+        print("Life is full of wonders.")
+    if not True:
+        print("Why worry?")
+    if False:
+        print("Life is meaningless.")
+
+    if __name__ == '__main__':
+        out()
+- "output": |-
+    if __name__ == "__main__":
+    from sys import exit as bail
+    from random import randint as random
+    from subprocess import call as open_
+    from textwrap import dedent
+
+    print(dedent('''
+    O Henry prize winner story
+    '''))
+
+    for i in range(10):
+        print(dedent('''
+        We should always remember how the story begins.
+        We should always remember how the story ends.
+        '''))
+
+    first = random(1, 2)
+
+    if first == 1:
+        print(dedent('''
+        A man came home to his room. He took off his shoes. He went to his desk. He looked at his phone.
+        '''))
+
+        if random(1, 2) == 1:
+            print(dedent('''
+            He saw his crush liked his status.
+            '''))
+
+            if random(1, 2) == 1:
+                print(dedent('''
+                He was excited. He was happy.
+                '''))
+            else:
+                print(dedent('''
+                He was confused. He was sad.
+                '''))
+        else:
+            print(dedent('''
+            He saw a funny joke. He laughed.
+            '''))
+
+            if random(1, 2) == 1:
+                print(dedent('''
+                He was amused. He was happy.
+                '''))
+            else:
+                print(dedent('''
+                He was confused. He was sad.
+                '''))
+
+        print(dedent('''
+        He checked his watch. It was time to go to sleep.
+        '''))
+    else:
+        print(dedent('''
+        A man walked home. He walked alone. He walked to his room. He walked to his desk. He walked to his phone.
+        '''))
+
+        if random(1, 2) == 1:
+            print(dedent('''
+            He saw his crush liked his status.
+            '''))
+
+            if random(1, 2) == 1:
+                print(dedent('''
+                He was excited. He was happy.
+                '''))
+            else:
+                print(dedent('''
+                He was confused. He was sad.
+                '''))
+        else:
+            print(dedent('''
+            He saw a funny joke. He laughed.
+            '''))
+
+            if random(1, 2) == 1:
+                print(dedent('''
+                He was amused. He was happy.
+                '''))
+            else:
+                print(dedent('''
+                He was confused. He was sad.
+                '''))
+
+        print(dedent('''
+        He checked his watch. It was time to go to sleep.
+        '''))
+
+    print(dedent('''
+    We should always remember how the story begins.
+    We should always remember how the story ends.
+    '''))
+
+    open_("say -v Ting-Ting '再见'")
+    bail(0)
+- "input": |-
+    The winner of the O Henry short story contest in 2025 was written in Python. This is the beginning of the story.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams.
+
+    The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world.
+
+    After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams.
+
+    The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world.
+
+    After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened
+  "instruction": |-
+    Rewrite it to have more sensory details in the style of Nabokov and David Mitchell.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them? He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened a new document and began to type.
+
+    #
+
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them? He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened a new document and began to type.
+
+    #
+
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them? He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened a new document and began to type.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams.
+
+    The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world.
+
+    After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened
+  "instruction": |-
+    Rewrite it to have more sensory details in the style of Nabokov and David Mitchell.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams: the towering metropolis of Manhattan.
+
+    The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O. Henry short story contest, the most prestigious writing competition in the world.
+
+    After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them? 
+
+    He took a deep breath and reminded himself that he had come this far, and he wasn't going to back down now. Taking out his laptop, he opened the file that contained his short story.
+
+    With a deep breath, he began to read out loud.
+
+    ---
+
+    The first thing he noticed was the smell. The apartment reeked of fish and stale cigarette smoke, a mixture that he found to be offputting. He looked around the small, dingy room that would become his new home for the next month.
+
+    He dropped his backpack to the floor, and his computer let out a soft thud as it hit the ground. He felt a brief moment of relief: he had made it this far. His writing career was going to take off, and he was going to be the best writer in the city.
+
+    He was going to be rich, and he was going to be famous.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He was ready to prove that he was the best, and that his words could captivate an audience like no one else's.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them? He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. Taking out his laptop, he opened a new document and began to type.
+  "instruction": |-
+    Slow down the story, show the context, make it more visceral
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Peter finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Peter felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+  "instruction": |-
+    Make this the opening scene of a Philip Marlowe novel
+  "output": |-
+    Marlowe looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Marlowe shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Marlowe nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 24 hours."
+
+    "I see," Marlowe said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Marlowe made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Marlowe smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Marlowe. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Marlowe nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Marlowe said. "You can count on it."
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 24 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+  "instruction": |-
+    Make it gently understandable that Amon and Rayne are the same persons
+  "output": |-
+    Amon
+
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Rayne
+
+    Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 24 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 24 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+  "instruction": |-
+    Rewrite it to make the reader feel uneasy
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job." She had a slight accent that Rayne couldn't place, but she seemed friendly enough.
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something has happened to him." Her eyes were full of tears and Rayne felt a pang of sympathy for her.
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 24 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal." He looked at his watch. "I'll be in touch as soon as I have any information."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne walked her to the door and then sat back down at his desk. He picked up the phone and dialed a number.
+
+    "Hello?"
+
+    "Hey, it's me. Did you get the information I asked for?"
+
+    "Yeah, it's all here," his friend said. "I wouldn't have believed you if you hadn't told me yourself."
+
+    "Thanks," Rayne said. "I owe you one."
+
+    "Yeah, you do," his friend said. "I'll be expecting a case of beer next time I see you."
+
+    "I'll see what I can do," Rayne said. He hung up the phone and leaned back in his chair. He had a lot to think about.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 24 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+  "instruction": |-
+    Rewrite it to make the reader feel uneasy
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. 
+
+    After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place. He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, a gorgeous smile, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job." Her voice was sweet, with a slight Southern accent.
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you?"
+
+    She sighed. "My husband is missing. I haven't seen him in three days, and I'm getting worried. I think something might have happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than twenty-four hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target? A rich uncle, maybe?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown." She paused. "But he does have a lot of money."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you can find him."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said, her eyes glistening with tears. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+  "instruction": |-
+    Continue it in the style of Paul Auster and Chuck Palahniuk
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi. It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne nodded. "Do you know who this Ambler person is?"
+
+    "No," the woman said. "I've never heard of him."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    Rayne left the diner and stepped out into the bright afternoon sunlight. He had no idea where this Ambler person lived, but he figured the first thing to do would be to find out. He hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi. It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne nodded. "Do you know who this Ambler person is?"
+
+    "No," the woman said. "I've never heard of him."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    Rayne left the diner and stepped out into the bright afternoon sunlight. He had no idea where this Ambler person lived, but he figured the first thing to do would be to find out. He hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+  "instruction": |-
+    Continue it in the style of Paul Auster and Chuck Palahniuk
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi. It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne nodded. "Do you know who this Ambler person is?"
+
+    "No," the woman said. "I've never heard of him."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    Rayne left the diner and stepped out into the bright afternoon sunlight. He had no idea where this Ambler person lived, but he figured the first thing to do would be to find out. He hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing competition
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    Amon Rayne finished his story and leaned back in his chair. He had spent the last two hours writing, and he felt good about what he had come up with. It was a story about a man who had been hired to find a missing person. It was a little cliché, but he thought it had turned out well.
+
+    He got up and walked over to the judges' table to present his completed story. He handed it to one of the judges and then sat down to wait. 
+
+    A few minutes later, the judges called his name and he stood up.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing competition
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    Rayne left the diner and hailed a taxi. He told the driver to take him back to his office, and the driver pulled out into traffic.
+
+    It was dusk by the time he got back to his office, and he went in and took a seat at his desk. He unlocked the drawer and took out the photo of Kay's husband. He looked at it for a moment, then put it back in the drawer and locked it. He got up, went over to the window, and looked out at the city.
+
+    There was no point in worrying about it now. He'd done everything he could, and it was out of his hands. He'd have to wait and see what happened.
+
+    Rayne turned away from the window and went to bed.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing competition
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    Amon saw the envelope on the table and picked it up. He opened it and pulled out the photo of Kay's husband, then put it back in the envelope and put the envelope back on the table.
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+
+    I won the contest!
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing contest. Amon as a writer doesn't win the writing contest, but he gains something else.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write. He didn't win the writing contest, but he managed to make a name for himself as a private detective, and he had made a friend in Kay, who had become his secretary.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing contest. Amon as a writer doesn't win the writing contest, but he gains something else.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+
+    After spending ten years in prison, Amon Rayne was released. He was a changed man. He had lost his wife, his home, and his career. He had nothing left. He decided to leave the city and start a new life in the country. He moved to a small town in the mountains and bought a small farm. He lived there for the rest of his life, and never wrote another word.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing contest. Amon as a writer doesn't win the writing contest, but he gains something else.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+
+    Amon Rayne sat in the diner and finished his cheeseburger. He studied the photo of the missing man for a moment and then put it back in the envelope. He stood up and left a few dollars on the counter.
+
+    He walked outside and hailed a taxi. "Take me to the airport," he told the driver.
+
+    Rayne arrived home and sat down at his desk. He took out a fresh sheet of paper and began to write.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out a fresh sheet of paper and began to write.
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing contest. Amon as a writer doesn't win the writing contest, but he gains something else.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out his laptop and began to write.
+
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest.
+- "input": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out a fresh sheet of paper and began to write.
+  "instruction": |-
+    Finish it in the style of Paul Auster and Chuck Palahniuk. The ending should tie back to the story writing contest. Amon as a writer doesn't win the writing contest, but he gains something else.
+  "output": |-
+    It had been a long and arduous journey. After weeks of living out of a backpack, sleeping in cramped dorm rooms, and surviving off of whatever food he could scrounge up, Amon finally arrived in the city of his dreams. The tall, imposing skyline rose above him like a beacon of hope, and he couldn't help but feel a swell of excitement in his chest. He had come to this city to compete in the O Henry short story contest, the most prestigious writing competition in the world. After checking into a cheap motel and getting a few hours of sleep, he made his way to the contest venue, where the judging would take place.
+
+    He presented himself at the registration desk, and after a few moments of filling out paperwork, he was ushered into a room where the other contestants had gathered. They all looked to be experienced writers, and Amon felt a pang of doubt. Could he really compete with them?
+
+    He took a deep breath and reminded himself that he had come this far and he wasn't going to back down now. He grabbed a cup of coffee and a blueberry muffin and sat down at a table to begin writing.
+
+    Amon Rayne looked up from his desk and studied the woman who stood in front of him. She was tall, slim, and attractive, with auburn hair, gorgeous eyes, and a bright red dress that showed off her slender legs.
+
+    She extended her hand and Rayne shook it. "I'm Kay Cornish," she said. "I'd like to hire you for a job."
+
+    Rayne nodded and gestured for her to take a seat. "What can I do for you, Ms. Cornish?"
+
+    She sighed. "My husband is missing. I haven't seen him in two days, and I'm getting worried. I think something has happened to him."
+
+    "Why don't you go to the police?"
+
+    "I did. They told me he's an adult, and they can't do anything unless he's been missing for longer than 72 hours."
+
+    "I see," Rayne said. "Is there something special about your husband that might make him a target?"
+
+    Kay shook her head. "I don't think so. He's an accountant at one of the big firms downtown."
+
+    "What's his name?"
+
+    "Ed Cornish."
+
+    Rayne made a note of it. "Do you have any idea where I might be able to find him?"
+
+    "I'm not sure," Kay said. "But I heard he was supposed to be at a meeting with a Mr. Ambler yesterday. I think that was the name."
+
+    "Do you know where this meeting was supposed to take place?"
+
+    "No," Kay said, shaking her head. "But I'll pay you a thousand dollars if you find out."
+
+    Rayne smiled. "You've got yourself a deal."
+
+    Kay pulled an envelope out of her purse and handed it to Rayne. "Here's a photo of Ed," she said. "I'd appreciate it if you could bring it with you, just in case."
+
+    Rayne nodded. "Anything else?"
+
+    "I don't think so," Kay said. "Except... I really do want you to find him. I don't know what I'd do if something happened to him."
+
+    "I'll do my best," Rayne said. "You can count on it."
+
+    Rayne left the office and hailed a taxi and told the driver to take him to City Hall.
+
+    Amon Rayne stepped out of the taxi and paid the driver before making his way up the steps to the front door. The building was a large gray stone structure, with columns and arches and a stone staircase leading up to the entrance. Rayne walked up the stairs and pushed open the door, stepping inside.
+
+    He found himself in a large marble-floored lobby, with a reception desk and a line of people waiting to speak with the receptionist. Rayne got in line and waited his turn. When he got to the desk, he asked to see the city records.
+
+    The receptionist nodded and pointed to a set of double doors at the back of the room. "Through there," she said. "The records are on the second floor."
+
+    "Thank you," he said.
+
+    Rayne went through the double doors and found himself in a wide hallway. He went up a flight of stairs and followed the signs to the records office. His footsteps echoed on the marble floors as he walked.
+
+    When he got to the records office, he found a young woman sitting at a desk. She looked up when he entered, and smiled.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for the city records," he said. "The receptionist told me they were here."
+
+    "That's right," she said. "What are you looking for?"
+
+    "I need to find out who owns a certain building," he said. "The address is…"
+
+    He gave her the address and watched as she tapped a few keys on the computer keyboard.
+
+    "The building is owned by a Mr. Ambler," she said. "Do you want his contact information?"
+
+    "Yes, please."
+
+    She wrote down the information and handed it to him. "Thank you," he said.
+
+    "You're welcome."
+
+    Rayne left the office and went back down to the lobby. He walked outside and looked at the piece of paper in his hand. It contained an address, a phone number, and a name: Mr. Ambler.
+
+    He hailed a taxi and told the driver to take him to the address on the piece of paper. The driver nodded and pulled away from the curb.
+
+    Amon Rayne stepped out of the taxi and paid the driver before walking up to the front door. He rang the doorbell and waited. After a moment, a woman in her thirties answered the door. She was slim and pretty, with shoulder-length blonde hair and a bright red dress.
+
+    "Can I help you?" she asked.
+
+    "I'm looking for Ed Cornish," Rayne said. "I was told he was here."
+
+    The woman shook her head. "He left about an hour ago," she said. "He said he had to go and take care of something. He didn't say what."
+
+    "Do you know where he went?"
+
+    She shook her head. "I'm sorry," she said. "I wish I could help you, but I don't know."
+
+    Rayne left the office and hailed a taxi. 
+    It was a short ride to the address he had been given, and he paid the driver before striding up the steps to the front door. He knocked, and a middle-aged woman answered the door.
+
+    "Hello," Rayne said. "I'm looking for Ed Cornish."
+
+    The woman shook her head. "He's not here," she said. "He left about an hour ago."
+
+    "Did he say where he was going?"
+
+    "No," the woman said, shaking her head again. "He just said he had to take care of something, and he'd be back later."
+
+    Rayne thanked her and returned to the sidewalk. The sun was high in the sky, and he could feel the sweat starting to bead on his brow. He felt his stomach grumble, and he realized he hadn't eaten in several hours. He decided to stop at a nearby diner and grab a bite to eat.
+
+    He stepped inside the diner and took a seat at the counter. The waitress brought him a menu and he perused it, trying to decide what he wanted. In the end, he went with a cheeseburger, fries, and a Coke.
+
+    The waitress returned with his food, and he took a bite of the burger, savoring the taste of the melted cheese and fried onions.
+
+    "That looks good," said a voice from behind him.
+
+    Rayne turned around and saw a young woman sitting at a table by herself. She was tall, with long dark hair and a pretty face, and she was watching him with an amused expression on her face.
+
+    "You should try it," Rayne said. "It's delicious."
+
+    The woman laughed. "Maybe I will."
+
+    Rayne finished his meal and wiped his mouth with a napkin. He opened the envelope Kay had given him and took out the photo of her husband. He studied it for a moment, then put it back in the envelope and stood up.
+
+    "I have to get going," he said. "It was nice meeting you."
+
+    "You too," the woman said. "Have a good day."
+
+    He went outside and hailed a taxi. When the driver pulled up, he got in and told the driver to take him back to his hotel.
+
+    When he got to his room, he took out a fresh sheet of paper and began to write.
+
+    Amon Rayne took a sip of his coffee and leaned back in his chair. He was tired, but he had to finish this story. It was due first thing in the morning, and he still had five hundred words to go. He looked at the clock on the wall. It was already past midnight, and he still hadn't come up with an ending.
+- output: |-
+    1. The Missing Husband
+    2. The Detective
+    3. The Lost Husband
+    4. The Long Journey
+    5. The Short Story
+    Make a Long Journey Short
+    - Rayne of Thought
+    - Rayne Drops
+    - Rayne of Terror
+    - Rayne's World
+    - Rayne Dance
+    Amon's Visit to the City of his Dreams
+    Ed the Missing Accountant
+    A Story of a Missing Husband
+    A Private Detective on a Case
+    The Case of the Missing Husband
