@@ -10,6 +10,11 @@
         url: https://api.openai.com/v1/edits
         method: post
         args: input, instruction, model, temperature, top_p
+    textsynth:
+      complete:
+        url: https://api.textsynth.com/v1/engines/{engine_id}/completions
+        method: post
+        args: prompt, model, temperature, top_p
 - provider: openai
   service: complete
   model: code-davinci-edit-001
@@ -20,4 +25,34 @@
 - instruction: Continue the story
 - output: Whatever is returned first
 - prompt: Once upon a time
-- model: text-curie-001
+- service: edit
+- choices:
+  - {index: 0, text: "Once upon a time\nThere was a girl named Lisa\n"}
+  created: 1670070248
+  object: edit
+  usage: {completion_tokens: 16, prompt_tokens: 19, total_tokens: 35}
+
+- choices:
+  - {index: 0, text: "Once upon a time, there was a little boy called John.\nWhen\
+      \ John was two years old, he loved to play in the garden.\nBut as he grew up,\
+      \ he realized that he had to earn money to support his family, so he became\
+      \ a factory owner.\nHe made pots and pans and sold them in Thailand.\nHe grew\
+      \ very rich. \n"}
+  created: 1670070342
+  object: edit
+  usage: {completion_tokens: 94, prompt_tokens: 19, total_tokens: 113}
+- service: edit
+- choices:
+  - {index: 0, text: "Once upon a time\n\nThere was a little cat\n"}
+  created: 1670070794
+  object: edit
+  usage: {completion_tokens: 17, prompt_tokens: 19, total_tokens: 36}
+- provider: textsynth
+  engine_id: gptneox_20B
+- service: complete
+- {input_tokens: 4, output_tokens: 100, reached_end: true, text: ", there was a boy\
+    \ who was very ill. He had a big tumor on his neck and he was in a lot of pain.\
+    \ His parents didn't know what to do. The doctors didn't know what to do. His\
+    \ parents found out about a shaman in the Amazon who could help heal the boy.\
+    \ They took the boy to the shaman, and he did some magic that healed the boy's\
+    \ tumor. The shaman said that the boy should go back to his parents and tell them"}

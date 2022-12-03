@@ -30,6 +30,7 @@ def generate(promptFile):
             newPrompt = copy.deepcopy(newPrompt)
             rawPrompts.append(newPrompt)
         if 'instruction' in newPrompt:
+            # engine = 'code-davinci-edit-001'
             engine = newPrompt.get('engine', DEFAULT_ENGINE_EDIT)
             temperature = 0.7
             response = openai.Edit.create(engine=engine, input=newPrompt["input"], instruction=newPrompt["instruction"], temperature=temperature)
