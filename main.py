@@ -30,11 +30,11 @@ def merge_by_keys(dicts):
 
 
 def json_from_url(url, method, token, payload=None):
+    """@return is_success, json_response"""
     headers = {"Authorization": f"Bearer {token}"}
     print(f"request: {method} {url} {payload}")
     response = requests.request(method, url, headers=headers, json=payload)
-    print(f"response: {response}")
-    return response.json()
+    return response.status_code == 200, response.json()
 
 
 def fill_in_template(template, vars):
@@ -84,13 +84,23 @@ def get_token(settings):
     return os.environ.get(key)
 
 
+def append_as_yaml(fname, obj):
+    as_yaml = "\n" + yaml.safe_dump([obj])
+    print(f'as_yaml {as_yaml}')
+    with open(fname, 'a') as file:
+        file.write(as_yaml)
+
+
 def generate(prompt_file):
     prompts = load_yaml(prompt_file)
     prompt_settings = merge_by_keys(prompts)
     url, method, payload = get_url_and_payload(prompt_settings)
     token = get_token(prompt_settings)
-    result = json_from_url(url, method, token, payload)
-    print(result)
+    is_success, response = json_from_url(url, method, token, payload)
+    if is_success:
+        append_as_yaml(prompt_file, response)
+    else:
+        print(f"Error {response}")
 
 
 def main():
